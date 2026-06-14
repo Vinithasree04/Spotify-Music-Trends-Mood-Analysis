@@ -1,0 +1,709 @@
+Track Name,Album_Name,Song_Type,Artist Name(s),Language,Release Year,Mood,Genre_category,Duration (mins),Popularity,Stream Category,Record Label,Danceability,Energy,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo
+Hellallallo ,Peddi,Movie,A.R. Rahman;Rakshita Suresh;Anantha Sreeram,Telugu,2026,Energetic,Dance,3.8,69,Medium,T-Series,0.779,0.695,-6.045,0.046,0.0293,0.00000111,0.0629,0.507,124.963
+Rara Dheevara ,Swayambhu,Movie,Santhosh Venky;Ravi Basrur;Ramajogayya Sastry,Telugu,2026,Energetic,Dance,3.79,56,Medium,Times Music,0.622,0.958,-4.997,0.0858,0.0218,0.000557,0.632,0.347,129.986
+Yetta Yetta ,Lenin,Movie,Thaman S;Sri Krishna;Bhaskarabhatla,Telugu,2026,Energetic,Dance,3.39,57,Medium,T-Series,0.571,0.886,-3.25,0.227,0.587,0.00000157,0.0499,0.928,172.272
+Kamsahamnida ,Korean Kanakaraju,Movie,Sid Sriram;Thaman S;Kasarla Shyam,Telugu,2026,Happy,Pop,3.22,57,Medium,T-Series,0.862,0.674,-4.483,0.197,0.497,0.000412,0.257,0.728,115.008
+Chamiki ,Youth - Telugu,Movie,G. V. Prakash;Ken Karunaas;Bhaskarabhatla,Telugu,2026,Energetic,Dance,2.86,72,Medium,GV Prakash,0.86,0.528,-8.627,0.19,0.699,0,0.0878,0.861,129.977
+Sancharame ,EPIC - First Semester,Movie,Hesham Abdul Wahab;Gorati Venkanna,Telugu,2026,Happy,Pop,3.14,59,Medium,Aditya Music (India) Pvt Ltd,0.596,0.761,-7.444,0.0529,0.196,0.0000411,0.611,0.72,90.124
+Rai Rai Raa Raa ,Peddi,Movie,A.R. Rahman;Anantha Sreeram,Telugu,2026,Energetic,Dance,4.43,70,Medium,T-Series,0.826,0.918,-4.875,0.0537,0.0379,0.0000299,0.106,0.822,128.016
+Endhayya Saami ,Ranabaali,Movie,Shweta Mohan;Ajay Gogavale;Ramajogayya Sastry;Ajay-Atul,Telugu,2026,Energetic,Dance,1.32,62,Medium,T-Series,0.737,0.325,-10.678,0.0399,0.854,0.000401,0.107,0.933,134.926
+Rubaroo ,Dacoit,Movie,Bheems Ceciroleo;Chinmayi;Bhaskarabhatla,Telugu,2026,Romantic,Soul,3.27,70,Medium,Sony Music Entertainment India Pvt. Ltd.,0.588,0.472,-8.711,0.0321,0.562,0.00000292,0.0973,0.361,119.96
+Aaya Sher ,The Paradise,Movie,Anirudh Ravichander;Jangi Reddy;Arjun Chandy;Kasarla Shyam,Telugu,2026,Energetic,Dance,4.78,79,High,Saregama India Ltd,0.707,0.956,-4.537,0.154,0.126,0.000686,0.263,0.33,133.022
+Aura of Ustaad ,Ustaad Bhagat Singh,Movie,Devi Sri Prasad;S.P. Abhishek;The Indian Choral Ensemble;Chandra Bose,Telugu,2026,Energetic,Dance,4.17,51,Medium,Sony Music Entertainment India Pvt. Ltd.,0.759,0.931,-8.12,0.13,0.255,0.00926,0.13,0.567,108.026
+Thippukuntannav ,Band Melam,Movie,Vijai Bulganin;Ramu Rathod;Aditi Bhavaraju;Chandra Bose,Telugu,2026,Happy,Pop,3.71,57,Medium,Aditya Music (India) Pvt Ltd,0.893,0.835,-6.532,0.0706,0.393,0.00371,0.108,0.839,129.972
+Nache Nache ,The RajaSaab,Movie,Thaman S;Nakash Aziz;Brinda;Farooq Qaiser;Raqueeb Alam;Usha Uthup,Telugu,2026,Happy,Pop,4.39,57,Medium,Saregama India Ltd,0.761,0.815,-4.662,0.0701,0.218,0.776,0.321,0.588,122.007
+Vaammo Vaayyo ,Bhartha Mahasayulaku Wignyapthi,Movie,Bheems Ceciroleo;Swathi Reddy UK;Dev Pawar,Telugu,2026,Happy,Pop,3.03,63,Medium,Saregama India Ltd,0.788,0.947,-6.504,0.0929,0.617,0.00604,0.0699,0.78,90.022
+Mega Victory Mass Song ,Mana ShankaraVaraPrasad Garu - Pandagaki Vasthunnaru,Movie,Bheems Ceciroleo;Nakash Aziz;Vishal Dadlani;Kasarla Shyam,Telugu,2025,Energetic,Dance,3.28,64,Medium,T-Series,0.699,0.87,-5.312,0.0809,0.349,0.00000455,0.359,0.702,145.983
+Dacoit Kannepettaro Mix ,Dacoit,Movie,Raj-Koti;Gyaani;S. P. Balasubrahmanyam;Bhuvana Chandra,Telugu,2025,Energetic,Dance,1.31,63,Medium,Aditya Music (India) Pvt Ltd,0.57,0.8,-6.824,0.0401,0.091,0.711,0.131,0.0404,99.942
+Sahana Sahana ,The Rajasaab,Movie,Thaman S;Vishal Mishra;Sruthi Ranjani;Krishna Kanth,Telugu,2025,Romantic,Soul,4.38,70,Medium,T-Series,0.807,0.828,-3.404,0.108,0.424,0.0000415,0.0786,0.762,98.999
+Dekhlenge Saala ,Ustaad Bhagat Singh,Movie,Devi Sri Prasad;Vishal Dadlani;Haripriya;Bhaskarabhatla,Telugu,2025,Energetic,Dance,4.03,61,Medium,Sony Music Entertainment India Pvt. Ltd.,0.877,0.742,-6.854,0.208,0.277,0.00623,0.264,0.86,98.004
+Addham Mundhu ,Bhartha Mahasayulaku Wignyapthi,Movie,Bheems Ceciroleo;Chandra Bose;Kapil Kapilan;Shreya Ghoshal,Telugu,2025,Energetic,Dance,3.85,48,Medium,Saregama India Ltd,0.725,0.761,-5.39,0.0978,0.832,0,0.0857,0.881,142.492
+Sallangundaale ,Champion,Movie,Mickey J. Meyer;Ritesh G Rao;Manisha Eerabathini;Chandra Bose,Telugu,2025,Energetic,Dance,5.46,39,Low,Sony Music Entertainment India Pvt. Ltd.,0.778,0.651,-9.572,0.104,0.701,0.0000106,0.118,0.844,109.99
+Sasirekha ,Mana ShankaraVaraprasad Garu - Pandagaki Vasthunnaru,Movie,Bheems Ceciroleo;Madhupriya;Anantha Sreeram,Telugu,2025,Happy,Pop,4.02,61,Medium,T-Series,0.767,0.675,-7.383,0.105,0.396,0.00000143,0.197,0.436,132.044
+Bella Bella ,Bhartha Mahasayulaku Wignyapthi,Movie,Bheems Ceciroleo;Nakash Aziz;Rohini Soratt;Suresh Gangula;Ravi Teja,Telugu,2025,Happy,Pop,3.64,52,Medium,Saregama India Ltd,0.926,0.881,-5.707,0.131,0.153,0,0.0295,0.819,120.073
+Bhimavaram Balma ,Anaganaga Oka Raju,Movie,Mickey J. Meyer;Naveen Polishetty;Nutana Mohan;Chandra Bose,Telugu,2025,Happy,Pop,2.8,62,Medium,Aditya Music (India) Pvt Ltd,0.721,0.897,-7.781,0.0602,0.188,0,0.765,0.815,82.504
+Gira Gira Gingiraagirey ,Champion,Movie,Mickey J. Meyer;Ram Miriyala;Kasarla Shyam,Telugu,2025,Energetic,Dance,4.72,71,Medium,Sony Music Entertainment India Pvt. Ltd.,0.707,0.743,-9.439,0.0705,0.76,0.0000575,0.0952,0.743,88.995
+Rebel Saab ,The Rajasaab,Movie,Thaman S;Sanjith Hegde;Blaaze;Ramajogayya Sastry,Telugu,2025,Energetic,Dance,3.68,67,Medium,T-Series,0.813,0.881,-3.207,0.175,0.541,0.000628,0.389,0.866,112.355
+GlobeTrotter ,Varanasi,Movie,M. M. Keeravaani;Shruti Haasan;Kala Bhairava;Chaitanya Prasad,Telugu,2025,Energetic,Dance,3.59,63,Medium,T-Series,0.546,0.851,-4.271,0.149,0.0513,0.00115,0.27,0.201,119.904
+Chikiri Chikiri ,Peddi,Movie,A.R. Rahman;Mohit Chauhan;Balaji,Telugu,2025,Happy,Pop,4.55,76,High,T-Series,0.809,0.754,-7.036,0.103,0.14,0.00000198,0.163,0.745,114.945
+Singaaraala Seethaakoka ,Parasakthi,Movie,G. V. Prakash;L. V. Revanth;Dhee;Bhaskarabhatla,Telugu,2025,Energetic,Dance,4.17,39,Low,Saregama India Ltd,0.675,0.669,-5.97,0.205,0.664,0,0.134,0.856,93.821
+Rambai Neemeeda Naku ,Raju Weds Rambai,Movie,Suresh Bobbili;Anurag Kulkarni;Jayasri Pallem;Mittapalli Surendar,Telugu,2025,Happy,Pop,3.41,63,Medium,Aditya Music (India) Pvt Ltd,0.548,0.67,-6.413,0.217,0.607,0,0.226,0.66,103.025
+Chinni Gundelo ,Andhra King Taluka,Movie,Vivek - Mervin;Mervin Solomon;Satya Yamini;Krishna Kanth,Telugu,2025,Romantic,Soul,2.9,70,Medium,T-Series,0.577,0.648,-7.42,0.0676,0.532,0.000262,0.0966,0.711,170.015
+Nee Gunde Lona ,Dude,Movie,Sai Abhyankkar;Jonita Gandhi;Ramajogayya Sastry,Telugu,2025,Calm,Acoustic,4.57,64,Medium,Think Music,0.338,0.364,-12.241,0.0503,0.64,0.0000306,0.137,0.352,173.697
+Singari  ,Dude,Movie,Sai Abhyankkar;Ramajogayya Sastry,Telugu,2025,Happy,Pop,3.47,69,Medium,Think Music,0.809,0.733,-6.307,0.107,0.161,0,0.223,0.815,119.964
+Meesaala Pilla ,Mana Shankaravaraprasad Garu - Pandagaki Vasthunnaru,Movie,Bheems Ceciroleo;Udit Narayan;Shweta Mohan;Bhaskarabhatla,Telugu,2025,Happy,Pop,3.78,66,Medium,T-Series,0.907,0.626,-6.999,0.0924,0.639,0.0000128,0.309,0.799,134.769
+Guns and Roses ,They Call Him OG,Movie,Thaman S;Harsha Darivemula,Telugu,2025,Energetic,Dance,4.22,63,Medium,Sony Music Entertainment India Pvt. Ltd.,0.679,0.964,-2.088,0.124,0.194,0.00495,0.297,0.492,93.021
+Boom Boom ,Dude,Movie,Sai Abhyankkar;Bhumi;Deepthi Suresh;Sanapati Bharadwaj Patrudu,Telugu,2025,Happy,Pop,4,69,Medium,Think Music,0.68,0.659,-8.234,0.0875,0.328,0,0.21,0.601,129.984
+Ningi Thaara,Madharaasi ,Movie,Anirudh Ravichander;Ravi G;Vivek,Telugu,2025,Energetic,Dance,3.92,73,Medium,Times Music,0.62,0.699,-6.65,0.0494,0.586,0.000108,0.151,0.591,79.368
+Suvvi Suvvi ,They Call Him OG,Movie,Thaman S;Sruthi Ranjani;Kalyan Chakravarthy Tripuraneni,Telugu,2025,Happy,Pop,4.59,63,Medium,Sony Music Entertainment India Pvt. Ltd.,0.612,0.501,-7.087,0.0286,0.875,0.0115,0.0886,0.494,117.003
+Powerhouse,Coolie ,Movie,Anirudh Ravichander;Arivu;Rambabu Gosala,Telugu,2025,Energetic,Dance,3.44,42,Medium,Sun Pictures,0.727,0.959,-4.442,0.12,0.0357,0.00000111,0.334,0.858,168.99
+Onam ,K-Ramp,Movie,Chaitan Bharadwaj;Sahithi Chaganti;Surendra Krishna,Telugu,2025,Happy,Pop,3.25,51,Medium,Aditya Music (India) Pvt Ltd,0.773,0.823,-7.236,0.0682,0.0104,0.00224,0.0986,0.364,137.983
+Firestorm ,They Call Him OG,Movie,Thaman S;Silambarasan TR;Raja Kumari;Deepak Blue,Telugu,2025,Energetic,Dance,4.01,67,Medium,Sony Music Entertainment India Pvt. Ltd.,0.641,0.969,-2.794,0.0746,0.462,0.000168,0.125,0.506,97.046
+Mallika Gandha ,Telusu Kada,Movie,Thaman S;Sid Sriram;Krishna Kanth,Telugu,2025,Romantic,Soul,4.35,64,Medium,Tips Music Limited,0.751,0.826,-3.381,0.0364,0.679,0.0000342,0.147,0.673,114.906
+Vibe Undi ,Mirai,Movie,GowraHari;Armaan Malik;Krishna Kanth,Telugu,2025,Happy,Pop,3.37,63,Medium,Tips Music Limited,0.866,0.9,-5.054,0.127,0.0234,0.0000961,0.0565,0.438,107.923
+Nuvvunte Chaley ,Andhra King Taluka,Movie,Vivek - Mervin;Anirudh Ravichander;Ram Pothineni,Telugu,2025,Happy,Pop,4,68,Medium,T-Series,0.336,0.633,-7.505,0.0514,0.488,0,0.163,0.263,90.03
+Anna Antene ,Kingdom,Movie,Anirudh Ravichander;Krishna Kanth,Telugu,2025,Energetic,Dance,4.27,47,Medium,Aditya Music (India) Pvt Ltd,0.455,0.455,-4.626,0.0284,0.504,0,0.0908,0.256,149.906
+Monica ,Coolie,Movie,Anirudh Ravichander;Sublahshini;Krishna Kanth,Telugu,2025,Happy,Pop,3.14,69,Medium,Sun Pictures,0.811,0.798,-4.037,0.214,0.0644,0.0000684,0.0526,0.586,140.257
+Viral Vayyari ,Junior,Movie,Devi Sri Prasad;Haripriya;Kalyan Chakravarthy,Telugu,2025,Happy,Pop,4.41,64,Medium,Aditya Music (India) Pvt Ltd,0.876,0.655,-7.119,0.197,0.117,0.00218,0.159,0.433,82.524
+Naa Koduka ,Kuberaa,Movie,Devi Sri Prasad;Sinduri Vishal,Telugu,2025,Energetic,Dance,4.33,49,Medium,Aditya Music (India) Pvt Ltd,0.879,0.318,-11.679,0.0598,0.478,0,0.0945,0.626,94.954
+Andhamaa Andhamaa,8 Vasantalu,Movie,Hesham Abdul Wahab;Aavani Malhar;Vanamali,Telugu,2025,Romantic,Soul,4.61,42,Medium,T-Series,0.482,0.705,-7.233,0.0685,0.668,0.000766,0.209,0.327,171.76
+Hridayam Lopala ,Kingdom,Movie,Anirudh Ravichander;Anumita Nadesan;Krishna Kanth,Telugu,2025,Romantic,Soul,3.67,55,Medium,Aditya Music,0.695,0.871,-6.081,0.0406,0.102,0.0503,0.0941,0.299,120.029
+Thanu ,Hit - 3,Movie,Mickey J. Meyer;Anirudh Ravichander;Raghav,Telugu,2025,Romantic,Soul,4.15,52,Medium,Saregama India Ltd,0.428,0.396,-8.083,0.0296,0.0393,0.0000174,0.126,0.373,167.659
+Poyiraa Mama ,Kuberaa,Movie,Devi Sri Prasad;Dhanush;Bhaskarabhatla,Telugu,2025,Energetic,Dance,4.05,51,Medium,Aditya Music,0.741,0.589,-7.395,0.151,0.231,0.00000525,0.155,0.455,77.509
+Tu Mera Lover ,Mass Jathara,Movie,Bheems Ceciroleo;Chakri;Bhaskarabhatla,Telugu,2025,Happy,Pop,3.96,49,Medium,Aditya Music,0.77,0.836,-2.852,0.0732,0.226,0,0.0749,0.613,133.986
+Golden Sparrow ,Jaabilamma Neeku Antha Kopama ,Movie,G. V. Prakash;Rambabu Gosala;Aswin Satya;Sudheesh Sasikumar;Sublahshini,Telugu,2025,Happy,Pop,3.84,51,Medium,Wunderbar Films,0.679,0.863,-6.262,0.195,0.361,0.000321,0.0823,0.759,112.482
+Yedhee ,Jaabilamma Neeku Antha Kopama ,Movie,G. V. Prakash;Rambabu Gosala;Amal C Ajith;Sruthy Sivadas,Telugu,2025,Happy,Pop,3.37,56,Medium,Wunderbar Films,0.379,0.606,-7.459,0.0513,0.251,0,0.567,0.379,203.34
+Prema Velluva ,Hit - 3,Movie,Mickey J. Meyer;Sid Sriram;Nutana Mohan;Krishna Kanth,Telugu,2025,Romantic,Soul,4.2,66,Medium,Saregama India Ltd,0.491,0.741,-8.448,0.0454,0.239,0,0.243,0.347,144.832
+Adhi Dha Surprisu ,Robinhood,Movie,G. V. Prakash;Neeti Mohan;Anurag Kulkarni,Telugu,2025,Happy,Pop,3.82,61,Medium,Sony Music Entertainment India Pvt. Ltd.,0.633,0.774,-5.803,0.266,0.131,0.00000457,0.233,0.582,112.417
+Premalo ,Court,Movie,Vijai Bulganin;Anurag Kulkarni;Sameera Bharadwaj;Purnachary,Telugu,2025,Romantic,Soul,5.52,67,Medium,Saregama India Ltd,0.616,0.704,-7.054,0.0581,0.424,0.00000204,0.116,0.704,140.861
+Shiva Shiva Shankaraa ,Kannappa,Movie,Vijay Prakash;Stephen Devassy;Ramajogayya Sastry,Telugu,2025,Energetic,Dance,5.7,50,Medium,T-Series,0.496,0.601,-7.15,0.0712,0.302,0.0000113,0.104,0.604,110.991
+Neevalle ,Tribanadhari Barbarik,Movie,Infusion Band;Sid Sriram;Raghu Ram,Telugu,2025,Happy,Pop,4.01,0,Low,Aditya Music,0.282,0.648,-6.232,0.115,0.166,0,0.201,0.459,179.621
+Hilesso Hilessa ,Thandel,Movie,Devi Sri Prasad;Nakash Aziz;Shreya Ghoshal;Sreemani,Telugu,2025,Romantic,Soul,3.49,59,Medium,Aditya Music,0.952,0.511,-9.419,0.0607,0.576,0.000227,0.0836,0.697,116.004
+Madhuvaramae ,Return of the Dragon,Movie,Leon James;Sarath Santosh;Srinisha Jayaseelan,Telugu,2025,Energetic,Dance,3.64,65,Medium,Think Music,0.64,0.877,-5.872,0.106,0.226,0.00000296,0.26,0.741,104.746
+NaaNaa Hyraanaa,Game Changer ,Movie,Thaman S;Karthik;Shreya Ghoshal;Saraswati Putra Ramajogayya Sastry,Telugu,2025,Energetic,Dance,4.55,58,Medium,Saregama India Ltd,0.744,0.62,-7.949,0.0366,0.743,0.00628,0.277,0.382,97.976
+Dabidi Dibidi ,Daaku Maharaaj,Movie,Thaman S;Kumara Vagdevi;Kasarla Shyam,Telugu,2025,Energetic,Dance,4.03,62,Medium,Aditya Music,0.81,0.818,-6.091,0.187,0.134,0.0000411,0.0536,0.571,140.04
+Swathi Reddy ,Mad Square,Movie,Bheems Ceciroleo;Swathi Reddy UK;Suresh Gangula,Telugu,2024,Happy,Pop,3.49,60,Medium,Aditya Music,0.802,0.917,-4.102,0.234,0.525,0.0000187,0.338,0.849,83.457
+Chinni ,Daaku Maharaaj,Movie,Thaman S;Vishal Mishra;Anantha Sriram,Telugu,2024,Romantic,Soul,3.68,40,Medium,Aditya Music,0.772,0.469,-8.557,0.0406,0.441,0.000194,0.0842,0.616,94.973
+Meenu ,Sankranthiki Vasthunam,Movie,Bheems Ceciroleo;Pranavi Acharya;Anantha Sreeram,Telugu,2024,Romantic,Soul,4.76,53,Medium,T-Series,0.812,0.765,-4.81,0.176,0.618,0.0000147,0.092,0.679,104.027
+Kissik ,Pushpa 2 The Rule [TELUGU],Movie,Sublahshini;Devi Sri Prasad;Chandra Bose,Telugu,2024,Energetic,Dance,4.13,55,Medium,T-Series,0.874,0.831,-6.341,0.114,0.321,0.292,0.0543,0.727,132.012
+Gango Renuka Thalli,Pushpa 2 The Rule [TELUGU],Movie,Mahalingam;Devi Sri Prasad;Chandra Bose,Telugu,2024,Energetic,Dance,3.47,51,Medium,T-Series,0.673,0.854,-10.147,0.111,0.639,0.00000335,0.185,0.557,108.145
+Godari Gattu Meedha ,Sankranthiki Vasthunam,Movie,Ramana Gogula;Madhupriya;Bheems Ceciroleo;Bhaskarabhatla,Telugu,2024,Happy,Pop,4.17,65,Medium,T-Series,0.883,0.803,-6.614,0.114,0.31,0.0000295,0.0662,0.864,139.98
+Peelings ,Pushpa 2 The Rule,Movie,Shankarr Babu Kandukoori;Laxmi Dasa;Devi Sri Prasad;Chandra Bose;Siju Thuravoor,Telugu,2024,Romantic,Soul,4.12,62,Medium,T-Series,0.808,0.777,-7.329,0.0743,0.38,0.000207,0.0732,0.903,137.929
+Bujji Thalli ,Thandel,Movie,Devi Sri Prasad;Javed Ali;Sreemani,Telugu,2024,Romantic,Soul,4.15,64,Medium,Aditya Music,0.436,0.604,-8.901,0.127,0.414,0.000146,0.254,0.676,155.777
+Nijamaa Kalaa ,Lucky Baskhar,Movie,G. V. Prakash;Sreemani;Krishna Tejasvi,Telugu,2024,Romantic,Soul,3.79,52,Medium,Aditya Music,0.557,0.417,-11.149,0.0485,0.587,0.0000108,0.149,0.119,160.038
+Dheema ,Love Insurance Kompany,Movie,Anirudh Ravichander;Vignesh Shivan,Telugu,2024,Romantic,Soul,3.92,67,Medium,Sony Music Entertainment India Pvt. Ltd.,0.271,0.502,-7.733,0.0334,0.375,0,0.108,0.194,98.092
+Hey Rangule ,Amaran,Movie,G. V. Prakash;Ramya Behara;Anurag Kulkarni;Ramajogayya Sastry,Telugu,2024,Energetic,Dance,3.83,63,Medium,Saregama India Ltd,0.682,0.588,-8.718,0.0474,0.324,0.00000983,0.412,0.466,106.037
+Nuvve Naku Lokam ,Janaka Ayithe Ganaka,Movie,Karthik;Vijai Bulganin;Krishna Kanth,Telugu,2024,Romantic,Soul,4.11,56,Medium,T-Series,0.72,0.526,-8.239,0.0396,0.773,0.0000662,0.144,0.674,119.942
+Daavudi ,Devara Part 1,Movie,Nakash Aziz;AKASA;Anirudh Ravichander,Telugu,2024,Energetic,Dance,3.82,64,Medium,T-Series,0.801,0.747,-7.035,0.251,0.0352,0.00278,0.0508,0.576,143.001
+Chuttamalle ,Devara Part 1,Movie,Shilpa Rao;Anirudh Ravichander;Ramajogayya Sastry,Telugu,2024,Romantic,Soul,3.7,74,Medium,T-Series,0.677,0.623,-7.404,0.0797,0.136,0.00000524,0.161,0.616,145.56
+Srimathi Garu ,Lucky Baskhar,Movie,G. V. Prakash;Vishal Mishra;Shweta Mohan;Sreemani,Telugu,2024,Romantic,Soul,3.71,59,Medium,Aditya Music,0.701,0.374,-12.864,0.0311,0.59,0,0.426,0.519,107.443
+Aa Rojulu Malli Raavu ,Committee Kurrollu,Movie,Karthik;Anudeep Dev;Krishna Kanth,Telugu,2024,Calm,Acoustic,4.22,48,Medium,T-Series,0.72,0.477,-7.751,0.0334,0.753,0,0.406,0.497,120.074
+Sooseki ,Pushpa 2 The Rule,Movie,Shreya Ghoshal;Devi Sri Prasad;Chandra Bose,Telugu,2024,Energetic,Dance,4.34,58,Medium,T-Series,0.785,0.709,-6.953,0.0808,0.221,0.00000328,0.144,0.818,95.04
+Madam Sir Madam Anthe ,Maruthi Nagar Subramanyam,Movie,Sid Sriram;Kalyan Nayak;Bhaskarabhatla,Telugu,2024,Happy,Pop,3.33,59,Medium,Lidhaa Music,0.734,0.827,-4.918,0.0781,0.63,0,0.242,0.652,94.97
+Cheli Kasiresthunna,Love Guru ,Movie,Barath Dhanasekar;Abhijith Anilkumar,Telugu,2024,Romantic,Soul,5.24,57,Medium,Think Music,0.511,0.576,-6.359,0.0309,0.421,0,0.169,0.438,155.973
+Anuvanuvuu,Om Bheem Bush,Movie,Sunny M.R.;Arijit Singh;Krishna Kanth,Telugu,2024,Happy,Pop,3.53,5,Low,Aditya Music,0.228,0.551,-8.947,0.0467,0.851,0.0000481,0.126,0.246,178.083
+Kalyani Vaccha Vacchaa ,The Family Star,Movie,Mangli;Karthik;Gopi Sundar,Telugu,2024,Romantic,Soul,3.35,50,Medium,T-Series,0.731,0.687,-7.931,0.0518,0.39,0.000131,0.139,0.527,107.162
+Nijame Ne Chebutunna,Ooru Peru Bhairavakona,Movie,Shekar Chandra;Sid Sriram;Sreemani,Telugu,2024,Romantic,Soul,3.58,2,Low,Aditya Music,0.706,0.508,-9.322,0.0319,0.654,0.000014,0.237,0.491,99.013
+Kurchi Madathapetti ,Guntur Kaaram,Movie,Thaman S;Sri Krishna;Sahithi Chaganti;Mahesh Babu;Saraswati Putra Ramajogayya Sastry,Telugu,2023,Energetic,Dance,3.61,67,Medium,Aditya Music,0.748,0.958,-5.737,0.129,0.625,0.248,0.0685,0.864,165.043
+Adigaa,Hi Nanna,Movie,Karthik,Telugu,2023,Romantic,Soul,3.5,61,Medium,T-Series,0.579,0.254,-11.145,0.0286,0.911,0.0000971,0.116,0.345,94.044
+Oh My Baby ,Guntur Kaaram,Movie,Thaman S;Shilpa Rao;Saraswati Putra Ramajogayya Sastry,Telugu,2023,Happy,Pop,2.61,61,Medium,Aditya Music,0.881,0.734,-5.942,0.0528,0.762,0.000231,0.197,0.792,115.062
+Evarevaro,ANIMAL ,Movie,Vishal Mishra;Anantha Sreeram,Telugu,2023,Romantic,Soul,4.17,62,Medium,T-Series,0.474,0.452,-9.176,0.0396,0.762,0.00000158,0.102,0.253,76.942
+Ramana Aei,Guntur Kaaram,Movie,Thaman S;Kanakavva;Mahesh Babu,Telugu,2023,Happy,Pop,2.58,1,Low,Aditya Music,0.693,0.885,-4.039,0.153,0.302,0.0000053,0.106,0.726,145.14
+Dum Masala ,Guntur Kaaram,Movie,Thaman S;Sanjith Hegde;Saraswati Putra Ramajogayya Sastry,Telugu,2023,Energetic,Dance,3.45,58,Medium,Aditya Music,0.779,0.884,-7.333,0.0696,0.473,0.0000497,0.219,0.82,98.974
+Sammohanuda,Rules Ranjann,Movie,Shreya Ghoshal,Telugu,2023,Romantic,Soul,3.32,42,Medium,T-Series,0.768,0.77,-7.879,0.237,0.655,0,0.109,0.585,105.103
+Sweety,Race Gurram,Movie,Siddharth Mahadevan;Rabbit Mac;Thaman S;Varikuppala Yadagiri,Telugu,2023,Happy,Pop,4.42,66,Medium,MRT Music,0.748,0.55,-10.285,0.0685,0.745,0.0149,0.373,0.784,88.973
+Ammayi ,ANIMAL,Movie,Raghav Chaitanya;Anantha Sreeram;Pritam,Telugu,2023,Happy,Pop,4.59,60,Medium,T-Series,0.412,0.694,-5.002,0.0323,0.66,0.000014,0.224,0.689,187.911
+Gaaju Bomma ,Hi Nanna,Movie,Hesham Abdul Wahab,Telugu,2023,Romantic,Soul,4.44,50,Medium,T-Series,0.369,0.348,-9.686,0.0305,0.956,0.0000148,0.202,0.379,159.869
+Uyyaalo Uyyaala ,Bhagavanth Kesari,Movie,Thaman S;S.P. Charan,Telugu,2023,Happy,Pop,4.29,35,Low,Times Music,0.656,0.698,-6.702,0.0724,0.482,0.00000183,0.132,0.787,146.368
+Samayama ,Hi Nanna,Movie,Anurag Kulkarni;Sithara Krishnakumar;Hesham Abdul Wahab,Telugu,2023,Romantic,Soul,3.4,61,Medium,T-Series,0.706,0.751,-5.196,0.0445,0.623,0,0.0733,0.5,112.962
+Nuvu Simhame,AGR ,Movie,A.R. Rahman;Anurag Kulkarni,Telugu,2023,Energetic,Dance,4.07,49,Medium,Sony Music Entertainment India Pvt. Ltd.,0.604,0.501,-9.039,0.0331,0.43,0.0000091,0.196,0.51,142.27
+Na Roja Nuvve,Kushi ,Movie,Hesham Abdul Wahab,Telugu,2023,Romantic,Soul,4.04,44,Medium,Saregama India Ltd,0.668,0.687,-6.546,0.038,0.31,0,0.0679,0.68,95.025
+Suttamla Soosi,Gangs Of Godavari,Movie,Yuvan Shankar Raja;Anurag Kulkarni;Sri Harsha Emani,Telugu,2023,Happy,Pop,3.37,56,Medium,Aditya Music,0.746,0.712,-7.197,0.0557,0.0544,0,0.585,0.804,121.954
+Aradhya ,Kushi,Movie,Hesham Abdul Wahab;Chinmayi,Telugu,2023,Romantic,Soul,4.7,60,Medium,Saregama India Ltd,0.608,0.73,-5.687,0.0358,0.642,0.000102,0.0994,0.378,107.962
+Almost Padipoyindhe Pilla ,Das Ka Dhamki,Movie,Leon James;Adithya RK,Telugu,2022,Romantic,Soul,3.55,58,Medium,Saregama,0.528,0.853,-6.398,0.256,0.456,0,0.564,0.934,111.983
+Jai Balayya Mass Anthem ,Veera Simha Reddy,Movie,Thaman S;Kareemullah,Telugu,2022,Energetic,Dance,3.85,47,Medium,Sony Music Entertainment India Pvt. Ltd.,0.609,0.964,-5.844,0.213,0.582,0.0000564,0.302,0.831,79.026
+Urike Urike ,Hit 2,Movie,MM Sreelekha;Sid Sriram;Ramya Behara,Telugu,2022,Romantic,Soul,4.59,66,Medium,Saregama,0.567,0.369,-9.413,0.0453,0.377,0,0.0939,0.179,113.341
+Inthandham,Sita Ramam ,Movie,Vishal Chandrashekhar;S.P. Charan;Krishna Kanth,Telugu,2022,Romantic,Soul,3.65,63,Medium,Sony Music Entertainment India Pvt. Ltd.,0.669,0.371,-9.925,0.059,0.667,0,0.109,0.628,99.931
+Kumkumala ,Brahmastra,Movie,Pritam;Sid Sriram;Chandra Bose,Telugu,2022,Romantic,Soul,4.64,60,Medium,Sony Music Entertainment India Pvt. Ltd.,0.584,0.614,-7.191,0.032,0.662,0.000363,0.11,0.409,94.009
+Kalaavathi,Sarkaru Vaari Paata,Movie,Thaman S;Sid Sriram,Telugu,2022,Energetic,Dance,4.04,55,Medium,Saregama,0.392,0.574,-5.744,0.0336,0.627,0,0.532,0.446,65.528
+Sirivennela,Sirivennela - Shyam Singha Roy - Telugu,Movie,Anurag Kulkarni;Mickey J. Meyer,Telugu,2021,Romantic,Soul,4.23,63,Medium,Saregama,0.504,0.639,-10.265,0.0356,0.814,0.00578,0.115,0.764,114.672
+Nagumomu Thaarale ,Radhe Shyam,Movie,Sid Sriram;Justin Prabhakaran,Telugu,2021,Romantic,Soul,4.9,54,Medium,T-Series,0.61,0.399,-9.778,0.0384,0.479,0,0.105,0.281,129.957
+Baguntundhi Nuvvu Navvithe ,Atithi Devobhava,Movie,Shekar Chandra;Sid Sriram;Nutana Mohan;Bhaskarabhatla,Telugu,2021,Romantic,Soul,3.71,56,Medium,Sony Music Entertainment India Pvt. Ltd.,0.76,0.443,-9.128,0.0426,0.504,0.000797,0.0957,0.632,123.959
+Leharaayi,Most Eligible Bachelor,Movie,Sid Sriram,Telugu,2021,Happy,Pop,4.08,52,Medium,Aditya Music,0.78,0.608,-7.62,0.061,0.245,0.0000414,0.0947,0.476,91.975
+Antha Ishtam,Bheemla Nayak,Movie,K. S. Chithra,Telugu,2021,Energetic,Dance,3.6,0,Low,Aditya Music,0.491,0.563,-7.23,0.0516,0.884,0.0197,0.219,0.659,151.687
+Srivalli,Pushpa - The Rise,Movie,Sid Sriram,Telugu,2021,Energetic,Dance,3.68,0,Low,Aditya Music,0.82,0.581,-5.655,0.0438,0.494,0,0.362,0.681,106.965
+Premantey Enti,Pelli SandaD,Movie,Haricharan;Shweta Pandit,Telugu,2021,Romantic,Soul,3.59,0,Low,Aditya Music,0.809,0.676,-9.743,0.0798,0.672,0.00000253,0.492,0.728,124.014
+Madhura Nagari,Pelli SandaD,Movie,Sreenidhi Nayana Nair;Kala Bhairava,Telugu,2021,Happy,Pop,3.58,0,Low,Aditya Music,0.731,0.637,-9.253,0.0784,0.42,0.0000253,0.136,0.473,81.989
+Chitti ,Jathi Ratnalu,Movie,Ram Miriyala;Radhan;Ramajogayya Sastry,Telugu,2021,Happy,Pop,3.07,1,Low,Lahari Music,0.572,0.679,-7.239,0.536,0.246,0,0.0835,0.838,208.196
+Sandalle Sandalle ,Sreekaram,Movie,Mickey J. Meyer;Anurag Kulkarni;Mohana Bhogaraju;Sanapati Bharadwaj Patrudu,Telugu,2021,Romantic,Soul,3.72,42,Medium,Sony Music Entertainment India Pvt. Ltd.,0.673,0.845,-6.584,0.0431,0.471,0.00000105,0.203,0.812,84.022
+Puttene Prema,Gully Rowdy,Movie,Ram Miriyala,Telugu,2021,Romantic,Soul,3.76,58,Medium,Saregama,0.797,0.61,-9.074,0.157,0.554,0.000963,0.175,0.756,95.134
+Vastunna Vachestunna ,V,Movie,Shreya Ghoshal;Amit Trivedi;Anurag Kulkarni,Telugu,2020,Energetic,Dance,3.53,52,Medium,Aditya Music,0.624,0.386,-10.502,0.0764,0.544,0.0047,0.118,0.269,180.166
+Nee Kannu Neeli Samudram ,Uppena,Movie,Javed Ali;Devi Sri Prasad,Telugu,2020,Romantic,Soul,5.21,55,Medium,Aditya Music,0.809,0.665,-5.495,0.036,0.469,0.0000108,0.153,0.959,140.96
+Manasa Manasa - Telugu,Most Eligible Bachelor,Movie,Sid Sriram;Gopi Sundar,Telugu,2020,Romantic,Soul,4.22,54,Medium,Aditya Music,0.653,0.577,-6.858,0.0374,0.379,0.0000931,0.104,0.358,113.108
+Manasu Maree,V,Movie,Amit Trivedi;Shashaa Tirupati;Yazin Nizar,Telugu,2020,Happy,Pop,4.46,64,Medium,Aditya Music (India) Pvt Ltd,0.695,0.502,-6.552,0.0315,0.767,0.00416,0.106,0.511,120.076
+Ay Pilla,Love Story,Movie,Haricharan,Telugu,2020,Happy,Pop,4.23,43,Medium,Aditya Music,0.503,0.554,-12.085,0.0356,0.35,0.0000143,0.0963,0.386,140.003
+Neeli Neeli Aakasam ,30 Rojullo Preminchadam Ela,Movie,Sid Sriram;Sunitha;Anup Rubens;Chandra Bose,Telugu,2020,Romantic,Soul,4.72,50,Medium,T-Series,0.678,0.694,-4.865,0.0866,0.674,0,0.0964,0.631,95.072
+Life Of Ram,Jaanu,Movie,Govind Vasantha;Pradeep Kumar,Telugu,2020,Calm,Acoustic,6.07,65,Medium,Aditya Music (India) Pvt Ltd,0.661,0.559,-8.829,0.0505,0.207,0.000119,0.116,0.388,90.008
+Oo Baava,Prati Roju Pandaage,Movie,Hari Teja;Satya Yamini;Mohana Bhogaraju;Thaman S;KK,Telugu,2019,Happy,Pop,3.98,48,Medium,MRT Music,0.582,0.73,-7.058,0.0772,0.36,0.00959,0.077,0.485,176.008
+Buttabomma,Ala Vaikunthapurramuloo,Movie,Armaan Malik,Telugu,2019,Romantic,Soul,3.31,0,Low,Aditya Music,0.666,0.644,-8.964,0.145,0.753,0.000262,0.124,0.89,115.1
+Samajavaragamana,Ala Vaikunthapurramuloo,Movie,Sid Sriram,Telugu,2019,Calm,Acoustic,3.66,0,Low,Aditya Music,0.568,0.663,-6.179,0.0345,0.91,0.0000482,0.124,0.808,165.203
+Undipova,Savaari,Movie,Spoorthi Jithender,Telugu,2019,Romantic,Soul,3.87,0,Low,Aditya Music,0.599,0.51,-7.519,0.0255,0.487,0,0.217,0.524,96.044
+Ninnu Chuse Anandamlo,Gang Leader ,Movie,Anirudh Ravichander;Sid Sriram;Anantha Sriram,Telugu,2019,Romantic,Soul,4.88,57,Medium,Sony Music Entertainment India Pvt. Ltd.,0.68,0.729,-5.008,0.0486,0.249,0.0000135,0.115,0.412,139.959
+Hoyna Hoyna ,Gang Leader,Movie,Anirudh Ravichander;Inno Genga;Anantha Sriram,Telugu,2019,Romantic,Soul,4.53,68,Medium,Sony Music Entertainment India Pvt. Ltd.,0.712,0.725,-7.167,0.0444,0.188,0.00000114,0.075,0.491,97.013
+Ye Chota Nuvvunna ,Saaho,Movie,Guru Randhawa;Tulsi Kumar;Krishna Kanth,Telugu,2019,Happy,Pop,3.24,57,Medium,T-Series,0.725,0.675,-6.225,0.0444,0.116,0.0000439,0.099,0.641,92.017
+Kadalalle,Dear Comrade,Movie,Sid Sriram;Aishwarya Ravichandran;Justin Prabhakaran;Rehman,Telugu,2019,Romantic,Soul,4.35,0,Low,Lahari Music,0.352,0.296,-9.379,0.0291,0.848,0.0000012,0.209,0.49,96.394
+Gira Gira Gira,Dear Comrade,Movie,Gowtham Bharadwaj;Yamini Ghantasala;Justin Prabhakaran;Rehman,Telugu,2019,Calm,Acoustic,4.71,0,Low,Lahari Music,0.77,0.472,-7.401,0.0377,0.565,0.00000271,0.152,0.659,139.924
+Naalo Maimarapu,Oh Baby,Movie,Mohana Bhogaraju,Telugu,2019,Calm,Acoustic,3.81,47,Medium,Aditya Music,0.724,0.292,-11.83,0.0385,0.787,0.216,0.0892,0.67,87.989
+Choti Choti Baatein,Maharshi,Movie,Devi Sri Prasad,Telugu,2019,Happy,Pop,4.42,36,Low,Aditya Music,0.901,0.587,-6.837,0.0579,0.585,0.0000302,0.0418,0.814,92.026
+Arerey Manasa ,Falaknuma Das,Movie,Vivek Sagar;Sid Sriram;Kittu Vissapragada,Telugu,2019,Romantic,Soul,5.03,68,Medium,Sony Music Entertainment India Pvt. Ltd.,0.267,0.55,-7.417,0.0352,0.365,0.000337,0.109,0.423,89.121
+Adhento Gaani Vunnapaatuga,Jersey,Movie,Anirudh Ravichander,Telugu,2019,Happy,Pop,3.95,49,Medium,Zee Music Company,0.468,0.725,-5.103,0.0447,0.123,0,0.193,0.316,79.024
+Prema Vennela,Chitralahari ,Movie,Devi Sri Prasad;Sudharshan Ashok;Sreemani,Telugu,2019,Happy,Pop,3.63,51,Medium,Sony Music Entertainment India Pvt. Ltd.,0.673,0.63,-8.748,0.0338,0.534,0.0000205,0.0454,0.744,80.002
+Priyathama Priyathama,Majili,Movie,Chinmayi,Telugu,2019,Romantic,Soul,4.1,0,Low,Aditya Music,0.71,0.529,-9.729,0.0391,0.743,0.00577,0.183,0.505,130.036
+Anaganaganaga,Aravindha Sametha ,Movie,Armaan Malik,Telugu,2018,Energetic,Dance,4.79,52,Medium,Zee Music Company,0.667,0.85,-5.909,0.0312,0.651,0.0895,0.0889,0.744,105.039
+Maate Vinadhuga,Taxiwaala,Movie,Sid Sriram,Telugu,2018,Calm,Acoustic,4.94,2,Low,Aditya Music,0.631,0.582,-9.367,0.0536,0.216,0,0.17,0.493,159.959
+Undiporaadhey,Hushaaru,Movie,Sid Sriram,Telugu,2018,Romantic,Soul,2.9,2,Low,Aditya Music,0.685,0.24,-8.65,0.0397,0.789,0.00000397,0.127,0.577,177.706
+Emo Emo Emo,Devadas,Movie,Sid Sriram;Ramya Behara,Telugu,2018,Happy,Pop,4.43,0,Low,Aditya Music,0.183,0.405,-6.293,0.029,0.844,0,0.0629,0.279,178.705
+Asha Pasham,Care Of Kancharapalem,Movie,Anurag Kulkarni,Telugu,2018,Calm,Acoustic,4.33,0,Low,Aditya Music,0.469,0.439,-8.204,0.0413,0.803,0,0.198,0.531,179.474
+Yenti Yenti ,Geetha Govindam,Movie,Chinmayi,Telugu,2018,Romantic,Soul,3.32,0,Low,Aditya Music,0.752,0.538,-6.795,0.0483,0.285,0.000258,0.0856,0.489,75.007
+Egiregire,Shailaja Reddy Alludu,Movie,Sid Sriram;Lipsika,Telugu,2018,Happy,Pop,3.18,0,Low,Aditya Music,0.646,0.741,-5.215,0.0498,0.521,0,0.125,0.537,88.468
+Yentha Sakkagunnave ,Rangasthalam,Movie,Devi Sri Prasad,Telugu,2018,Romantic,Soul,4.37,0,Low,Lahari Music,0.883,0.553,-8.468,0.068,0.498,0.0000111,0.156,0.667,132.058
+Inkem Inkem Inkem Kaavaale ,Geetha Govindam,Movie,Gopi Sundar;Sid Sriram,Telugu,2018,Romantic,Soul,4.45,0,Low,Aditya Music,0.81,0.523,-5.567,0.0479,0.422,0,0.0839,0.6,136.951
+Vachindamma,Geetha Govindam,Movie,Gopi Sundar;Sid Sriram,Telugu,2018,Romantic,Soul,4.17,72,Medium,Aditya Music (India) Pvt Ltd,0.821,0.6,-6.308,0.0326,0.49,0.0000174,0.104,0.796,123.919
+Aagi Aagi,Ee Nagaraniki Emaindi,Movie,Anurag Kulkarni;Manisha Eerabathini,Telugu,2018,Happy,Pop,6.8,0,Low,Aditya Music,0.587,0.411,-8.245,0.0336,0.574,0.0000179,0.121,0.609,133.066
+Bharat Ane Nenu (The Song Of Bharat),Bharat Ane Nenu,Movie,David Simon;Devi Sri Prasad;Ramajogayya Sastry,Telugu,2018,Energetic,Dance,5.42,0,Low,Lahari Music,0.715,0.633,-7.373,0.0276,0.498,0.0275,0.136,0.578,119.997
+Ide Kalala Vunnadhe,Bharat Ane Nenu,Movie,Andrea Jeremiah;Devi Sri Prasad;Ramajogayya Sastry,Telugu,2018,Happy,Pop,4.67,0,Low,Lahari Music,0.852,0.719,-3.919,0.0358,0.392,0.00346,0.151,0.966,127.02
+Beautiful Love,Naa Peru Surya Naa Illu India,Movie,Armaan Malik;Chaitra Ambadipudi,Telugu,2018,Romantic,Soul,4.85,49,Medium,Aditya Music,0.661,0.534,-8.432,0.0504,0.654,0.0152,0.0769,0.785,75.018
+Allasani Vaari,Tholi Prema,Movie,Shreya Ghoshal,Telugu,2018,Happy,Pop,4.94,0,Low,Aditya Music,0.597,0.739,-6.636,0.0947,0.654,0.000361,0.0924,0.587,171.985
+Toliprema,Tholi Prema,Movie,Kala Bhairava,Telugu,2018,Romantic,Soul,4.05,0,Low,Aditya Music,0.467,0.701,-5.706,0.0384,0.827,0,0.108,0.264,125.923
+Pillaa Raa,RX 100,Movie,Anurag Kulkarni,Telugu,2018,Romantic,Soul,3.92,68,Medium,Saregama,0.414,0.591,-7.568,0.136,0.623,0.00000994,0.229,0.62,185.922
+Mandaara,Bhaagamathie,Movie,Shreya Ghoshal,Telugu,2018,Romantic,Soul,4.82,56,Medium,Saregama,0.56,0.602,-7.859,0.0428,0.489,0,0.119,0.349,86.029
+Evare,Premam,Movie,Vijay Yesudas,Telugu,2016,Romantic,Soul,03:58,1,Low,Aditya Music,0.462,0.456,-11.408,0.0302,0.773,0,0.087,0.403,82.499
+Naatu Naatu ,RRR,Movie,Rahul Sipligunj;Kala Bhairava;M. M. Keeravaani;Chandra Bose,Telugu,2021,Energetic,Dance,04:35,58,Medium,T-Series,0.405,0.988,-3.843,0.0992,0.355,0.113,0.0815,0.703,160.052
+Massa Massa ,Peddi (TAMIL),Movie,A.R. Rahman;Adithya RK;Vivek,Tamil,2026,Energetic,Dance,3.7,43,Medium,T-Series,0.641,0.778,-7.289,0.0431,0.216,0.00213,0.0776,0.549,139.981
+Chikiri Chikiri ,Peddi (TAMIL),Movie,A.R. Rahman;A. R. Ameen;Vivek,Tamil,2026,Happy,Pop,4.55,43,Medium,T-Series,0.817,0.775,-6.678,0.101,0.197,0,0.145,0.731,115.009
+Hellallallo ,Peddi (TAMIL),Movie,A.R. Rahman;Andrea Jeremiah;Rakshita Suresh;Kavinger Snekan,Tamil,2026,Energetic,Dance,3.8,39,Low,T-Series,0.803,0.72,-5.536,0.0585,0.0331,0,0.0708,0.49,125
+Athu Thalore,Karuppu ,Movie,Sai Abhyankkar;Ananya Chakraborty;Adesh Krishna,Tamil,2026,Energetic,Dance,3.85,60,Medium,Think Music,0.542,0.786,-5.581,0.0381,0.295,0.000216,0.179,0.311,129.63
+Goindhamma ,Meesaya Murukku 2,Movie,Hiphop Tamizha;Kaushik Krish;Gana Vinoth;Gana Ulagam Dharani;Gana Sudhakar,Tamil,2026,Energetic,Dance,3.22,59,Medium,Saregama India Ltd,0.566,0.969,-4.851,0.356,0.415,0,0.117,0.862,139.968
+Raga of Revenge ,DC,Movie,Anirudh Ravichander,Tamil,2026,Energetic,Dance,2.19,81,High,Sun Pictures,0.53,0.919,-4.34,0.0812,0.191,0.00437,0.677,0.143,119.977
+Karuppa Kooda Va ,Karuppu,Movie,Sai Abhyankkar;V.M. Mahalingam;Pa. Vijay,Tamil,2026,Romantic,Soul,4.17,75,High,Think Music,0.46,0.745,-7.663,0.264,0.0313,0.000388,0.0891,0.57,131.777
+Vari Vari ,Unna Kaadhaliche,Movie,Dhee;Santhosh,Tamil,2026,Romantic,Soul,3.36,67,Medium,Visva Records,0.805,0.522,-6.66,0.217,0.677,0.0000692,0.134,0.695,120.667
+Raathu Raasan ,Karuppu,Movie,Sai Abhyankkar;V.M. Mahalingam;Paal Dabba;Vivek,Tamil,2026,Energetic,Dance,3.26,74,Medium,Think Music,0.598,0.802,-6.643,0.179,0.302,0.0000569,0.0654,0.663,113.009
+Dheema,Love Insurance Kompany ,Movie,Anirudh Ravichander;Vignesh Shivan,Tamil,2026,Romantic,Soul,3.92,71,Medium,Sony Music Entertainment India Pvt. Ltd.,0.46,0.499,-7.734,0.0295,0.371,0,0.108,0.199,97.976
+Adaavadi,Love Insurance Kompany ,Movie,Anirudh Ravichander;Mathichiyam Bala;Rokesh;Heisenberg;Vignesh Shivan,Tamil,2026,Energetic,Dance,3.24,63,Medium,Sony Music Entertainment India Pvt. Ltd.,0.745,0.906,-4.013,0.245,0.347,0.00000929,0.0687,0.83,87.49
+Naanga Naalu Peru ,Karuppu,Movie,Sai Abhyankkar;Silambarasan TR;Asal Kolaar;Arun Srinivasan,Tamil,2026,Energetic,Dance,3.28,74,Medium,Think Music,0.555,0.933,-3.822,0.233,0.156,0.00000305,0.0648,0.825,112.44
+Aasa Pulla ,Youth,Movie,G. V. Prakash;Ken Karunaas;Eshwar,Tamil,2026,Romantic,Soul,2.53,67,Medium,GV Prakash,0.852,0.513,-8.865,0.0462,0.735,0.00000561,0.106,0.845,125.067
+Aaja Raja ,KH x RK Reunion,Movie,Anirudh Ravichander;Chintu,Tamil,2026,Energetic,Dance,2.13,71,Medium,Anirudh Ravichander,0.756,0.961,-2.311,0.221,0.424,0.0366,0.176,0.954,127.168
+Mutta Kalakki ,Youth,Movie,G. V. Prakash;Ken Karunaas,Tamil,2026,Happy,Pop,2.77,78,High,GV Prakash,0.836,0.624,-8.884,0.161,0.651,0.0000526,0.254,0.952,130.066
+Oru Pere Varalaaru ,Jana Nayagan,Movie,Anirudh Ravichander;Vishal Mishra;Vivek,Tamil,2025,Energetic,Dance,3.92,74,Medium,T-Series,0.613,0.935,-4.281,0.0628,0.0147,0,0.0857,0.367,113.015
+Thalapathy Kacheri ,Jana Nayagan,Movie,Anirudh Ravichander;Thalapathy Vijay;Arivu,Tamil,2025,Energetic,Dance,3.29,76,High,T-Series,0.756,0.961,-2.362,0.342,0.179,0,0.209,0.693,142.028
+God Mode ,Karuppu,Movie,Sai Abhyankkar;Gana Muthu;Vishnu Edavan,Tamil,2025,Energetic,Dance,4,78,High,Think Music,0.583,0.882,-4.194,0.265,0.185,0,0.173,0.397,78.649
+Singari ,Dude,Movie,Sai Abhyankkar;Pradeep Ranganathan;Sai Smriti;Semv.iii,Tamil,2025,Romantic,Soul,3.47,74,Medium,Think Music,0.853,0.761,-5.383,0.18,0.21,0,0.152,0.86,120.033
+Oorum Blood ,Dude,Movie,Sai Abhyankkar;Paal Dabba;Bhumi;Deepthi Suresh,Tamil,2025,Energetic,Dance,4,77,High,Think Music,0.698,0.631,-8.706,0.0522,0.356,0,0.16,0.515,129.987
+Monica,Coolie ,Movie,Anirudh Ravichander;Sublahshini;Asal Kolaar,Tamil,2025,Happy,Pop,3.63,66,Medium,Sun Pictures,0.82,0.765,-4.949,0.192,0.0722,0.0000056,0.0491,0.608,140.101
+Salambala ,Madharaasi,Movie,Anirudh Ravichander;Sai Abhyankkar;Super Subu,Tamil,2025,Happy,Pop,3.45,59,Medium,Times Music,0.705,0.862,-7.363,0.36,0.125,0.00000238,0.268,0.504,160.019
+Powerhouse ,Coolie,Movie,Anirudh Ravichander;Arivu,Tamil,2025,Energetic,Dance,3.44,71,Medium,Sun Pictures,0.739,0.958,-4.31,0.179,0.0673,0.0000087,0.351,0.866,169.014
+Pathikichu ,Vidaamuyarchi,Movie,Anirudh Ravichander;Yogi Sekar;Amogh Balaji,Tamil,2025,Energetic,Dance,3.48,69,Medium,Sony Music Entertainment India Pvt. Ltd.,0.631,0.865,-4.096,0.254,0.0975,0,0.43,0.65,76.073
+Hukum Reloaded ,Jailer 2,Movie,Anirudh Ravichander,Tamil,2025,Energetic,Dance,1.53,53,Medium,Sun Pictures,0.57,0.889,-3.497,0.28,0.0146,0.00000291,0.236,0.373,101.909
+Vazhithunaiye ,Dragon,Movie,Leon James;Sid Sriram;Sanjana Kalmanje,Tamil,2025,Romantic,Soul,3.64,70,Medium,Think Music,0.652,0.889,-5.434,0.137,0.298,0,0.173,0.71,104.848
+Vaa Kannamma ,Once More,Movie,Hesham Abdul Wahab;Uthara Unnikrishnan;Vignesh Srikanth,Tamil,2025,Romantic,Soul,4.74,59,Medium,Think Music,0.624,0.856,-7.014,0.133,0.367,0.000818,0.115,0.711,130.013
+Yedi ,Nilavuku En Mel Ennadi Kobam,Movie,G. V. Prakash;Vivek;Dhanush;Jonita Gandhi,Tamil,2024,Romantic,Soul,3.36,70,Medium,Wunderbar Films,0.645,0.526,-8.298,0.0249,0.302,0.000011,0.227,0.338,101.997
+Uyirey ,Amaran,Movie,G. V. Prakash;Nakul Abhyankar;Ramya Bhat Abhyankar;Vivek,Tamil,2024,Romantic,Soul,3.5,52,Medium,Saregama India Ltd,0.496,0.501,-11.105,0.0292,0.164,0.0147,0.334,0.204,139.931
+Hey Minnale ,Amaran,Movie,G. V. Prakash;Haricharan;Shweta Mohan;Karthik Netha,Tamil,2024,Romantic,Soul,3.83,64,Medium,Saregama India Ltd,0.683,0.609,-8.657,0.0383,0.263,0,0.375,0.423,106.024
+Manasilaayo ,Vettaiyan,Movie,Anirudh Ravichander;Malaysia Vasudevan;Deepthi Suresh;Yugendran Vasudevan,Tamil,2024,Happy,Pop,3.93,63,Medium,Sony Music Entertainment India Pvt. Ltd.,0.701,0.928,-3.029,0.286,0.018,0.00293,0.074,0.451,150.889
+Golden Sparrow ,Nilavuku En Mel Ennadi Kobam,Movie,G. V. Prakash;Arivu;Dhanush;Sublahshini,Tamil,2024,Happy,Pop,3.84,67,Medium,Wunderbar Films,0.92,0.851,-6.24,0.146,0.322,0.00242,0.0695,0.779,112.499
+Thenkizhakku ,Vaazhai,Movie,Santhosh Narayanan;Dhee;Yugabharathi,Tamil,2024,Calm,Acoustic,4.38,60,Medium,Think Music,0.763,0.573,-6.743,0.117,0.141,0.032,0.348,0.356,96.03
+Adangaatha Asuran,Raayan ,Movie,A.R. Rahman;Dhanush,Tamil,2024,Energetic,Dance,4.15,52,Medium,Sun Pictures,0.729,0.812,-5.24,0.0768,0.206,0.0000326,0.179,0.725,142.514
+Come Back Indian,Indian 2 ,Movie,Anirudh Ravichander,Tamil,2024,Energetic,Dance,3.62,47,Medium,Sony Music Entertainment India Pvt. Ltd.,0.786,0.905,-5.672,0.132,0.0335,0,0.0687,0.357,114.98
+Water Packet ,Raayan,Movie,A.R. Rahman;Santhosh Narayanan;Shweta Mohan;Gana Kadhar,Tamil,2024,Happy,Pop,4.1,60,Medium,Sun Pictures,0.82,0.661,-6.868,0.151,0.241,0,0.284,0.953,94.979
+Paaraa ,Indian 2,Movie,Anirudh Ravichander;Shruthika Samudhrala,Tamil,2024,Energetic,Dance,4.21,49,Medium,Sony Music Entertainment India Pvt. Ltd.,0.602,0.945,-6.63,0.116,0.318,0.0000879,0.0743,0.28,116.889
+Badass ,Leo,Movie,Anirudh Ravichander;Vishnu Edavan,Tamil,2023,Energetic,Dance,3.83,64,Medium,Sony Music Entertainment India Pvt. Ltd.,0.623,0.872,-5.192,0.0817,0.00735,0,0.378,0.545,93.019
+Unakku Thaan,Chithha ,Movie,Santhosh Narayanan;Dhvani Kailas,Tamil,2023,Romantic,Soul,3.6,60,Medium,Think Music,0.578,0.389,-5.439,0.0304,0.875,0.00000128,0.0973,0.559,139.64
+Railin Oligal ,Blue Star,Movie,Govind Vasantha;Pradeep Kumar;Shakthisree Gopalan,Tamil,2023,Calm,Acoustic,2.63,66,Medium,Think Music,0.402,0.534,-9.397,0.0565,0.518,0.0000129,0.106,0.491,115.575
+Hayyoda ,Jawan,Movie,Anirudh Ravichander;Priya Mali,Tamil,2023,Romantic,Soul,3.34,64,Medium,T-Series,0.576,0.841,-5.428,0.0773,0.497,0.00559,0.178,0.457,95.149
+Hukum ,Jailer,Movie,Anirudh Ravichander;Super Subu,Tamil,2023,Energetic,Dance,3.46,63,Medium,Sun Pictures,0.723,0.892,-5.758,0.164,0.102,0,0.146,0.533,101.996
+Kaavaalaa ,Jailer,Movie,Anirudh Ravichander;Shilpa Rao;Arunraja Kamaraj,Tamil,2023,Happy,Pop,3.18,60,Medium,Sun Pictures,0.844,0.759,-6.829,0.0498,0.0386,0.0731,0.0813,0.479,131.913
+Naa Ready ,Leo,Movie,Anirudh Ravichander;Vijay;Asal Kolaar;Vishnu Edavan,Tamil,2023,Energetic,Dance,4.14,65,Medium,Sony Music Entertainment India Pvt. Ltd.,0.726,0.805,-5.576,0.153,0.081,0.00784,0.0318,0.572,87.956
+Nira,Takkar ,Movie,Nivas K Prasanna;Sid Sriram;Gautham Vasudev Menon;Malvi Sundaresan,Tamil,2023,Romantic,Soul,5.08,50,Medium,Think Music,0.671,0.766,-5.048,0.0468,0.143,0.00000133,0.208,0.56,88.013
+Urugi Urugi ,Joe,Movie,Siddhu Kumar;Vignesh Ramakrishna;Anand Aravindakshan,Tamil,2023,Romantic,Soul,3.71,62,Medium,Think Music,0.331,0.507,-7.057,0.0304,0.825,0.00000111,0.0909,0.482,107.874
+Naan Gaali ,Good Night,Movie,Sean Roldan;Mohan Rajan,Tamil,2023,Romantic,Soul,4.51,53,Medium,Think Music,0.565,0.58,-7.93,0.0515,0.341,0,0.552,0.514,84.874
+Nee Singam Dhan,Pathu Thala ,Movie,A.R. Rahman;Sid Sriram;Vivek,Tamil,2023,Energetic,Dance,4.13,69,Medium,Sony Music Entertainment India Pvt. Ltd.,0.539,0.534,-8.31,0.0306,0.23,0.0000483,0.364,0.435,142.461
+Bloody Sweet ,Leo,Movie,Anirudh Ravichander;Siddharth Basrur;Heisenberg,Tamil,2023,Energetic,Dance,2.81,55,Medium,Sony Music Entertainment India Pvt. Ltd.,0.511,0.683,-6.484,0.0427,0.00442,0.00516,0.089,0.254,123.85
+Thee Thalapathy ,Varisu,Movie,Silambarasan TR;Thaman S,Tamil,2022,Energetic,Dance,4.3,64,Medium,T-Series,0.674,0.907,-5.078,0.122,0.567,0,0.259,0.828,130.011
+Ranjithame ,Varisu,Movie,Thalapathy Vijay;M.M.Manasi;Thaman S,Tamil,2022,Energetic,Dance,4.78,63,Medium,T-Series,0.545,0.98,-6.464,0.129,0.666,0.00709,0.0788,0.658,124.96
+Mallipoo,Vendhu Thanindhathu Kaadu ,Movie,A.R. Rahman;Madhushree,Tamil,2022,Romantic,Soul,4.09,56,Medium,Think Music,0.715,0.654,-7.266,0.336,0.196,0.000117,0.0667,0.762,175.589
+Life of Pazham ,Thiruchitrambalam,Movie,Anirudh Ravichander,Tamil,2022,Calm,Acoustic,3.91,54,Medium,Sun Pictures,0.503,0.665,-6.302,0.0801,0.124,0.000155,0.175,0.597,174.974
+Megham Karukatha ,Thiruchitrambalam,Movie,Dhanush;Anirudh Ravichander,Tamil,2022,Romantic,Soul,4.84,63,Medium,Sun Pictures,0.429,0.614,-6.573,0.0709,0.513,0.000316,0.0922,0.743,149.966
+Thaai Kelavi ,Thiruchitrambalam,Movie,Dhanush;Anirudh Ravichander,Tamil,2022,Happy,Pop,4.32,54,Medium,Sun Pictures,0.661,0.92,-3.469,0.188,0.0352,0.000014,0.314,0.494,82.508
+Private Party ,Don,Movie,Anirudh Ravichander;Jonita Gandhi;Sivakarthikeyan,Tamil,2022,Happy,Pop,3.61,54,Medium,Sony Music Entertainment India Pvt. Ltd.,0.862,0.886,-5.423,0.123,0.184,0.00000133,0.0565,0.896,124.031
+Dippam Dappam ,Kaathuvaakula Rendu Kaadhal,Movie,Anirudh Ravichander;Anthony Daasan;Vignesh Shivan,Tamil,2022,Happy,Pop,3.48,62,Medium,Sony Music Entertainment India Pvt. Ltd.,0.827,0.717,-7.755,0.111,0.0908,0.000523,0.0511,0.772,123.987
+Beast Mode ,Beast,Movie,Anirudh Ravichander,Tamil,2022,Energetic,Dance,3.67,62,Medium,Sun Pictures,0.584,0.847,-5.106,0.0933,0.00105,0.000525,0.333,0.371,170.983
+Arabic Kuthu ,Beast,Movie,Anirudh Ravichander;Jonita Gandhi,Tamil,2022,Happy,Pop,4.66,67,Medium,Sun Pictures,0.608,0.757,-6.945,0.164,0.259,0.00216,0.259,0.625,124.078
+Bae ,Don,Movie,Anirudh Ravichander;Adithya RK;Vignesh Shivan,Tamil,2022,Romantic,Soul,4.04,60,Medium,Sony Music Entertainment India Pvt. Ltd.,0.697,0.663,-7.246,0.0486,0.0701,0.0000104,0.112,0.407,96.968
+Evanda Enakku Custody ,Mahaan,Movie,Santhosh Narayanan;Vivek,Tamil,2022,Energetic,Dance,3.55,50,Medium,Sony Music Entertainment India Pvt. Ltd.,0.756,0.795,-4.679,0.397,0.014,0.0000316,0.0635,0.855,104.61
+Naan Pizhai ,Kaathuvaakula Rendu Kaadhal,Movie,Anirudh Ravichander;Ravi G;Shashaa Tirupati;Vignesh Shivan,Tamil,2022,Sad,Blues,4.06,57,Medium,Sony Music Entertainment India Pvt. Ltd.,0.401,0.488,-8.417,0.0288,0.6,0,0.124,0.455,149.951
+Oo Solriya Oo Oo Solriya ,Pushpa - The Rise,Movie,Devi Sri Prasad;Andrea Jeremiah;Viveka,Tamil,2021,Happy,Pop,3.72,59,Medium,Aditya Music,0.904,0.706,-6.717,0.0846,0.447,0.0851,0.197,0.486,128.038
+Adiye,Bachelor ,Movie,Dhibu Ninan Thomas;Kapil Kapilan,Tamil,2021,Romantic,Soul,4.53,49,Medium,Think Music,0.707,0.453,-7.817,0.147,0.446,0,0.14,0.559,90.064
+Cute Ponnu,Enna Solla Pogirai,Movie,Anirudh Ravichander;Vivek Siva,Tamil,2021,Romantic,Soul,4.59,38,Low,Muzik247,0.75,0.813,-5.871,0.132,0.254,0,0.298,0.687,100.022
+Saami Saami ,Pushpa - The Rise,Movie,Devi Sri Prasad;Rajalakshmi Senthiganesh;Viveka,Tamil,2021,Happy,Pop,3.73,49,Medium,Aditya Music,0.814,0.806,-6.461,0.296,0.271,0.000241,0.228,0.869,139.799
+Soul of Doctor ,Doctor,Movie,Anirudh Ravichander;Niranjana Ramanan,Tamil,2021,Energetic,Dance,1.06,52,Medium,Sony Music Entertainment India Pvt. Ltd.,0.473,0.837,-7.101,0.0336,0.0968,0.912,0.297,0.212,97.261
+Two Two Two ,Kaathuvaakula Rendu Kaadhal,Movie,Anirudh Ravichander;Sunidhi Chauhan;Sanjana Kalmanje;Vignesh Shivan,Tamil,2021,Happy,Pop,2.94,50,Medium,Sony Music Entertainment India Pvt. Ltd.,0.821,0.69,-4.981,0.187,0.0202,0.00398,0.199,0.648,140.171
+Bodhai Kaname ,Oh Manapenne,Movie,Vishal Chandrashekhar;Anirudh Ravichander;Shashaa Tirupati,Tamil,2021,Romantic,Soul,4.37,62,Medium,Think Music,0.516,0.405,-12.327,0.0424,0.152,0.00000344,0.154,0.267,160.047
+Thooriga ,Navarasa,Movie,Karthik,Tamil,2021,Calm,Acoustic,3.37,56,Medium,Think Music,0.662,0.688,-9.019,0.0413,0.0422,0.000918,0.431,0.365,102.95
+Mudhal Nee Mudivum Nee Title Track,Mudhal Nee Mudivum Nee ,Movie,Darbuka Siva;Sid Sriram;Thamarai,Tamil,2021,Sad,Blues,5.55,58,Medium,Sony Music Entertainment India Pvt. Ltd.,0.556,0.521,-10.806,0.0321,0.641,0.000543,0.102,0.353,127.947
+Master the Blaster ,Master,Movie,Anirudh Ravichander;Bjorn Surrao,Tamil,2021,Energetic,Dance,1.54,59,Medium,Sony Music Entertainment India Pvt. Ltd.,0.756,0.816,-1.418,0.0972,0.3,0,0.172,0.899,100.04
+Nenjame ,Doctor,Movie,Anirudh Ravichander,Tamil,2020,Romantic,Soul,4.28,54,Medium,Sony Music Entertainment India Pvt. Ltd.,0.45,0.647,-9.067,0.0835,0.26,0.000058,0.402,0.122,139.933
+Rakita Rakita Rakita ,Jagame Thandhiram,Movie,Santhosh Narayanan;Dhanush;Dhee;Vivek,Tamil,2020,Happy,Pop,4.12,55,Medium,Sony Music Entertainment India Pvt. Ltd.,0.79,0.74,-7.505,0.168,0.581,0.000165,0.523,0.948,133.526
+Kaattu Payale ,Soorarai Pottru,Movie,G. V. Prakash;Dhee;Snehan,Tamil,2020,Romantic,Soul,4.1,58,Medium,Sony Music Entertainment India Pvt. Ltd.,0.7,0.631,-8.377,0.212,0.325,0.000246,0.376,0.49,78.924
+Chellamma ,Doctor,Movie,Anirudh Ravichander;Jonita Gandhi;Sivakarthikeyan,Tamil,2020,Happy,Pop,3.94,58,Medium,Sony Music Entertainment India Pvt. Ltd.,0.498,0.679,-7.252,0.214,0.256,0.000325,0.0589,0.743,99.702
+Kaathodu Kaathanen ,Jail,Movie,G. V. Prakash;Dhanush;Aditi Rao Hydari,Tamil,2020,Romantic,Soul,5.17,49,Medium,Sony Music Entertainment India Pvt. Ltd.,0.368,0.174,-17.293,0.0327,0.739,0.000262,0.122,0.326,80.06
+En Iniya Thanimaye,Teddy ,Movie,D. Imman;Sid Sriram;Madhan Karky,Tamil,2020,Sad,Blues,4.55,52,Medium,Think Music,0.598,0.743,-5.112,0.0341,0.0948,0,0.142,0.468,85.04
+Vaathi Raid,Master ,Movie,Anirudh Ravichander;Arivu,Tamil,2020,Energetic,Dance,3.49,61,Medium,Sony Music Entertainment India Pvt. Ltd.,0.806,0.93,-3.404,0.132,0.253,0.0000194,0.106,0.666,100.016
+Andha Kanna Paathaakaa,Master ,Movie,Anirudh Ravichander;Yuvan Shankar Raja;Vignesh Shivan,Tamil,2020,Romantic,Soul,3.24,60,Medium,Sony Music Entertainment India Pvt. Ltd.,0.747,0.86,-4.071,0.279,0.301,0.0383,0.0743,0.625,90.445
+Dharala Prabhu Title Track,Dharala Prabhu ,Movie,Anirudh Ravichander;Vignesh Shivan,Tamil,2020,Happy,Pop,3.32,49,Medium,Sony Music Entertainment India Pvt. Ltd.,0.723,0.908,-3.103,0.234,0.146,0,0.0405,0.664,133.02
+Unnaal Penne,Dharala Prabhu ,Movie,Inno Genga,Tamil,2020,Romantic,Soul,3.57,29,Low,Sony Music Entertainment India Pvt. Ltd.,0.444,0.773,-5.652,0.0453,0.445,0.000107,0.138,0.762,110.588
+Vaathi Coming ,Master,Movie,Anirudh Ravichander;Gana Balachandar,Tamil,2020,Energetic,Dance,3.8,57,Medium,Sony Music Entertainment India Pvt. Ltd.,0.649,0.947,-4.087,0.26,0.218,0.383,0.0532,0.579,164.943
+Kutti Story ,Master,Movie,Anirudh Ravichander;Vijay;Arunraja Kamaraj,Tamil,2020,Happy,Pop,5.01,46,Medium,Sony Music Entertainment India Pvt. Ltd.,0.694,0.557,-6.134,0.102,0.202,0.00000135,0.0919,0.78,104.759
+Kadhaippoma ,Oh My Kadavule,Movie,Leon James;Sid Sriram;Ko Sesha,Tamil,2020,Romantic,Soul,4.7,70,Medium,Sony Music Entertainment India Pvt. Ltd.,0.575,0.577,-6.674,0.0432,0.451,0.00000398,0.264,0.157,90.012
+Chill Bro,Pattas,Movie,Dhanush;Vivek - Mervin,Tamil,2019,Happy,Pop,4,40,Medium,T-Series,0.73,0.904,-4.223,0.247,0.18,0.000348,0.121,0.464,160.07
+Muqabla ,Street Dancer 3D,Movie,Yash Narvekar;Parampara Tandon;Tanishk Bagchi,Tamil,2019,Happy,Pop,2.94,52,Medium,T-Series,0.804,0.921,-3.036,0.0884,0.0231,0.00000206,0.361,0.501,120.002
+Dhom Dhom ,Naan Sirithal,Movie,Hiphop Tamizha;Sanjith Hegde,Tamil,2019,Happy,Pop,3.03,48,Medium,Think Music,0.651,0.941,-3.542,0.147,0.277,0.00000222,0.163,0.555,89.993
+Breakup Song ,Naan Sirithal,Movie,Hiphop Tamizha,Tamil,2019,Sad,Blues,2.82,48,Medium,Think Music,0.43,0.96,-2.721,0.419,0.0859,0,0.0617,0.454,151.92
+Singappenney,Bigil ,Movie,A.R. Rahman;Shashaa Tirupati,Tamil,2019,Energetic,Dance,6.07,47,Medium,Sony Music Entertainment India Pvt. Ltd.,0.741,0.653,-8.561,0.0751,0.185,0.0000133,0.115,0.525,140.029
+Bad Boy,Saaho,Movie,Badshah;Benny Dayal;Sunitha Sarathy,Tamil,2019,Energetic,Dance,2.96,20,Low,T-Series,0.879,0.845,-4.763,0.19,0.258,0.00247,0.0919,0.556,105.014
+Takkunu Takkunu,Mr. Local ,Movie,Hiphop Tamizha;Anirudh Ravichander,Tamil,2019,Happy,Pop,3.55,50,Medium,Think Music,0.811,0.587,-10.091,0.0872,0.0829,0,0.173,0.758,110.027
+Thaarame Thaarame,Kadaram Kondan,Movie,Sid Sriram;Ghibran,Tamil,2019,Romantic,Soul,3.8,66,Medium,Muzik247,0.594,0.53,-6.491,0.0343,0.677,0,0.108,0.32,139.878
+Kerala Song,Natpe Thunai ,Movie,Hiphop Tamizha,Tamil,2019,Happy,Pop,3.96,53,Medium,Think Music,0.524,0.947,-2.6,0.258,0.163,0,0.451,0.653,190.013
+Inayae,Thadam,Movie,Sid Sriram;Padmalatha,Tamil,2019,Romantic,Soul,3.57,50,Medium,Saregama,0.522,0.603,-5.994,0.0275,0.821,0.0000364,0.0789,0.545,91.995
+Kannamma,Ispade Rajavum Idhaya Raniyum ,Movie,Sam C.S.;Anirudh Ravichander,Tamil,2019,Romantic,Soul,4.28,64,Medium,Think Music,0.729,0.695,-8.524,0.0312,0.522,0.000621,0.113,0.599,127.992
+Single Pasanga ,Natpe Thunai,Movie,Hiphop Tamizha;Gana Balachandar;Gana Ulagam Dharani;Arivu,Tamil,2019,Happy,Pop,3.74,45,Medium,Think Music,0.751,0.895,-3.268,0.205,0.21,0,0.0696,0.866,138.046
+Marana Mass ,Petta ,Movie,Anirudh Ravichander;S. P. Balasubrahmanyam;Vivek,Tamil,2018,Energetic,Dance,3.6,60,Medium,Sony Music Entertainment India Pvt. Ltd.,0.471,0.873,-5.503,0.373,0.47,0.0000813,0.146,0.737,78.434
+Top Tucker,Sarkar ,Movie,A.R. Rahman;Mohit Chauhan,Tamil,2018,Happy,Pop,3.72,55,Medium,Sony Music Entertainment India Pvt. Ltd.,0.721,0.657,-8.304,0.0319,0.0322,0.00109,0.0618,0.454,132.97
+OMG Ponnu,Sarkar ,Movie,A.R. Rahman;Sid Sriram;Jonita Gandhi,Tamil,2018,Happy,Pop,4.74,55,Medium,Sony Music Entertainment India Pvt. Ltd.,0.809,0.714,-9.555,0.0342,0.00169,0.136,0.0573,0.514,130.011
+The Life of Ram,96,Movie,Govind Vasantha;Pradeep Kumar,Tamil,2018,Sad,Blues,5.9,64,Medium,Think Music,0.496,0.488,-9.799,0.0306,0.277,0.00000239,0.183,0.347,83.945
+Kaathalae Kaathalae ,96,Movie,Govind Vasantha;Chinmayi,Tamil,2018,Romantic,Soul,3.23,57,Medium,Think Music,0.301,0.248,-12.885,0.0332,0.926,0.0373,0.051,0.0689,94.637
+Orasaadha ,Madras Gig),Movie,Vivek - Mervin;Ku Karthik,Tamil,2018,Romantic,Soul,3.93,68,Medium,Sony Music Entertainment India Pvt. Ltd.,0.587,0.776,-4.892,0.0807,0.141,0,0.109,0.606,159.906
+Sandakkaari,Kadaikutty Singam ,Movie,D. Imman;Vandana Srinivasan,Tamil,2018,Romantic,Soul,4.49,44,Medium,Sony Music Entertainment India Pvt. Ltd.,0.781,0.832,-4.023,0.0607,0.0838,0,0.0985,0.959,133.945
+Iraiva,Velaikkaran ,Movie,Anirudh Ravichander;Jonita Gandhi,Tamil,2017,Sad,Blues,4.91,46,Medium,Sony Music Entertainment India Pvt. Ltd.,0.571,0.729,-5.603,0.0481,0.198,0,0.103,0.378,140.062
+Laali Laali,Theeran Adhigaaram Ondru,Movie,Ghibran;Sathyaprakash;Pragathi Guruprasad,Tamil,2017,Romantic,Soul,3.86,47,Medium,Aditya Music (India) Pvt Ltd,0.719,0.62,-8.439,0.0284,0.738,0.0000989,0.155,0.258,124.434
+Sodakku ,Thaanaa Serndha Koottam,Movie,Anirudh Ravichander;Anthony Daasan,Tamil,2017,Happy,Pop,3.98,51,Medium,Sony Music Entertainment India Pvt. Ltd.,0.741,0.9,-3.634,0.268,0.345,0.00406,0.0362,0.665,159.836
+Neethanae ,Mersal,Movie,A.R. Rahman;Shreya Ghoshal;Vivek,Tamil,2017,Romantic,Soul,4.49,62,Medium,Sony Music Entertainment India Pvt. Ltd.,0.57,0.442,-9.656,0.043,0.716,0.000788,0.0922,0.53,73.963
+Aalaporaan Thamizhan ,Mersal,Movie,A.R. Rahman;Kailash Kher;Sathyaprakash;Deepak Blue;Pooja AV;Vivek,Tamil,2017,Energetic,Dance,5.81,35,Low,Sony Music Entertainment India Pvt. Ltd.,0.699,0.811,-7.087,0.0561,0.262,0.00155,0.108,0.736,135.966
+Yaanji,Vikram Vedha ,Movie,Anirudh Ravichander;Sam C.S.;Shakthisree Gopalan,Tamil,2017,Romantic,Soul,4.51,59,Medium,Think Music,0.692,0.624,-6.492,0.0337,0.368,0,0.108,0.487,132.896
+Karuppu Vellai,Vikram Vedha ,Movie,Sivam;Sam C.S.,Tamil,2017,Energetic,Dance,3.26,56,Medium,Think Music,0.425,0.595,-8.296,0.0533,0.437,0.000826,0.0958,0.0892,109.91
+Vaadi Pulla Vaadi ,Meesaya Murukku,Movie,Hiphop Tamizha,Tamil,2017,Romantic,Soul,4.11,53,Medium,Think Music,0.472,0.937,-5.464,0.0639,0.375,0.000101,0.325,0.324,179.999
+Mazhaikkulle ,Slow Delights,Movie,Haricharan;Shreya Ghoshal,Tamil,2017,Calm,Acoustic,5.17,26,Low,Think Music,0.68,0.679,-6.627,0.0322,0.676,0.0000571,0.0963,0.118,99.983
+Sirukki Vaasam,Kodi ,Movie,Santhosh Narayanan;Anand Aravindakshan;Shweta Mohan;Vivek,Tamil,2016,Romantic,Soul,4.58,66,Medium,Sony Music Entertainment India Pvt. Ltd.,0.571,0.544,-6.555,0.0507,0.502,0,0.0617,0.375,129.869
+Ei Suzhali,Kodi ,Movie,Santhosh Narayanan;Vijaynarain;Vivek,Tamil,2016,Romantic,Soul,3.62,65,Medium,Sony Music Entertainment India Pvt. Ltd.,0.797,0.279,-8.947,0.423,0.781,0.000101,0.326,0.813,180.066
+Konjam ,M.S.Dhoni - The Untold Story,Movie,Armaan Malik,Tamil,2016,Romantic,Soul,2.89,55,Medium,T-Series,0.485,0.422,-8.266,0.0337,0.901,0.0398,0.096,0.309,121.908
+Sirikkadhey,Remo ,Movie,Anirudh Ravichander;Arjun Kanungo;Srinidhi Venkatesh;Vignesh Shivan,Tamil,2016,Romantic,Soul,4.1,64,Medium,Sony Music Entertainment India Pvt. Ltd.,0.632,0.629,-7.392,0.0354,0.151,0.00382,0.114,0.456,87.998
+Senjitaley ,Remo ,Movie,Anirudh Ravichander;Vignesh Shivan,Tamil,2016,Happy,Pop,4.19,45,Medium,Sony Music Entertainment India Pvt. Ltd.,0.655,0.941,-5.185,0.14,0.476,0.00000322,0.215,0.344,88.073
+Aval,Manithan ,Movie,Santhosh Narayanan;Pradeep Kumar;Priya Hemesh;Vivek,Tamil,2016,Romantic,Soul,4.44,68,Medium,Sony Music Entertainment India Pvt. Ltd.,0.324,0.457,-8.683,0.0336,0.271,0.0000265,0.433,0.225,99.902
+En Jeevan,Theri ,Movie,G. V. Prakash;Hariharan;Saindhavi;Vaikom Vijayalakshmi,Tamil,2016,Romantic,Soul,5.34,63,Medium,Think Music,0.393,0.29,-9.136,0.0385,0.552,0.00000384,0.54,0.296,179.779
+Chella Kutti,Theri ,Movie,G. V. Prakash;Vijay;Neeti Mohan,Tamil,2016,Romantic,Soul,4.84,57,Medium,Think Music,0.691,0.737,-5.648,0.102,0.355,0.0000896,0.0915,0.679,140.05
+Konji Pesida Venaam,Sethupathi ,Movie,Nivas K Prasanna;K. S. Chithra;Sriram Parthasarathy,Tamil,2016,Romantic,Soul,3.78,66,Medium,Think Music,0.756,0.661,-5.769,0.0972,0.187,0.00000626,0.0774,0.635,88.001
+Mazhaye Mazhaye ,James and Alice,Movie,Gopi Sundar;Karthik;Abhaya Hiranmayi;B.K. Harinarayanan,Malayalam,2016,Romantic,Soul,4.23,18,Low,Muzik247,0.623,0.457,-8.923,0.0857,0.778,0.000349,0.164,0.523,164.906
+Madhu Pole,Dear Comrade,Movie,Sid Sriram;Aishwarya Ravichandran;Justin Prabhakaran;Joe Paul,Malayalam,2019,Romantic,Soul,4.36,18,Low,Lahari Music,0.546,0.304,-9.577,0.0272,0.853,0.00000537,0.202,0.475,97.898
+Vaarthinkale,Kali ,Movie,Gopi Sundar;Divya S Menon;B.K. Harinarayanan,Malayalam,2016,Romantic,Soul,4.41,18,Low,Satyam Audios,0.621,0.371,-10.851,0.0306,0.73,0.28,0.126,0.334,173.945
+Chilluraanthal,Kali ,Movie,Gopi Sundar;Job Kurian,Malayalam,2016,Romantic,Soul,5.06,18,Low,Satyam Audios,0.522,0.418,-10.262,0.0931,0.524,0.00101,0.0998,0.786,169.957
+Ee Shishirakaalam ,Jacobinte Swargarajyam,Movie,Shaan Rahman;Vineeth Sreenivasan;Kavya Ajit;B.K. Harinarayanan,Malayalam,2016,Romantic,Soul,3.75,18,Low,Muzik247,0.365,0.61,-6.669,0.0352,0.703,0.0000064,0.106,0.192,139.523
+Thiruvaavaniraavu ,Jacobinte Swargarajyam,Movie,Shaan Rahman;Unni Menon;Sithara Krishnakumar;Meera Scharma;Manu Manjith,Malayalam,2016,Happy,Pop,4.02,18,Low,Muzik247,0.606,0.456,-8.943,0.033,0.629,0,0.132,0.435,89.998
+Njaano Raavoo,Kammara Sambhavam ,Movie,Haricharan;Divya S Menon,Malayalam,2018,Romantic,Soul,5.21,19,Low,Millennium Audios,0.551,0.366,-11.139,0.0393,0.933,0.000114,0.459,0.639,151.628
+Aazhikkullil,Kammara Sambhavam ,Movie,Karthik;Divya S Menon,Malayalam,2018,Romantic,Soul,4.92,19,Low,Millennium Audios,0.765,0.866,-6.997,0.113,0.396,0.00163,0.0669,0.727,134.994
+Theera Katha,Gauthamante Radham,Movie,Ankit Menon;Preetha Madhu Menon;Ashwin Aryan;Vinayak Sasikumar,Malayalam,2020,Sad,Blues,4.35,49,Medium,Muzik247,0.493,0.3,-11.431,0.0325,0.665,0.0114,0.0915,0.192,172.129
+Aaromal,Minnal Murali,Movie,Nithya Mammen;Sooraj Santhosh;Shaan Rahman,Malayalam,2021,Romantic,Soul,4.08,50,Medium,Muzik247,0.668,0.249,-10.512,0.0424,0.713,0,0.107,0.707,130.006
+Athmavin Akashathil ,Njan Prakashan,Movie,Shaan Rahman;Gowry Lekshmi,Malayalam,2018,Calm,Acoustic,5.21,54,Medium,Manorama Music,0.298,0.466,-7.734,0.0327,0.451,0.000434,0.0876,0.117,100.714
+Rasathi,Aravindante Athidhikal,Movie,Shaan Rahman;Vineeth Sreenivasan;Liya Susan Verghese;B.K. Harinarayanan,Malayalam,2018,Romantic,Soul,3.97,54,Medium,Muzik247,0.539,0.45,-9.027,0.0284,0.607,0.0004,0.148,0.42,114.933
+Pon Thaarame,Helen,Movie,Shaan Rahman;Vineeth Sreenivasan;Vinayak Sasikumar,Malayalam,2019,Romantic,Soul,3.75,54,Medium,Muzik247,0.639,0.46,-9.698,0.0288,0.349,0.0134,0.131,0.393,130.039
+Ennilerinju,Jacobinte Swargarajyam,Movie,Shaan Rahman;Rzee;Sithara Krishnakumar,Malayalam,2016,Sad,Blues,3.26,54,Medium,Muzik247,0.489,0.857,-6.798,0.0718,0.389,0.00000215,0.0803,0.513,110.25
+Raavu Mayave,Vettah,Movie,Rinu Razak;Shaan Rahman,Malayalam,2016,Calm,Acoustic,4.91,54,Medium,Muzik247,0.703,0.589,-6.56,0.0263,0.725,0.0148,0.124,0.505,128.04
+Mayaanadhi,Mayaanadhi ,Movie,Shahabaz Aman,Malayalam,2018,Romantic,Soul,4.37,56,Medium,OPM Records,0.264,0.176,-16.969,0.0281,0.956,0.0501,0.0869,0.0771,101.372
+Neeyilla Neram ,LUCA,Movie,Sooraj S. Kurup,Malayalam,2019,Sad,Blues,3.61,56,Medium,Muzik247,0.598,0.461,-12.394,0.0326,0.735,0.103,0.0622,0.311,125.982
+Thennal Nilavinte,Oru Muthassi Gadha,Movie,Shaan Rahman;Vineeth Sreenivasan;Aparna Balamurali,Malayalam,2016,Calm,Acoustic,3.91,56,Medium,Muzik247,0.243,0.465,-8.996,0.0309,0.537,0.000034,0.24,0.432,180.502
+Dooreyo,Aanandam ,Movie,Vishak Nair;Suchith Suresan;Ashwin Gopakumar;Sachin Warrier,Malayalam,2016,Romantic,Soul,4.23,56,Medium,Satyam Audios,0.604,0.675,-6.99,0.0365,0.341,0.000765,0.201,0.376,129.02
+Payye Veesum,Aanandam ,Movie,Ashwin Gopakumar;Sneha Warrier,Malayalam,2016,Romantic,Soul,4.37,56,Medium,Satyam Audios,0.695,0.545,-8.757,0.0253,0.527,0.0146,0.113,0.252,104.981
+Don't Fall,Kumbalangi Nights ,Movie,Akhil Unnikrishnan (KEL),Malayalam,2019,Calm,Acoustic,1.54,22,Low,Bhavana Studios,0.579,0.0906,-16.15,0.0334,0.815,0.0000394,0.0967,0.205,100.726
+Silent Cat ,Kumbalangi Nights ,Movie,K.ZIA,Malayalam,2019,Calm,Acoustic,2.41,22,Low,Bhavana Studios,0.754,0.629,-9.678,0.255,0.0139,0.00245,0.906,0.588,139.98
+Duppattawaali ,Odum Kuthira Chaadum Kuthira,Movie,Justin Varghese;Sanjith Hegde;Anila Rajeev;Suhail Koya,Malayalam,2025,Happy,Pop,4.23,23,Low,Muzik247,0.748,0.553,-7.766,0.0472,0.411,0.0406,0.175,0.629,94.999
+Manuja,Romancham,Movie,Sushin Shyam;Rex Vijayan,Malayalam,2023,Energetic,Dance,3.49,23,Low,Saregama,0.643,0.68,-6.679,0.0363,0.0595,0.202,0.618,0.112,100.011
+Neeyanen Aakasham ,Kaathal The Core,Movie,Mathews Pulickan;Anne Amie;Jacquiline Mathew,Malayalam,2023,Romantic,Soul,2,23,Low,MammoottyKampany Films Pvt Ltd,0.48,0.12,-13.444,0.0291,0.978,0.00113,0.0812,0.489,66.031
+Thinkal Poovin ,Pachuvum Athbutha Vilakkum,Movie,Justin Prabhakaran;Anne Amie;Manu Manjith;Raj Shekhar,Malayalam,2023,Romantic,Soul,5.95,23,Low,T-Series,0.597,0.29,-9.488,0.0255,0.64,0,0.105,0.32,94.948
+Maayika Maname,Turbo ,Movie,Christo Xavier;Sooraj Santhosh;Vinayak Sasikumar,Malayalam,2024,Romantic,Soul,3.22,27,Low,MammoottyKampany Music,0.756,0.555,-11.133,0.0396,0.326,0.00818,0.0945,0.589,119.027
+Edan Poove,Little Hearts ,Movie,Kailas;Kapil Kapilan;Sanah Moidutty,Malayalam,2024,Romantic,Soul,4.45,27,Low,Sony Music Entertainment India Pvt. Ltd.,0.708,0.488,-10.361,0.171,0.733,0.000937,0.0898,0.338,94.966
+Kisa Paathiyil,Kismath,Movie,Sachin Balu,Malayalam,2016,Romantic,Soul,3.47,28,Low,Muzik247,0.554,0.287,-14.212,0.0271,0.889,0.000484,0.35,0.23,100.035
+Nilamanaltharikalil,Kismath,Movie,K. S. Harisankar;Shreya Raghav,Malayalam,2016,Romantic,Soul,3.86,28,Low,Muzik247,0.708,0.487,-11.563,0.0513,0.381,0.031,0.0902,0.534,80.538
+Chilathunaam,Kismath,Movie,Madhushree,Malayalam,2016,Romantic,Soul,5.09,28,Low,Muzik247,0.657,0.513,-13.16,0.039,0.332,0.0000531,0.0737,0.521,94.001
+Aadam Paadam ,Madhuram,Movie,APPU PATHU PAPPU;Joju George;Hesham Abdul Wahab,Malayalam,2021,Calm,Acoustic,3.19,28,Low,3560831 Records DK,0.693,0.59,-10.03,0.032,0.306,0,0.11,0.914,110.036
+Karakaana ,Varshangalkku Shesham,Movie,Amrit Ramnath;Vineeth Sreenivasan;Divya Vineeth,Malayalam,2024,Romantic,Soul,3.5,28,Low,Think Music,0.685,0.569,-9.353,0.0258,0.572,0.00109,0.112,0.361,115.032
+Kathangal Kinavil,Darvinte Parinamam ,Movie,Haricharan,Malayalam,2016,Romantic,Soul,3.88,28,Low,Satyam Audios,0.678,0.371,-7.894,0.0351,0.694,0.0000168,0.11,0.482,62.57
+En Nenjoram ,Santhosham,Movie,K. S. Harisankar;Vinayak Sasikumar;P S Jayhari,Malayalam,2022,Romantic,Soul,4.11,30,Low,Manorama Music,0.43,0.605,-6.125,0.0531,0.598,0,0.0725,0.381,104.847
+Paadi Njan,Thamaasha ,Movie,Shahabaz Aman,Malayalam,2019,Calm,Acoustic,3.23,31,Low,Happy Hours Entertainments,0.773,0.4,-11.452,0.0306,0.613,0.00186,0.147,0.747,113.01
+Premakkathu Pattu,Kadina Kadoramee Andakadaham ,Movie,Govind Vasantha;Fathima Jahaan;Mu.Ri,Malayalam,2023,Romantic,Soul,3.06,31,Low,Think Music,0.369,0.175,-12.886,0.0392,0.984,0.000281,0.0906,0.269,169.476
+Aattuthottil,Athiran ,Movie,P S Jayhari;P. Jayachandran;Fahad Faasil,Malayalam,2019,Calm,Acoustic,3.67,31,Low,Manorama Music,0.568,0.266,-12.171,0.0315,0.806,0,0.096,0.239,85.935
+Pavizha Mazha,Athiran ,Movie,P S Jayhari;K. S. Harisankar,Malayalam,2019,Romantic,Soul,3.89,31,Low,Manorama Music,0.559,0.726,-4.379,0.0456,0.66,0,0.0823,0.182,90.052
+Alaye,Kasargold,Movie,Benny Dayal;Vishnu Vijay,Malayalam,2023,Energetic,Dance,3.54,32,Low,Saregama India Ltd,0.668,0.638,-10.593,0.0516,0.00849,0.00791,0.357,0.804,120.008
+Ennile Punchiri ,Phoenix,Movie,Sam C.S.;Kapil Kapilan;K. S. Chithra;Vinayak Sasikumar,Malayalam,2023,Romantic,Soul,3.68,32,Low,123 Musix Entertainments Pvt Ltd,0.393,0.332,-10.297,0.04,0.822,0.00145,0.0745,0.254,112.611
+Ee Ulakin,King of Kotha ,Movie,Shaan Rahman;Sreejish Subramanian,Malayalam,2023,Energetic,Dance,4.04,33,Low,Sony Music Entertainment India Pvt. Ltd.,0.497,0.83,-4.8,0.0504,0.592,0,0.123,0.444,140.987
+Ulakathin,Karinkunnam 6s,Movie,Rahul Raj;Arun Alat;Joju Sebastian,Malayalam,2016,Energetic,Dance,3.29,33,Low,Muzik247,0.781,0.837,-7.345,0.0519,0.177,0.0123,0.107,0.719,105.004
+Ethetho Swapnamo,Avarude Ravukal,Movie,Vaisakh C Madhav;Siby Padiyara,Malayalam,2017,Romantic,Soul,4.24,34,Low,Muzik247,0.576,0.266,-10.205,0.0301,0.878,0,0.148,0.507,77.023
+Kotha Raja,King of Kotha ,Movie,Jakes Bejoy;Asal Kolaar;Dabzee;Roll Rida;Resmi Sateesh,Malayalam,2023,Energetic,Dance,4.55,34,Low,Sony Music Entertainment India Pvt. Ltd.,0.555,0.786,-7.431,0.136,0.172,0.0000422,0.108,0.373,130.078
+Ethu Mazhayilum,Udaharanam Sujatha,Movie,Gopi Sundar;Sithara Krishnakumar;B.K. Harinarayanan,Malayalam,2017,Romantic,Soul,3.42,35,Low,Muzik247,0.68,0.293,-10.08,0.0345,0.959,0.0000076,0.105,0.305,114.882
+Kannil Kannil,CIA - Comrade in America ,Movie,Gopi Sundar;Haricharan;Sayanora Philip;Rafeeq Ahammed,Malayalam,2017,Romantic,Soul,4.15,35,Low,123 Musix Entertainments Pvt Ltd,0.817,0.556,-9.58,0.0305,0.43,0.00834,0.103,0.673,114.984
+Vaanam Thilathilakkanu,CIA - Comrade in America ,Movie,Dulquer Salmaan;Carolina;Mohammed Maqbool Mansoor,Malayalam,2017,Happy,Pop,3.81,35,Low,123 Musix Entertainments Pvt Ltd,0.548,0.529,-10.077,0.0926,0.83,0.000152,0.104,0.568,142.556
+Kalariyadavum,Kayamkulam Kochunni,Movie,Shreya Ghoshal;Vijay Yesudas,Malayalam,2021,Energetic,Dance,4.11,35,Low,Jio Studios,0.617,0.379,-13.529,0.0343,0.83,0.00000534,0.433,0.655,79.993
+Koyikkodu,Goodalochana ,Movie,Abhaya Hiranmayi,Malayalam,2017,Happy,Pop,1.78,36,Low,123 Musix Entertainments Pvt Ltd,0.738,0.781,-7.811,0.0409,0.0601,0.000957,0.0614,0.929,90.023
+Kasavu Njoriyumoru Pulari,Udaharanam Sujatha,Movie,Gopi Sundar;Gayathri Varma;D. Santhosh,Malayalam,2017,Calm,Acoustic,3.81,36,Low,Muzik247,0.497,0.381,-11.657,0.0427,0.971,0.121,0.0577,0.589,86.47
+Kaatil Ila,Udaharanam Sujatha,Movie,Gopi Sundar;Vijay Yesudas;Rafeeq Ahammed,Malayalam,2017,Calm,Acoustic,5.58,36,Low,Muzik247,0.711,0.545,-10.152,0.0774,0.729,0.0000948,0.108,0.658,94.998
+Unarukayaano,Udaharanam Sujatha,Movie,Gopi Sundar;Sayanora Philip;Santhosh Varma,Malayalam,2017,Calm,Acoustic,4.16,36,Low,Muzik247,0.709,0.401,-11.524,0.0322,0.871,0.0101,0.0904,0.595,113.956
+Uyirin Naadhane,Joseph ,Movie,Ranjin Raj;Vijay Yesudas;Merin Gregory,Malayalam,2018,Sad,Blues,4.4,38,Low,Goodwill Entertainments,0.735,0.467,-10.273,0.0333,0.476,0.00000392,0.22,0.482,130.018
+Oduvile Theeyayi,Varathan ,Movie,Sushin Shyam;Neha S. Nair,Malayalam,2018,Sad,Blues,4.18,41,Medium,Goodwill Entertainments,0.785,0.389,-10.79,0.0394,0.696,0.528,0.389,0.622,120.031
+Lailakame,Ezra,Movie,Haricharan;Rahul Raj;B.K. Harinarayanan,Malayalam,2017,Romantic,Soul,4.27,42,Medium,Muzik247,0.496,0.522,-7.028,0.0254,0.258,0.00000167,0.1,0.222,99.901
+Vaaniluyare,Vimaanam ,Movie,Najim Arshad;Shreya Ghoshal;Gopi Sundar,Malayalam,2017,Calm,Acoustic,4.93,42,Medium,Satyam Audios,0.646,0.448,-9.65,0.0416,0.629,0.0000126,0.102,0.626,80.501
+Pularaan Neram,Android Kunjappan Version 5.25 ,Movie,Sooraj Santhosh,Malayalam,2019,Calm,Acoustic,3.44,49,Medium,Goodwill Entertainments,0.645,0.431,-13.659,0.0732,0.529,0.0000227,0.108,0.525,169.786
+En Kanavil ,4 Years ,Movie,Sankar Sharma;Arun Alat;Sony Mohan,Malayalam,2022,Romantic,Soul,6.43,19,Low,Sony Music Entertainment India Pvt. Ltd.,0.359,0.43,-11.193,0.035,0.592,0.0611,0.116,0.0904,106.648
+Vathikkalu Vellaripravu,Sufiyum Sujatayum ,Movie,M. Jayachandran;Arjun Krishna;Nithya Mammen;Zia Ul Haq;B.K. Harinarayanan,Malayalam,2020,Romantic,Soul,4.22,19,Low,Friday Music Company,0.478,0.269,-11.693,0.0353,0.687,0,0.103,0.384,182.045
+Puthiyoru Pathayil ,Varathan,Movie,Nazriya Nazim;Sushin Shyam,Malayalam,2018,Calm,Acoustic,3.1,20,Low,Goodwill Entertainments,0.509,0.594,-8.813,0.0853,0.515,0.0172,0.0996,0.299,169.807
+Kannil Pettole ,Thallumaala,Movie,Vishnu Vijay;Irfana;Mu.Ri,Malayalam,2022,Happy,Pop,2.92,20,Low,Muzik247,0.837,0.583,-11.581,0.144,0.121,0.00000678,0.115,0.672,109.991
+Ole Melody ,Thallumaala,Movie,Haricharan;Benny Dayal;Salim Kumar;Vishnu Vijay;Mu.Ri,Malayalam,2022,Happy,Pop,4.03,20,Low,Muzik247,0.752,0.452,-11.4,0.35,0.142,0.000184,0.235,0.842,99.74
+Bhoolokame,Bromance,Movie,Sibi Mathew Alex;Vipin Raveendran,Malayalam,2022,Happy,Pop,3.38,20,Low,Joy Music,0.727,0.856,-5.384,0.061,0.064,0.000541,0.126,0.506,90.001
+Vaanaville,Koode,Movie,M. Jayachandran;Karthik,Malayalam,2018,Romantic,Soul,4.69,20,Low,Muzik247,0.51,0.363,-12.465,0.0391,0.5,0.000321,0.0761,0.201,81.774
+Vinnu Churanna,Kismath,Movie,Neesa M P;Sumesh Parameshwar,Malayalam,2016,Romantic,Soul,3.5,21,Low,Muzik247,0.491,0.093,-14.436,0.0365,0.974,0.0000415,0.101,0.457,135.637
+Irulu Neelum Raave,Ezra,Movie,Sachin Balu;Sushin Shyam;Vinayak Sasikumar,Malayalam,2017,Sad,Blues,4.37,21,Low,Muzik247,0.291,0.458,-12.261,0.0318,0.894,0.362,0.086,0.238,136.469
+Kochiloru Kappaladuthe,Rosapoo ,Movie,Sushin Shyam;Munna,Malayalam,2018,Happy,Pop,3.18,21,Low,Sony Music Entertainment India Pvt. Ltd.,0.677,0.724,-8.367,0.0592,0.576,0.000606,0.289,0.477,95.039
+Munniloru Swargam,Rosapoo ,Movie,Sushin Shyam;Suchith Suresan,Malayalam,2018,Romantic,Soul,4.02,21,Low,Sony Music Entertainment India Pvt. Ltd.,0.622,0.836,-6.326,0.0576,0.224,0.00175,0.213,0.745,140.017
+Onnichalle,Fukri ,Movie,Afsal;Lonely Doggy;Joslee,Malayalam,2017,Happy,Pop,3.48,22,Low,123 Musix Entertainments Pvt Ltd,0.797,0.783,-6.48,0.0433,0.108,0.0958,0.0845,0.801,121.985
+Nee ,Varathan,Movie,Sushin Shyam;Nazriya Nazim,Malayalam,2018,Romantic,Soul,3.38,57,Medium,Goodwill Entertainments,0.7,0.672,-8.917,0.0448,0.532,0.0127,0.0501,0.266,102.022
+Aaro Nenjil,Godha ,Movie,Gowry Lekshmi,Malayalam,2021,Romantic,Soul,4.46,57,Medium,Satyam Audios,0.549,0.457,-9.953,0.0288,0.863,0.0789,0.0938,0.506,129.866
+Kaanumbol Ninne ,Thamaasha,Movie,Rex Vijayan;AshaJeevan;Mu.Ri,Malayalam,2019,Romantic,Soul,3.87,57,Medium,Happy Hours Entertainments,0.299,0.458,-9.097,0.0342,0.846,0.000021,0.107,0.203,118.064
+Kuthanthram ,Manjummel Boys ,Movie,Vedan;Sushin Shyam,Malayalam,2024,Energetic,Dance,5.03,59,Medium,Think Music,0.658,0.775,-5.087,0.231,0.185,0,0.127,0.602,94.026
+Vaanil Ninnum ,Thundu,Movie,Gopi Sundar;Pranavam Sasi;Vinayak Sasikumar,Malayalam,2024,Calm,Acoustic,4.09,59,Medium,Muzik247,0.441,0.742,-7.701,0.0769,0.183,0.00000729,0.523,0.0527,135.027
+Kutty Kudiye ,Premalu,Movie,Vishnu Vijay;Suhail Koya;Sanjith Hegde,Malayalam,2024,Happy,Pop,3.08,60,Medium,Bhavana Studios,0.814,0.571,-8.251,0.109,0.354,0.0000584,0.137,0.513,97.994
+Armadham,Aavesham ,Movie,Sushin Shyam;Pranavam Sasi;Vinayak Sasikumar,Malayalam,2024,Energetic,Dance,2.9,61,Medium,Think Music,0.711,0.788,-6.404,0.223,0.154,0.000596,0.132,0.426,146.968
+Makane,Vaazha ,Movie,Parvatish Pradeep;Sooraj Santhosh;B.K. Harinarayanan,Malayalam,2024,Sad,Blues,4.54,62,Medium,Think Music,0.489,0.186,-16.425,0.0301,0.805,0.842,0.0736,0.041,105.043
+Manne Nambi ,Adios Amigo,Movie,Gopi Sundar;Dabzee;Vinayak Sasikumar,Malayalam,2024,Calm,Acoustic,3.08,62,Medium,Muzik247,0.768,0.639,-5.549,0.036,0.0841,0.00433,0.0558,0.665,89.989
+Vatteppam,Mandakini,Movie,Bibin Ashok;Dabzee,Malayalam,2024,Happy,Pop,3.21,62,Medium,Saregama India Ltd,0.652,0.618,-8.818,0.0428,0.0111,0.255,0.1,0.71,140.087
+Angu Vaana Konilu,ARM ,Movie,Dhibu Ninan Thomas;Vaikom Vijayalakshmi,Malayalam,2024,Romantic,Soul,4.15,64,Medium,Think Music,0.61,0.51,-11.612,0.0382,0.232,0.0000734,0.0541,0.431,119.993
+Killer On The Loose ,Rifle Club,Movie,Rex Vijayan;The Imbachi,Malayalam,2024,Energetic,Dance,3.05,65,Medium,Think Music,0.718,0.707,-5.525,0.0444,0.00355,0.852,0.192,0.128,109.006
+Priya Lokame ,Sookshmadarshini,Movie,Christo Xavier;Sooraj Santhosh;Vinayak Sasikumar,Malayalam,2024,Romantic,Soul,2.52,65,Medium,Think Music,0.758,0.915,-5.805,0.0419,0.0161,0,0.0286,0.532,128.017
+Dhurooha Manthahasame ,Sookshmadarshini,Movie,Christo Xavier;Ahi Ajayan;Mu.Ri,Malayalam,2024,Calm,Acoustic,3.55,65,Medium,Think Music,0.452,0.702,-5.594,0.0339,0.00743,0.0029,0.303,0.215,177.81
+Paka,Ponman ,Movie,Justin Varghese;K. S. Chithra;Suhail Koya,Malayalam,2025,Energetic,Dance,4.58,66,Medium,Think Music,0.569,0.407,-10.375,0.0336,0.833,0.0779,0.0981,0.221,119.782
+Nira Niraye,Narayaneente Moonnaanmakkal ,Movie,Rahul Raj;Dhanya Suresh Menon,Malayalam,2025,Romantic,Soul,4.2,66,Medium,Goodwill Entertainments,0.252,0.575,-11.907,0.0506,0.426,0.24,0.576,0.0828,152.829
+Everyday ,Alappuzha Gymkhana,Movie,Vishnu Vijay;Sanjith Hegde;Suhail Koya,Malayalam,2025,Happy,Pop,2.42,67,Medium,Think Music,0.693,0.771,-7.701,0.0325,0.0396,0.00000516,0.21,0.726,134.999
+Kadha Thudarum (Timeless Bond),Thudarum,Movie,Jakes Bejoy;Hariharan;Gokul Gopakumar;B.K. Harinarayanan,Malayalam,2025,Calm,Acoustic,4.35,67,Medium,Sony Music Entertainment India Pvt. Ltd.,0.514,0.353,-13.103,0.027,0.655,0.0000743,0.184,0.265,82.063
+Hatja ,Alappuzha Gymkhana,Movie,Vishnu Vijay;K. S. Harisankar;Suhail Koya,Malayalam,2025,Happy,Pop,2.87,67,Medium,Think Music,0.86,0.769,-8.02,0.0741,0.159,0,0.107,0.889,120.038
+Kaavalaai Chekavar ,L2: Empuraan,Movie,Deepak Dev;Job Kurian;Murali Gopy,Malayalam,2025,Energetic,Dance,4.07,68,Medium,Aashirvad Cinemas,0.653,0.419,-9.865,0.0317,0.828,0,0.131,0.471,94.998
+Kanmanipoove ,Thudarum,Movie,Jakes Bejoy;M. G. Sreekumar;B.K. Harinarayanan,Malayalam,2025,Romantic,Soul,5.91,68,Medium,Sony Music Entertainment India Pvt. Ltd.,0.697,0.486,-9.765,0.0438,0.633,0.0000034,0.351,0.531,134.919
+Azrael ,L2: Empuraan,Movie,Deepak Dev;Usha Uthup;Murali Gopy,Malayalam,2025,Energetic,Dance,4.87,68,Medium,Aashirvad Cinemas,0.417,0.783,-5.911,0.0463,0.00608,0.00168,0.104,0.169,83.953
+Panjara Punch ,Alappuzha Gymkhana,Movie,Vishnu Vijay;Anthony Daasan;Suhail Koya,Malayalam,2025,Energetic,Dance,2.75,69,Medium,Think Music,0.715,0.749,-7.97,0.226,0.103,0,0.0949,0.685,159.965
+Venmathi ,Hridayapoorvam,Movie,Justin Prabhakaran;Sid Sriram;Manu Manjith,Malayalam,2025,Romantic,Soul,3.61,71,Medium,Aashirvad Cinemas,0.736,0.619,-9.096,0.0458,0.634,0.0002,0.0998,0.681,110.029
+Minnalvala,Narivetta ,Movie,Jakes Bejoy;Sid Sriram;Sithara Krishnakumar,Malayalam,2025,Energetic,Dance,4.98,71,Medium,Sony Music Entertainment India Pvt. Ltd.,0.696,0.59,-8.724,0.0356,0.545,0.000823,0.0985,0.849,126.92
+Kunjikkavil Meghame ,Aashaan,Movie,Johnpaul George;Sooraj Santhosh;Vinayak Sasikumar,Malayalam,2025,Romantic,Soul,4.74,72,Medium,Reetha Records,0.527,0.399,-8.352,0.0251,0.453,0.00125,0.11,0.416,94.963
+Nin Koode Njan Illayo,Pachuvum Athbutha Vilakkum,Movie,Justin Prabhakaran;Gowtham Bharadwaj;Chinmayi,Malayalam,2023,Sad,Blues,3.89,27,Low,T-Series,0.367,0.487,-9.632,0.0312,0.577,0.000572,0.13,0.284,94.894
+Kaathal Marangal Pookkane,Pranaya Vilasam ,Movie,Shaan Rahman;Sreejish Subramanian;Nanda J Devan,Malayalam,2023,Romantic,Soul,2.96,38,Low,Think Music,0.548,0.452,-9.014,0.121,0.642,0,0.0631,0.543,76.995
+Aadharanjali,Romancham,Movie,Sushin Shyam;Madhuvanthi Narayan,Malayalam,2023,Happy,Pop,2.49,36,Low,Saregama,0.702,0.635,-8.017,0.104,0.268,0.00192,0.0931,0.471,149.955
+Parayuvaan ,Ishq,Movie,Sid Sriram;Neha S. Nair;Jakes Bejoy;Joe Paul,Malayalam,2019,Romantic,Soul,4.62,65,Medium,E4 Entertainment,0.565,0.565,-8.64,0.0515,0.639,0.00206,0.0838,0.246,146.977
+Neela Nilave ,RDX,Movie,Sam C.S.;Kapil Kapilan,Malayalam,2023,Romantic,Soul,4.22,58,Medium,Saregama India Ltd,0.765,0.505,-6.698,0.0345,0.147,0,0.0988,0.526,119.957
+Dwapara ,Krishnam Pranaya Sakhi,Movie,Jaskaran Singh;Arjun Janya;V Nagendra Prasad,Kannada,2024,Romantic,Soul,4.73,0,Low,Aananda Audio Video,0.706,0.84,-5.712,0.0368,0.138,0.00000213,0.178,0.625,90.013
+Baanali Badalago ,Simple Aag Ond Love Story,Movie,Sonu Nigam;Siddu Kodipura,Kannada,2018,Romantic,Soul,4.81,51,Medium,Jhankar Music,0.597,0.525,-6.663,0.0375,0.479,0,0.132,0.47,119.954
+Dhare Neenididaasare ,Sapta Sagaradaache Ello - Side B,Movie,Charanraj MR;Rakshit Shetty;K. S. Harisankar,Kannada,2023,Sad,Blues,2.6,34,Low,Paramvah Music,0.441,0.156,-12.95,0.0318,0.952,0.035,0.0856,0.234,108.228
+Kanasalu ,Mungaru Male 2,Movie,Shreya Ghoshal;Arjun Janya;Shashank,Kannada,2018,Romantic,Soul,4.65,40,Medium,Jhankar Music,0.688,0.408,-8.692,0.037,0.387,0.00000226,0.1,0.258,119.987
+Gamanisu ,Mungaru Male 2,Movie,Sonu Nigam;Jayanth Kaikini,Kannada,2018,Sad,Blues,4.79,45,Medium,Jhankar Music,0.422,0.41,-6.746,0.0293,0.733,0.00000185,0.0971,0.243,120.089
+Katheyondu Helide ,Farewell,Movie,B. Ajaneesh Loknath,Kannada,2019,Romantic,Soul,3.78,0,Low,Divo TV Private Limited,0.505,0.651,-5.47,0.0747,0.726,0,0.228,0.447,169.984
+Ninna Nodalentho ,Mussanje Maatu,Movie,Sonu Nigam;Shreya Ghoshal;Ram Narayan,Kannada,2017,Romantic,Soul,4.78,36,Low,Jhankar Music,0.655,0.732,-6.639,0.0655,0.28,0,0.166,0.674,80.978
+Gaaliye ,Sanchari,Movie,Sonu Nigam;Shreya Ghoshal;V Nagendra Prasad,Kannada,2017,Calm,Acoustic,5.25,33,Low,Jhankar Music,0.701,0.775,-5.301,0.0369,0.453,0.00453,0.15,0.535,115.007
+Mathadu Nee ,Tarak,Movie,Armaan Malik;Shreya Ghoshal,Kannada,2020,Romantic,Soul,3.87,0,Low,Lahari Music,0.644,0.613,-6.541,0.0339,0.526,0.0000482,0.357,0.51,113.965
+Rangeride ,Vaasu Naan Pakka Commercial,Movie,Puneeth Rajkumar;C.R.Bobby,Kannada,2020,Happy,Pop,3.81,0,Low,Divo TV Private Limited,0.817,0.646,-5.495,0.0676,0.512,0.0000694,0.29,0.685,97.142
+Ille Ile Ello ,Chirru,Movie,Sonu Nigam;Shreya Ghoshal;Ghouse Peer,Kannada,2017,Romantic,Soul,4.72,34,Low,Jhankar Music,0.453,0.769,-7.388,0.0898,0.0924,0.0000192,0.0969,0.758,78.274
+Manasa Gange ,Payana,Movie,Sonu Nigam;V Nagendra Prasad,Kannada,2018,Romantic,Soul,5.12,41,Medium,Jhankar Music,0.636,0.711,-11.466,0.0581,0.678,0.0000299,0.134,0.921,88.041
+Krishna Nee Begane Baaro ,Paris Pranaya,Movie,Shreya Ghoshal;Nagathihalli Chandrashekhar,Kannada,2016,Calm,Acoustic,5.71,33,Low,Mars Inc,0.368,0.531,-7.737,0.0341,0.519,0.00000312,0.728,0.479,94.019
+Soul Of Dia ,Dia,Movie,Sanjith Hegde;Chinmayi,Kannada,2020,Sad,Blues,3.57,0,Low,Divo Tv Private Limited,0.559,0.645,-5.929,0.033,0.223,0.00000418,0.115,0.24,139.985
+Ninadene Januma ,Love Mocktail 2,Movie,Nakul Abhyankar;Raghavendra Kamath,Kannada,2021,Romantic,Soul,4.77,56,Medium,Jhankar Music,0.268,0.358,-8.972,0.0316,0.65,0,0.158,0.288,136.707
+Ee Prema ,Love Mocktail 2,Movie,Nakul Abhyankar;Ramya Bhat Abhyankar,Kannada,2021,Romantic,Soul,3.45,31,Low,Mars Films / Jhankar Music,0.509,0.628,-7.31,0.0833,0.182,0.0000416,0.356,0.281,137.547
+Ide Swarga ,Love Mocktail 2,Movie,Nakul Abhyankar;Sanjith Hegde;Raghavendra Kamath,Kannada,2021,Romantic,Soul,4.71,44,Medium,Jhankar Music,0.382,0.551,-7.943,0.035,0.0667,0.00000171,0.0869,0.216,176.06
+Navile ,Kalavida,Movie,S. P. Balasubrahmanyam;Hamsalekha,Kannada,2021,Romantic,Soul,5.27,43,Medium,Jhankar Music,0.542,0.726,-8.588,0.0661,0.595,0.000867,0.37,0.266,91.585
+The Family Ballad ,Vikrant Rona,Movie,Harshika Devanath;B. Ajaneesh Loknath;Anup Bhandari,Kannada,2022,Calm,Acoustic,1.4,36,Low,T-Series,0.47,0.294,-14.64,0.0451,0.945,0.12,0.142,0.0526,120.185
+Belakina Kavithe ,Banaras,Movie,Sanjith Hegde;Sangeetha Ravindranath,Kannada,2022,Romantic,Soul,3.62,0,Low,Lahari Music,0.45,0.457,-8.909,0.0516,0.652,0,0.296,0.325,157.513
+Yaaro Kannalli ,Orata I Love You,Movie,Rajesh Krishnan;Nanditha;K Kalyan,Kannada,2018,Romantic,Soul,5.82,45,Medium,Jhankar Music,0.642,0.718,-9.151,0.0356,0.0307,0,0.21,0.812,125.047
+Singara Siriye ,Kantara,Movie,B. Ajaneesh Loknath;Vijay Prakash;Ananya Bhat;Nagraj Panar Valtur;Pramod Maravanthe,Kannada,2022,Happy,Pop,4.7,47,Medium,Divo Tv Private Limited,0.641,0.668,-8.933,0.0909,0.462,0.0000063,0.0947,0.519,125.969
+Mellage ,Swathi Mutthina Male Haniye,Movie,Madhuri Seshadri;Midhun Mukundan,Kannada,2023,Calm,Acoustic,4.63,0,Low,Aananda Audio Video,0.587,0.181,-14.214,0.0586,0.657,0,0.0547,0.315,134.836
+Olave Olave ,Sapta Sagaradaache Ello - Side B,Movie,Charanraj MR;Suvarna Sharma;Srilakshmi Belmannu,Kannada,2023,Romantic,Soul,3.23,40,Medium,Paramvah Music,0.365,0.311,-12.047,0.036,0.698,0.0000044,0.0781,0.319,143.533
+Usire ,Sapta Sagaradaache Ello - Side B,Movie,Charanraj MR;Dhananjay Ranjan;Sanjith Hegde,Kannada,2023,Romantic,Soul,4.44,41,Medium,Paramvah Music,0.628,0.647,-9.492,0.0411,0.222,0.00163,0.473,0.134,144.981
+Kanmareya Kaade ,Sapta Sagaradaache Ello - Side A,Movie,Charanraj MR;Jayanth Kaikini;Shakthisree Gopalan;Narayan Sharma,Kannada,2023,Sad,Blues,4.05,0,Low,Paramvah Music,0.286,0.0949,-16.06,0.036,0.935,0.00401,0.0916,0.0652,74.638
+Kaala Kaayiso Kade ,Sapta Sagaradaache Ello - Side A,Movie,Charanraj MR;Dhananjay Ranjan,Kannada,2023,Sad,Blues,4.84,0,Low,Paramvah Music,0.532,0.532,-11.876,0.0372,0.752,0.262,0.0836,0.168,104.983
+Sapta Sagaradaache Ello - Side A Title Track ,Sapta Sagaradaache Ello - Side A,Movie,Charanraj MR;Dhananjay Ranjan;Kapil Kapilan,Kannada,2023,Calm,Acoustic,4.26,0,Low,Paramvah Music,0.541,0.571,-8.038,0.0325,0.208,0,0.0384,0.319,89.96
+Kadalanu ,Sapta Sagaradaache Ello - Side A,Movie,Charanraj MR;Nagarjun Sharma;Srilakshmi Belmannu,Kannada,2023,Romantic,Soul,1.75,59,Medium,Paramvah Music,0.541,0.183,-12.844,0.0349,0.912,0,0.105,0.387,124.02
+Preethisuve ,Kousalya Supraja Rama,Movie,Arjun Janya;Sonu Nigam;Prithwi Bhat,Kannada,2023,Romantic,Soul,3.97,54,Medium,Saregama India Ltd,0.682,0.773,-7.404,0.0433,0.574,0.00311,0.171,0.672,124.97
+Oh Anahita ,Ibbani Tabbida Ileyali,Movie,Chandrajith Belliappa;Gagan Baderiya;Kapil Kapilan,Kannada,2024,Romantic,Soul,5.53,50,Medium,Paramvah Music,0.567,0.562,-7.578,0.0398,0.273,0,0.0948,0.338,104.986
+Bonding Song ,777 Charlie - Kannada,Movie,Nobin Paul;Pancham Jeeva,Kannada,2022,Happy,Pop,4.47,0,Low,Paramvah Music,0.738,0.523,-7.386,0.0435,0.277,0,0.13,0.607,99.997
+Taare Nihaare ,Ibbani Tabbida Ileyali,Movie,Gagan Baderiya;Nagarjun Sharma;Armaan Malik,Kannada,2024,Romantic,Soul,4.99,29,Low,Paramvah Music,0.488,0.46,-7.31,0.0323,0.76,0.000108,0.0893,0.149,100.049
+Radhe ,Ibbani Tabbida Ileyali,Movie,Gagan Baderiya;Chandrajith Belliappa;Srilakshmi Belmannu,Kannada,2024,Romantic,Soul,4.75,40,Medium,Paramvah Music,0.515,0.44,-9.164,0.0338,0.709,0.0000071,0.0563,0.35,154.961
+Sadaa Neene ,Ibbani Tabbida Ileyali,Movie,Gagan Baderiya;Nagarjun Sharma;Arun Kamath,Kannada,2024,Romantic,Soul,3.78,29,Low,Paramvah Music,0.556,0.747,-6.898,0.0419,0.0364,0,0.0869,0.187,130.014
+Naa Ninage Kaavalugaara ,James - Kannada,Movie,Charanraj MR;Ankita Kundu;Sanjith Hegde;Chethan Kumar,Kannada,2022,Romantic,Soul,3.37,51,Medium,Divo Tv Private Limited,0.578,0.409,-9.038,0.0375,0.895,0.0000205,0.107,0.313,134.924
+Mayavi ,Bhoomi 2024,Movie,Sonu Nigam;Sanjith Hegde;Nagarjun Sharma,Kannada,2024,Energetic,Dance,4.31,64,Medium,Merchant Records,0.68,0.529,-9.499,0.114,0.875,0.00158,0.103,0.546,95.893
+Nenapina Hudugiye ,Hero,Movie,B. Ajaneesh Loknath;Yogaraj Bhat;Vijay Prakash,Kannada,2021,Romantic,Soul,3.03,41,Medium,Divo Tv Private Limited,0.565,0.474,-7.743,0.0411,0.673,0.00000703,0.0838,0.422,139.285
+Scooter Song ,Su From So,Movie,Sumedh K;Pruthvi;Siddhartha Belmannu,Kannada,2025,Happy,Pop,3.79,45,Medium,Lighter Buddha Films,0.72,0.432,-11.215,0.0927,0.441,0.00123,0.112,0.66,139.997
+Kesariya Rangu ,Brahmastra,Movie,Pritam;Sanjith Hegde;Sid Sriram,Kannada,2022,Romantic,Soul,4.64,54,Medium,Sony Music Entertainment India Pvt. Ltd.,0.555,0.596,-7.278,0.0298,0.665,0.0000105,0.108,0.352,94.2
+Jiya Teri Jiya Meri ,Bajarangi,Movie,Jayant Kaikini;Karthik;Arjun Janya,Kannada,2025,Romantic,Soul,3.99,56,Medium,Aananda Audio Video,0.635,0.53,-8.56,0.0733,0.454,0,0.287,0.435,99.996
+Alemaariye - The Soul Of Rathnakara,,Movie,Sanjith Hegde;B. Ajaneesh Loknath;Rohit Padaki,Kannada,2021,Calm,Acoustic,5.25,52,Medium,Lahari Music,0.439,0.463,-8.451,0.0379,0.117,0,0.106,0.426,75.009
+Sanchariyagu Nee ,Love Mocktail 2,Movie,Nakul Abhyankar;Vijay Prakash;Rakshita Suresh;Raghavendra Kamath,Kannada,2021,Romantic,Soul,5.29,53,Medium,Jhankar Music,0.596,0.403,-8.85,0.0339,0.741,0,0.0963,0.267,124.863
+O Nidhima ,Love Mocktail 2,Movie,Nakul Abhyankar;Rakshita Suresh;Raghavendra Kamath,Kannada,2022,Romantic,Soul,3.73,34,Low,Jhankar Music,0.612,0.508,-8.531,0.0314,0.547,0,0.154,0.308,126.003
+Chaltha Chaltha ,Raja Huli,Movie,Sonu Nigam;Hamsalekha,Kannada,2017,Happy,Pop,4.06,39,Low,D Beats,0.627,0.642,-5.703,0.0285,0.293,0,0.243,0.56,102.985
+Onde Ondu Sala ,The Devil,Movie,B. Ajaneesh Loknath;Kapil Kapilan;Chinmayi;Pramod Maravanthe,Kannada,2025,Romantic,Soul,3.93,49,Medium,Saregama India Ltd,0.619,0.846,-4.711,0.0564,0.507,0.00436,0.0817,0.518,133.793
+Ayyo Sivane ,Cult,Movie,Arjun Janya;Jaskaran Singh;Prithwi Bhat;Anil Kumar,Kannada,2025,Energetic,Dance,4.74,54,Medium,Aananda Audio Video,0.539,0.846,-5.023,0.0462,0.635,0,0.0831,0.434,144.843
+Kannale ,Ambareesha,Movie,Sonu Nigam;Shreya Ghoshal;V Nagendra Prasad,Kannada,2017,Romantic,Soul,4.56,40,Medium,D Beats,0.499,0.433,-8.441,0.0327,0.672,0,0.0956,0.53,100.469
+Masth Malaika ,Mark,Movie,B. Ajaneesh Loknath;Nakash Aziz;Sanvi Sudeep;Anup Bhandari,Kannada,2025,Happy,Pop,3.23,63,Medium,Saregama India Ltd,0.771,0.876,-3.473,0.0845,0.0405,0.000427,0.125,0.471,140.044
+Benki Song ,Graamaayana,Movie,Kapil Kapilan;Airaa Udupi;Poornachandra Tejaswi SV;Chi. Udayashankar,Kannada,2026,Energetic,Dance,3.49,52,Medium,Lahari Music,0.818,0.825,-4.832,0.036,0.196,0.0000186,0.306,0.929,140.025
+Bangari Yare Nee Bul Bul ,Gharga,Movie,Nadeera Banu;Shri Hari;V Nagendra Prasad,Kannada,2026,Happy,Pop,3.15,52,Medium,Times Music,0.71,0.869,-8.186,0.0351,0.111,0.0444,0.0619,0.513,127.02
+Bangle Bangari ,Ekka,Movie,Anthony Daasan;Charanraj MR;Nagarjun Sharma,Kannada,2025,Happy,Pop,4.4,63,Medium,Aananda Audio Video,0.646,0.747,-5.893,0.109,0.425,0,0.215,0.843,173.978
+Brahmakalasha ,Kantara A Legend Chapter--1,Movie,B. Ajaneesh Loknath;Shasiraj Kavoor;Abby V,Kannada,2025,Energetic,Dance,5.73,58,Medium,Hombale Films,0.489,0.941,-5.372,0.329,0.323,0.00000225,0.282,0.543,160.027
+Danks Anthem ,Su From So,Movie,Sumedh K;Raj B. Shetty;Anurag Kulkarni,Kannada,2025,Energetic,Dance,3.28,57,Medium,Lighter Buddha Films,0.646,0.858,-5.041,0.153,0.00224,0.02,0.0663,0.452,170.021
+Psycho Saithan ,Mark,Movie,B. Ajaneesh Loknath;Vijay Prakash;Aniruddha Sastry;Anup Bhandari,Kannada,2025,Energetic,Dance,3.46,56,Medium,Saregama India Ltd,0.776,0.913,-5.475,0.308,0.569,0.00368,0.11,0.466,141.96
+Naane Neenanthe ,BRAT,Movie,Arjun Janya;Shashank;Sid Sriram;Lahari Mahesh,Kannada,2025,Romantic,Soul,4.1,60,Medium,Aananda Audio Video,0.705,0.667,-6.231,0.0305,0.397,0,0.117,0.754,134.907
+Idre Nemdiyaag Irbek ,The Devil,Movie,B. Ajaneesh Loknath;Deepak Blue;Aniruddha Sastry,Kannada,2025,Energetic,Dance,4.33,56,Medium,Saregama India Ltd,0.873,0.903,-6.514,0.287,0.419,0.000163,0.42,0.836,135.028
+Parichayavade ,Bagheera,Movie,B. Ajaneesh Loknath;Pramod Maravante;Ritesh G Rao,Kannada,2024,Romantic,Soul,3.57,53,Medium,Hombale Music,0.538,0.597,-8.448,0.0393,0.307,0,0.0909,0.171,154.871
+Yeno Onthara Chanda ,The Devil,Movie,B.Ajaneesh Loknath;Abby V;Harshika Devanath;Pramod Maravanthe,Kannada,2025,Romantic,Soul,4.82,43,Medium,Saregama India Ltd,0.668,0.71,-6.816,0.0894,0.088,0.00000168,0.0875,0.629,118.878
+Alohomora - The True Emperor ,The Devil,Movie,B. Ajaneesh Loknath;Aniruddha Sastry,Kannada,2025,Energetic,Dance,3.23,39,Low,Saregama India Ltd,0.646,0.985,-2.447,0.0765,0.0306,0.00848,0.11,0.747,93.022
+Bombe Bombe,Kranti ,Movie,V. Harikrishna;Yogaraj Bhat;Sonu Nigam,Kannada,2022,Romantic,Soul,3.46,40,Medium,D Beats,0.66,0.552,-9.072,0.0398,0.653,0,0.16,0.664,149.99
+Hostel Hudugaru Protest Song,Hostel Hudugaru Bekagiddare ,Movie,B. Ajaneesh Loknath,Kannada,2023,Energetic,Dance,4.12,46,Medium,Think Music Kannada,0.723,0.697,-9.325,0.162,0.657,0.0000219,0.895,0.798,108.839
+Pushpavati,Kranti ,Movie,V. Harikrishna;Aishwarya Rangarajan;Yogaraj Bhat,Kannada,2022,Happy,Pop,4.08,39,Low,D Beats,0.876,0.834,-7.037,0.143,0.556,0.00024,0.079,0.736,110.278
+Naanaadada Maathellava,Gaalipata 2 ,Movie,Arjun Janya;Jayant Kaikini;Sonu Nigam,Kannada,2022,Romantic,Soul,4.29,53,Medium,Aananda Audio Video,0.59,0.534,-7.884,0.0355,0.488,0.00000273,0.0781,0.354,129.867
+Kannu Hodiyaka,Roberrt,Movie,Shreya Ghoshal,Kannada,2021,Romantic,Soul,3.77,0,Low,Aananda Audio Video,0.801,0.778,-4.686,0.0473,0.345,0,0.302,0.862,97.007
+Belakina Kavithe,Banaras,Movie,Sanjith Hegde;Sangeetha Ravindranath;B. Ajaneesh Loknath;Dr V Nagendra Prasad,Kannada,2022,Romantic,Soul,3.6,54,Medium,Lahari Music,0.397,0.473,-8.582,0.0563,0.662,0,0.239,0.395,157.443
+Baava - Theme Song ,Su From So,Movie,Sandeep Thulasidas;Raj B. Shetty,Kannada,2025,Energetic,Dance,0.76,41,Medium,Lighter Buddha Films,0.677,0.701,-6.074,0.123,0.4,0.000064,0.753,0.97,134.701
+Viral Vayyari ,Junior ,Movie,Devi Sri Prasad;Deepak Blue;Haripriya;Pavan Bhat,Kannada,2025,Happy,Pop,4.41,40,Medium,Aditya Music (India) Pvt Ltd,0.861,0.642,-7.862,0.207,0.121,0.00899,0.158,0.371,82.521
+Karma Song,Kantara A Legend Chapter 1 - Kannada ,Movie,B. Ajaneesh Loknath;Trilok Trivikrama;Venkatesh D. C.,Kannada,2025,Energetic,Dance,4,48,Medium,Hombale Films,0.42,0.554,-8.184,0.0643,0.374,0.00000188,0.0841,0.537,149.95
+Gangi Gangi ,Brat,Movie,Arjun Janya;Balu Belagundi;Indu Nagaraj,Kannada,2025,Energetic,Dance,4.05,38,Low,Aananda Audio Video,0.832,0.972,-4.722,0.176,0.219,0.00000264,0.0824,0.638,132.024
+Love You Kane Love You Too Kano,Bheema ,Movie,Charan Raj;Vaish;Kaviraj,Kannada,2024,Romantic,Soul,3.82,45,Medium,Aananda Audio Video,0.673,0.517,-8.068,0.05,0.539,0.00143,0.355,0.367,145.345
+Settagalla ,KD: The Devil,Movie,Mika Singh;Arjun Janya,Kannada,2025,Happy,Pop,3.4,0,Low,Aananda Audio Video,0.691,0.948,-2.871,0.0371,0.0376,0.00187,0.315,0.745,127.989
+Maximum Mass,Max ,Movie,B. Ajaneesh Loknath;Chethan Gandharva;MC Bijju;Anup Bhandari,Kannada,2025,Energetic,Dance,2.41,25,Low,Saregama India Ltd,0.57,0.952,-6.326,0.102,0.0766,0.0000177,0.602,0.495,163.956
+Don't Worry Baby Chinnamma,Bheema ,Movie,Gana Muthu;Nagarjun Sharma,Kannada,2024,Happy,Pop,3.4,51,Medium,Aananda Audio Video,0.708,0.76,-7.91,0.292,0.675,0.0000422,0.229,0.929,139.94
+BRAT Theory ,Brat,Movie,Rahul Dit-O;Arjun Janya,Kannada,2025,Energetic,Dance,2.68,0,Low,Aananda Audio Video,0.741,0.81,-5.009,0.0944,0.0151,0.000305,0.368,0.526,99.008
+Hot'tu Mamma,Max ,Movie,B. Ajaneesh Loknath;Nakash Aziz;Aishwarya Rangarajan;Anup Bhandari,Kannada,2025,Happy,Pop,3.05,23,Low,Saregama India Ltd,0.775,0.948,-4.849,0.301,0.388,0.0000417,0.0523,0.482,135.053
+Jeeva Neene,Martin ,Movie,Mani Sharma;Sonu Nigam;Shruthika Samudhrala,Kannada,2025,Romantic,Soul,3.93,47,Medium,Saregama India Ltd,0.588,0.631,-6.495,0.0752,0.87,0.0000341,0.0893,0.449,79.479
+Bad Boys,Bheema ,Movie,Rahul Dit-O;MC Bijju;Nagarjun Sharma,Kannada,2024,Energetic,Dance,2.52,51,Medium,Aananda Audio Video,0.84,0.785,-6.682,0.461,0.458,0,0.389,0.718,160.195
+Feel The Power - Kannada ,Yuvarathnaa ,Movie,Thaman S;Santhosh Ananddram;Shashank Sheshagiri,Kannada,2021,Energetic,Dance,4.06,29,Low,Divo Tv Private Limited,0.7,0.935,-5.94,0.0527,0.037,0.00268,0.104,0.692,104.999
+Yava Janumada Gelathi ,Kaatera ,Movie,Hemanth Kumar;Rakshita Suresh;V. Harikrishna,Kannada,2024,Romantic,Soul,3.89,0,Low,Aananda Audio Video,0.673,0.684,-8.192,0.0604,0.621,0.00000222,0.049,0.509,80.925
+BOYS SARIGILLA,Hostel Hudugaru Bekagiddare ,Movie,B. Ajaneesh Loknath,Kannada,2023,Energetic,Dance,3.01,23,Low,Think Music Kannada,0.738,0.967,-3.056,0.149,0.527,0.0000395,0.0372,0.831,148.032
+Ra Ra Rakkamma,Vikrant Rona ,Movie,Nakash Aziz;Sunidhi Chauhan;B. Ajaneesh Loknath;Anup Bhandari,Kannada,2022,Energetic,Dance,3.64,35,Low,T-Series,0.839,0.972,-5.72,0.102,0.431,0.0002,0.0907,0.365,130.012
+Pasandaagavne - ,Kaatera ,Movie,Mangli;V. Harikrishna,Kannada,2024,Romantic,Soul,3.52,0,Low,Aananda Audio Video,0.897,0.621,-7.459,0.077,0.309,0.00000744,0.0608,0.882,116.992
+Horaata ,Sapta Sagaradaache Ello - Side A ,Movie,Charanraj MR;MC Bijju;Kiran Kaverappa;Keerthan Holla,Kannada,2023,Energetic,Dance,3.14,29,Low,Paramvah Music,0.704,0.697,-8.229,0.0505,0.583,0.0243,0.189,0.64,102.007
+Dorassani ,Pailwaan,Movie,Vijay Prakash,Kannada,2019,Romantic,Soul,4.28,0,Low,Lahari Music,0.447,0.635,-7.107,0.133,0.138,0.0000643,0.0885,0.597,169.615
+Neenire Saniha,Kirik Party ,Movie,Shreya Ghoshal,Kannada,2017,Romantic,Soul,3.64,0,Low,Divo Tv Private Limited,0.467,0.631,-6.256,0.13,0.677,0,0.319,0.585,179.471
+Marali Manasaagide,Gentleman,Movie,Sanjith Hegde;C.R.Bobby,Kannada,2019,Romantic,Soul,3.03,0,Low,Aananda Audio Video,0.466,0.73,-5.13,0.0753,0.114,0,0.0804,0.411,72.139
+Guruvara ,Power ,Movie,Puneeth Rajkumar,Kannada,2022,Happy,Pop,4.61,0,Low,Lahari Music,0.726,0.548,-9.562,0.0339,0.616,0.0124,0.321,0.629,130.99
+Hoovina Baanadanthe,Birugaali ,Movie,Shreya Ghoshal,Kannada,2018,Romantic,Soul,4.56,0,Low,Alpha Digitech,0.435,0.649,-6.943,0.0412,0.0788,0,0.16,0.516,99.672
+Arare Shuruvayitu Hege,Gentleman,Movie,Vijay Prakash,Kannada,2019,Romantic,Soul,2.91,0,Low,Aananda Audio Video,0.6,0.665,-5.91,0.0435,0.46,0,0.141,0.398,91.901
+Neenu Irade,Mungaru Male 2,Movie,Arjun Janya;Anuradha Bhat;Armaan Malik;Kaviraj,Kannada,2016,Sad,Blues,4.92,51,Medium,Jhankar Music,0.492,0.71,-7.211,0.0521,0.319,0,0.285,0.352,81.235
+Katheyondu Helide (Farewell),Kirik Party ,Movie,B. Ajaneesh Loknath,Kannada,2019,Romantic,Soul,3.78,0,Low,Divo TV Private Limited,0.505,0.651,-5.47,0.0747,0.726,0,0.228,0.447,169.984
+Kushiyagide,Tajmahal ,Movie,Abhimann Roy;Kunal Ganjawala;R Chandru,Kannada,2020,Happy,Pop,4.63,54,Medium,Jhankar Music,0.829,0.554,-6.905,0.0352,0.319,0.000301,0.308,0.79,100.015
+Anisuthidhe,99,Movie,Sanjith Hegde;Shreya Ghoshal,Kannada,2019,Romantic,Soul,4.36,0,Low,Aananda Audio Video,0.488,0.399,-8.309,0.0328,0.391,0.00000324,0.283,0.215,129.703
+Roopasi,Mugulu Nage,Movie,Sonu Nigam,Kannada,2017,Romantic,Soul,4.27,0,Low,D Beats,0.628,0.533,-8.372,0.0299,0.838,0.00133,0.358,0.377,111.005
+Ille Ile Ello,Chirru,Movie,Sonu Nigam;Shreya Ghoshal;Ghouse Peer,Kannada,2017,Romantic,Soul,4.72,34,Low,Jhankar Music,0.453,0.769,-7.388,0.0898,0.0924,0.0000192,0.0969,0.758,78.274
+Marate Hodenu,Dayavittu Gamanisi ,Movie,Pradeep Kumar;Shweta Devanahalli,Kannada,2019,Sad,Blues,4.09,0,Low,JP Music,0.413,0.313,-8.519,0.0346,0.787,0,0.113,0.551,146.993
+Ninna Snehadinda,Mugulu Nage,Movie,Shreya Ghoshal,Kannada,2017,Romantic,Soul,4,0,Low,D Beats,0.691,0.438,-6.531,0.0348,0.896,0.0000221,0.136,0.459,114.669
+Kere Yeri,Mugulu Nage,Movie,Sonu Nigam,Kannada,2017,Happy,Pop,4.65,0,Low,D Beats,0.766,0.486,-8.145,0.031,0.412,0.0000274,0.114,0.723,96.001
+Patra Bareyala,Aramane,Movie,Guru Kiran;Karthik;Kaviraj;Shweta,Kannada,2020,Romantic,Soul,4.42,40,Medium,Jhankar Music,0.599,0.716,-7.919,0.0588,0.16,0.00000127,0.558,0.593,156.877
+Ee Touchali,Dhumm,Movie,Lakshmi,Kannada,2017,Happy,Pop,4.1,48,Medium,Times Music,0.772,0.678,-8.832,0.0663,0.155,0.0142,0.113,0.767,91.009
+Hunna Hunna,Kotigobba 2,Movie,Jithin Raj;Shashaa Tirupati;Mc Rude,Kannada,2016,Happy,Pop,4.38,0,Low,Aananda Audio Video,0.55,0.724,-8.181,0.16,0.0558,0,0.139,0.742,170.03
+Tere Vaaste ,Zara Hatke Zara Bachke,Movie,Varun Jain;Sachin-Jigar;Shadab Faridi;Altamash Faridi;Amitabh Bhattacharya,Hindi,2023,Romantic,Soul,3.15,62,Medium,Saregama India Ltd,0.762,0.717,-8.316,0.0372,0.315,0.0000187,0.0914,0.958,109.996
+Hawayein ,Jab Harry Met Sejal,Movie,Pritam;Arijit Singh,Hindi,2017,Romantic,Soul,4.83,68,Medium,Sony Music Entertainment India Pvt. Ltd.,0.606,0.601,-5.576,0.0283,0.796,0.000511,0.127,0.453,125.961
+Kya Mujhe Pyar Hai ,Woh Lamhe,Movie,Pritam;KK,Hindi,2022,Romantic,Soul,4.44,58,Medium,T-Series,0.644,0.818,-5.924,0.0549,0.431,0.0000262,0.0806,0.789,118.477
+Dil Mein Ho Tum,Why Cheat India,Movie,Armaan Malik,Hindi,2019,Romantic,Soul,5.45,48,Medium,T-Series,0.608,0.653,-7.573,0.0427,0.507,0.000243,0.107,0.423,86.933
+Bolna ,Kapoor & Sons (Since 1921) ,Movie,Tanishk Bagchi;Arijit Singh;Asees Kaur,Hindi,2016,Romantic,Soul,3.55,67,Medium,Sony Music Entertainment India Pvt. Ltd.,0.488,0.403,-7.005,0.0272,0.598,0.00000428,0.434,0.497,131.489
+Ya Rabba ,Salaam-E-Ishq,Movie,Kailash Kher,Hindi,2017,Sad,Blues,6.98,57,Medium,T-Series,0.648,0.414,-10.933,0.0314,0.26,0.0000172,0.0748,0.583,143.971
+Mere Nishaan ,Oh My God,Movie,Kailash Kher;Meet Bros Anjjan,Hindi,2017,Energetic,Dance,5.01,53,Medium,T-Series,0.586,0.524,-8.576,0.0436,0.74,0.00000298,0.136,0.529,98.077
+Malang ,Malang - Unleash The Madness,Movie,Ved Sharma;Kunaal Vermaa,Hindi,2020,Energetic,Dance,4.79,67,Medium,T-Series,0.384,0.728,-6.503,0.0623,0.329,0.0000185,0.329,0.311,156.396
+Kaun Tujhe,M.S.Dhoni - The Untold Story,Movie,Palak Muchhal;Amaal Mallik;Manoj Muntashir,Hindi,2016,Romantic,Soul,4.02,67,Medium,T-Series,0.531,0.431,-8.937,0.037,0.868,0.0000247,0.127,0.19,107.99
+Brown Rang,Chaar Ikke,Movie,Yo Yo Honey Singh,Hindi,2018,Energetic,Dance,3.52,44,Medium,Speed Records,0.804,0.902,-3.067,0.0846,0.265,0.000413,0.0651,0.72,155.98
+Angreji Beat,Chaar Ikke,Movie,Yo Yo Honey Singh;Gippy Grewal,Hindi,2018,Energetic,Dance,4.27,43,Medium,Speed Records,0.851,0.998,-1.558,0.301,0.204,0.00102,0.0653,0.255,119.961
+Paniyon Sa,Satyameva Jayate,Movie,Tulsi Kumar;Atif Aslam;Rochak Kohli;Kumaar,Hindi,2018,Romantic,Soul,3.94,72,Medium,T-Series,0.523,0.768,-4.953,0.0566,0.447,0.000226,0.0833,0.669,75.03
+Enna Sona ,OK Jaanu,Movie,A.R. Rahman;Arijit Singh,Hindi,2017,Romantic,Soul,3.56,59,Medium,Sony Music Entertainment India Pvt. Ltd.,0.717,0.415,-9.875,0.0302,0.637,0.00000143,0.0976,0.379,100.021
+Humnava Mere,Humnava Mere,Movie,Jubin Nautiyal;Rocky - Shiv;Manoj Muntashir;Rocky Khanna,Hindi,2018,Sad,Blues,5.48,76,High,T-Series,0.401,0.553,-8.263,0.0337,0.47,0.00000296,0.124,0.364,79.144
+Kaabil Hoon,Kaabil,Movie,Jubin Nautiyal;Palak Muchhal;Rajesh Roshan;Nasir Faraaz,Hindi,2016,Romantic,Soul,5.23,51,Medium,T-Series,0.662,0.873,-3.927,0.0489,0.043,0.00000171,0.338,0.532,89.972
+Hardum Humdum ,Ludo,Movie,Pritam;Arijit Singh,Hindi,2020,Romantic,Soul,3.13,39,Low,T-Series,0.59,0.821,-4.933,0.0444,0.346,0.00000838,0.454,0.784,116.942
+Hua Hain Aaj Pehli Baar,Sanam Re,Movie,Amaal Mallik;Manoj Yadav;Armaan Malik;Palak Muchhal,Hindi,2016,Romantic,Soul,5.15,72,Medium,T-Series,0.495,0.729,-6.453,0.103,0.6,0.0000413,0.0993,0.683,155.892
+Yeh Dooriyan,Love Aaj Kal ,Movie,Pritam;Mohit Chauhan,Hindi,2020,Sad,Blues,4.03,65,Medium,Sony Music Entertainment India Pvt. Ltd.,0.615,0.566,-7.841,0.0304,0.696,0.053,0.0964,0.309,109.986
+Mehrama,Love Aaj Kal ,Movie,Pritam;Darshan Raval;Antara Mitra,Hindi,2020,Sad,Blues,4.16,70,Medium,Sony Music Entertainment India Pvt. Ltd.,0.56,0.631,-9.032,0.0334,0.861,0.0133,0.0985,0.376,107.987
+"Ae Zindagi Gale Laga Le - Take, 1",Dear Zindagi,Movie,Ilaiyaraaja;Amit Trivedi;Arijit Singh,Hindi,2016,Energetic,Dance,2.85,53,Medium,Sony Music Entertainment India Pvt. Ltd.,0.494,0.712,-6.605,0.0346,0.195,0.00028,0.108,0.386,156.059
+Saware ,Phantom,Movie,Pritam;Arijit Singh,Hindi,2019,Romantic,Soul,5.36,41,Medium,T-Series,0.499,0.683,-6.373,0.0333,0.702,0.00163,0.0749,0.297,134.958
+Nazar Na Lag Jaaye ,Stree,Movie,Ash King;Sachin-Jigar,Hindi,2018,Romantic,Soul,3.44,67,Medium,T-Series,0.527,0.622,-8.172,0.0842,0.7,0.00000282,0.126,0.672,173.709
+Pehla Pyaar,Kabir Singh,Movie,Armaan Malik;Vishal Mishra;Irshad Kamil,Hindi,2019,Romantic,Soul,4.54,71,Medium,T-Series,0.607,0.713,-5.105,0.03,0.56,0.0000498,0.101,0.611,124.868
+Jab Tak,M.S.Dhoni - The Untold Story,Movie,Armaan Malik;Amaal Mallik;Manoj Muntashir,Hindi,2016,Romantic,Soul,2.9,65,Medium,T-Series,0.299,0.447,-7.862,0.0383,0.858,0.000314,0.097,0.321,121.723
+Besabriyaan,M.S.Dhoni - The Untold Story,Movie,Armaan Malik;Amaal Mallik;Manoj Muntashir,Hindi,2016,Energetic,Dance,4.26,62,Medium,T-Series,0.338,0.459,-8.827,0.027,0.533,0.0000133,0.22,0.32,81.203
+Kuch Din,Kaabil,Movie,Jubin Nautiyal;Rajesh Roshan;Manoj Muntashir,Hindi,2016,Sad,Blues,4.81,43,Medium,T-Series,0.606,0.605,-5.661,0.0233,0.17,0.000144,0.0898,0.281,105.986
+Dekh Lena,Tum Bin 2,Movie,Arijit Singh;Tulsi Kumar;Ankit Tiwari;Manoj Muntashir,Hindi,2016,Romantic,Soul,4.69,56,Medium,T-Series,0.566,0.597,-7.889,0.0407,0.809,0.0117,0.297,0.654,151.872
+Roke Na Ruke Naina ,Badrinath Ki Dulhania,Movie,Arijit Singh,Hindi,2020,Sad,Blues,4.64,57,Medium,T-Series,0.501,0.382,-9.31,0.0283,0.722,0.0000115,0.154,0.264,80.657
+Tum Hi Aana ,Marjaavaan,Movie,Payal Dev;Jubin Nautiyal;Kunaal Vermaa,Hindi,2019,Sad,Blues,4.15,72,Medium,T-Series,0.473,0.401,-7.018,0.0241,0.629,0.0000117,0.154,0.345,90.076
+Galliyan ,Ek Villain,Movie,Ankit Tiwari,Hindi,2017,Romantic,Soul,5.67,61,Medium,T-Series,0.552,0.75,-5.215,0.039,0.445,0.0000737,0.291,0.4,89.999
+Tu Hi Hai,Dear Zindagi ,Movie,Amit Trivedi;Arijit Singh;Kausar Munir,Hindi,2016,Romantic,Soul,3.33,60,Medium,Sony Music Entertainment India Pvt. Ltd.,0.707,0.501,-7.389,0.0372,0.387,0.00000181,0.095,0.542,93.978
+Kabhii Tumhhe,Shershaah ,Movie,Javed-Mohsin;Darshan Raval;Rashmi Virag,Hindi,2021,Romantic,Soul,3.84,56,Medium,Sony Music Entertainment India Pvt. Ltd.,0.573,0.338,-7.478,0.027,0.864,0.00000441,0.133,0.451,96.981
+Mere Yaaraa ,Sooryavanshi,Movie,Arijit Singh;Neeti Mohan;Rashmi Virag,Hindi,2021,Romantic,Soul,4.75,66,Medium,T-Series,0.324,0.539,-8.076,0.038,0.713,0.0000315,0.118,0.486,120.526
+Tu Mera Hogaya Hai ,Tadap,Movie,Pritam;Jubin Nautiyal,Hindi,2021,Romantic,Soul,5.15,41,Medium,T-Series,0.598,0.814,-6.698,0.0667,0.453,0.00000271,0.178,0.613,92.955
+Kiston ,Roohi,Movie,Sachin-Jigar;Jubin Nautiyal,Hindi,2021,Romantic,Soul,2.69,46,Medium,Sony Music Entertainment India Pvt. Ltd.,0.521,0.309,-8.524,0.0341,0.68,0.0000131,0.103,0.312,150.07
+Kalle Kalle ,Chandigarh Kare Aashiqui,Movie,Priya Saraiya;Sachin-Jigar,Hindi,2021,Sad,Blues,3.79,47,Medium,T-Series,0.707,0.417,-9.269,0.0438,0.73,0.0000207,0.106,0.57,115.939
+Meri Zindagi Hai Tu ,Satyameva Jayate 2,Movie,Rochak Kohli;Jubin Nautiyal;Neeti Mohan;Manoj Muntashir,Hindi,2021,Romantic,Soul,4.74,60,Medium,T-Series,0.649,0.86,-4.07,0.0359,0.38,0.000547,0.147,0.585,96.025
+Mere Rashke Qamar,Baadshaho,Movie,Nusrat Fateh Ali Khan;Rahat Fateh Ali Khan;Tanishk Bagchi;A1 Melody Master-Fana;Manoj Muntashir,Hindi,2017,Romantic,Soul,3.67,64,Medium,T-Series,0.718,0.83,-5.488,0.0505,0.404,0.000025,0.124,0.771,105.012
+Soch Liya,Radhe Shyam,Movie,Mithoon;Arijit Singh;Manoj Muntashir,Hindi,2022,Sad,Blues,4.72,52,Medium,T-Series,0.597,0.52,-7.624,0.036,0.484,0.00000105,0.103,0.192,119.923
+Channa Mereya,Ae Dil Hai Mushkil ,Movie,Pritam;Arijit Singh,Hindi,2016,Sad,Blues,4.82,73,Medium,Sony Music Entertainment India Pvt. Ltd.,0.476,0.788,-4.821,0.0446,0.237,0.0000249,0.106,0.746,90.066
+Kasoor - Acoustic,Shehron Ke Raaz,Movie,Prateek Kuhad,Hindi,2021,Sad,Blues,3.56,44,Medium,Elektra (NEK),0.62,0.111,-14.142,0.0355,0.896,0.00135,0.113,0.477,127.96
+Pehli Dafa,Pehli Dafa,Movie,Atif Aslam;Shiraz Uppal;Shakeel Sohail,Hindi,2017,Romantic,Soul,4.98,77,High,T-Series,0.679,0.537,-7.843,0.0322,0.844,0.00000334,0.108,0.481,111.979
+Shukriya,Sadak 2 ,Movie,Jeet Gannguli;Jubin Nautiyal,Hindi,2020,Sad,Blues,4.75,44,Medium,Sony Music Entertainment India Pvt. Ltd.,0.341,0.321,-11.77,0.0385,0.351,0.0000148,0.106,0.158,139.118
+Dil Diyan Gallan,Tiger Zinda Hai,Movie,Vishal-Shekhar;Atif Aslam;Irshad Kamil,Hindi,2017,Romantic,Soul,4.34,68,Medium,YRF Music,0.716,0.64,-8.726,0.025,0.565,0.00139,0.127,0.485,105.012
+Kho Gaye,Mismatched: Season 2 ,Private,Taaruk Raina;Mismatched - Cast,Hindi,2022,Calm,Acoustic,3.3,67,Medium,Netflix Music,0.478,0.374,-11.627,0.0361,0.628,0.000736,0.0979,0.218,76.163
+Akhiyaan,Teri Baaton Mein Aisa Uljha Jiya,Movie,Mitraz,Hindi,2022,Romantic,Soul,3.2,65,Medium,Mitraz Records,0.724,0.618,-9.007,0.0534,0.0533,0.704,0.0886,0.0683,100.021
+Lo Maan Liya,Raaz Reboot,Movie,Arijit Singh,Hindi,2016,Sad,Blues,5,65,Medium,T-Series,0.568,0.55,-6.172,0.0262,0.728,0.0000362,0.251,0.436,110.079
+Sanu Ek Pal Chain,Raid,Movie,Rahat Fateh Ali Khan;Tanishk Bagchi;Nusrat Fateh Ali Khan;Manoj Muntashir,Hindi,2018,Romantic,Soul,3.51,63,Medium,T-Series,0.71,0.813,-6.099,0.0381,0.545,0.0000168,0.105,0.847,139.998
+Raaton,Raaton,Movie,Aditya Rikhari,Hindi,2023,Calm,Acoustic,3.34,50,Medium,T-Series,0.537,0.374,-9.385,0.047,0.779,0.00198,0.107,0.102,149.806
+Tumhe Kitna Pyaar Karte ,Bawaal,Movie,Mithoon;Arijit Singh;Manoj Muntashir,Hindi,2023,Romantic,Soul,5.09,57,Medium,T-Series,0.602,0.374,-9.849,0.0328,0.924,0.00000753,0.084,0.388,101.855
+Kabhii Tumhhe ,Shershaah,Movie,Javed-Mohsin;Darshan Raval;Rashmi Virag,Hindi,2021,Romantic,Soul,3.84,60,Medium,Sony Music Entertainment India Pvt. Ltd.,0.552,0.336,-7.466,0.0284,0.84,0.00000192,0.12,0.394,96.869
+Tere Hawaale ,Laal Singh Chaddha,Movie,Pritam;Arijit Singh;Shilpa Rao,Hindi,2022,Romantic,Soul,5.77,73,Medium,T-Series,0.589,0.522,-10.649,0.0391,0.642,0.0000274,0.0992,0.31,109.094
+Naina Da Kya Kasoor,Andhadhun ,Movie,Amit Trivedi,Hindi,2018,Happy,Pop,3.52,69,Medium,Zee Music Company,0.712,0.659,-6.348,0.0538,0.159,0.0129,0.0781,0.545,63.048
+Sajni ,Laapataa Ladies,Movie,Ram Sampath;Arijit Singh;Prashant Pandey,Hindi,2024,Sad,Blues,2.83,77,High,T-Series,0.428,0.413,-7.783,0.0281,0.827,0.00000935,0.108,0.355,79.646
+Phir Bhi Tumko Chaahunga,Half Girlfriend ,Movie,Mithoon;Manoj Muntashir;Arijit Singh;Shashaa Tirupati,Hindi,2017,Sad,Blues,5.86,73,Medium,Zee Music Company,0.528,0.524,-8.107,0.0337,0.877,0.000014,0.172,0.269,99.636
+Khairiyat Bonus Track,Chhichhore,Movie,Pritam;Arijit Singh,Hindi,2019,Sad,Blues,4.51,66,Medium,T-Series,0.605,0.655,-5.625,0.0364,0.484,0.00000113,0.152,0.597,124.974
+Tera Yaar Hoon Main ,Sonu Ke Titu Ki Sweety,Movie,Arijit Singh,Hindi,2020,Happy,Pop,4.41,59,Medium,T-Series,0.566,0.541,-5.525,0.0306,0.341,0.00000445,0.102,0.31,83.939
+Yeh Fitoor Mera,Fitoor ,Movie,Amit Trivedi;Arijit Singh,Hindi,2018,Romantic,Soul,4.72,74,Medium,Zee Music Company,0.45,0.42,-8.92,0.0272,0.386,0.000106,0.11,0.201,163.749
+Tenu Sang Rakhna ,Jigra,Movie,Achint;Arijit Singh;Anumita Nadesan;Varun Grover,Hindi,2024,Sad,Blues,4.16,70,Medium,Saregama India Ltd,0.604,0.354,-6.716,0.0249,0.845,0.000148,0.0921,0.277,110.036
+Jaane De,Qarib Qarib Singlle ,Movie,Atif Aslam;Raj Shekhar;Vishal Mishra,Hindi,2018,Sad,Blues,4.99,53,Medium,Zee Music Company,0.686,0.462,-6.202,0.0269,0.729,0.00000332,0.111,0.385,106.024
+Tay Hai,Rustom ,Movie,Ankit Tiwari;Manoj Muntashir,Hindi,2016,Energetic,Dance,3.8,60,Medium,Zee Music Company,0.393,0.293,-12.256,0.0406,0.898,0.0000145,0.112,0.153,127.302
+Jaiye Sajana,Dhurandhar The Revenge,Movie,Shashwat Sachdev;Jasmine Sandlas;Satinder Sartaaj,Hindi,2026,Romantic,Soul,3,84,High,T-Series,0.771,0.558,-12.022,0.128,0.286,0.00000934,0.102,0.235,79.994
+Tum Ho Toh ,Saiyaara,Movie,Vishal Mishra;Hansika Pareek;Raj Shekhar,Hindi,2025,Romantic,Soul,5.3,82,High,YRF Music,0.429,0.576,-10.141,0.0472,0.601,0.00000385,0.121,0.341,116.971
+Apna Bana Le,Bhediya,Movie,Sachin-Jigar;Arijit Singh;Amitabh Bhattacharya,Hindi,2022,Romantic,Soul,4.36,81,High,Zee Music Company,0.586,0.562,-7.399,0.0267,0.803,0.00000552,0.063,0.436,93.982
+Darkhaast,Shivaay,Movie,Mithoon;Arijit Singh;Sunidhi Chauhan;Sayeed Quadri,Hindi,2016,Romantic,Soul,6.24,81,High,T-Series,0.523,0.557,-7.799,0.0293,0.813,0.000581,0.0958,0.196,111.766
+Tujhko ,Cocktail - 2,Movie,Pritam;Arijit Singh;Sunidhi Chauhan;Amitabh Bhattacharya,Hindi,2026,Romantic,Soul,5.71,74,Medium,Universal Music India Pvt. Ltd. (Maddock Films Pvt. Ltd),0.435,0.544,-6.887,0.0306,0.448,0.00000706,0.0929,0.333,150.043
+Majboor,Majboor,Movie,Sheheryar Rehan;Zoha Waseem,Hindi,2025,Sad,Blues,2.42,84,High,Chakor,0.787,0.488,-8.537,0.308,0.716,0.00000913,0.144,0.368,89.999
+Ishq ,Lost;Found,Movie,Faheem Abdullah;Rauhan Malik;Amir Ameer,Hindi,2024,Romantic,Soul,3.81,72,Medium,Artiste First,0.383,0.547,-8.862,0.0275,0.423,0.0466,0.147,0.236,95.068
+Thodi Der,Half Girlfriend ,Movie,Farhan Saeed;Shreya Ghoshal;Kumaar,Hindi,2017,Romantic,Soul,4.94,72,Medium,Zee Music Company,0.517,0.456,-6.544,0.0294,0.898,0.0000225,0.0835,0.43,89.98
+Barbaad ,Saiyaara,Movie,The Rish;Jubin Nautiyal,Hindi,2025,Sad,Blues,5.95,81,High,YRF Music,0.466,0.51,-7.863,0.0319,0.379,0.00000447,0.185,0.284,93.988
+Deewaana Deewaana,Tere Ishk Mein,Movie,A.R. Rahman;Irshad Kamil,Hindi,2025,Romantic,Soul,5.62,81,High,T-Series,0.665,0.852,-5.494,0.0416,0.152,0.000413,0.337,0.745,136.012
+Saiyaara ,Saiyaara,Movie,Tanishk Bagchi;Faheem Abdullah;Arslan Nizami;Irshad Kamil,Hindi,2025,Romantic,Soul,6.18,81,High,YRF Music,0.193,0.631,-7.172,0.0404,0.495,0.0000058,0.139,0.253,77.825
+Chand Mera Dil - Title Track,Chand Mera Dil ,Movie,Sachin-Jigar;Faheem Abdullah;Amitabh Bhattacharya,Hindi,2026,Romantic,Soul,4.68,80,High,Sony Music Entertainment India Pvt. Ltd.,0.454,0.522,-7.769,0.0327,0.388,0.00000349,0.0833,0.319,154.121
+Shararat ,Dhurandhar,Movie,Shashwat Sachdev;Madhubanti Bagchi;Jasmine Sandlas,Hindi,2025,Happy,Pop,3.73,77,High,Saregama India Ltd,0.731,0.827,-5.507,0.0704,0.0142,0.0000325,0.0719,0.332,130.955
+Agar Tum Saath Ho ,Tamasha,Movie,Alka Yagnik;Arijit Singh,Hindi,2017,Sad,Blues,5.68,73,Medium,T-Series,0.562,0.519,-8.744,0.0326,0.557,0.000268,0.172,0.415,122.925
+Raanjhan ,Do Patti,Movie,Sachet-Parampara;Parampara Tandon;Kausar Munir,Hindi,2024,Sad,Blues,4,82,High,T-Series,0.444,0.49,-7.328,0.0295,0.809,0.0000296,0.107,0.2,92.107
+Mast Magan ,2 States,Movie,Arijit Singh;Chinmayi,Hindi,2019,Romantic,Soul,4.67,65,Medium,T-Series,0.659,0.774,-7.014,0.0372,0.606,0.000333,0.185,0.883,82.995
+Jaan Se Guzarte Hain,Dhurandhar The Revenge,Movie,Shashwat Sachdev;Khan Saab,Hindi,2026,Sad,Blues,5.54,80,High,T-Series,0.676,0.901,-7.758,0.0491,0.0744,0.344,0.109,0.547,107.997
+Teri Meri Kahaani,Gabbar Is Back ,Movie,Palak Muchhal;Manoj Yadav;Arijit Singh,Hindi,2018,Romantic,Soul,5.52,71,Medium,Zee Music Company,0.602,0.801,-6.537,0.0374,0.16,0.0000013,0.314,0.347,109.986
+Naal Nachna,Dhurandhar,Movie,Shashwat Sachdev;Afsana Khan;Irshad Kamil;Reble,Hindi,2025,Energetic,Dance,2.59,79,High,Saregama India Ltd,0.79,0.715,-7.881,0.0765,0.106,0.12,0.11,0.833,140.018
+Aaj Se Teri,Padman ,Movie,Amit Trivedi;Arijit Singh,Hindi,2017,Romantic,Soul,5.2,76,High,Zee Music Company,0.704,0.567,-5.703,0.0343,0.589,0.00000101,0.178,0.863,79.981
+Kyun Mazaa Aa Raha Hai ,Bandar,Movie,Vishal Mishra,Hindi,2026,Happy,Pop,3.17,61,Medium,Saregama India Ltd,0.513,0.543,-5.296,0.0305,0.675,0.00000352,0.117,0.437,107.688
+Lutt Le Gaya,Dhurandhar,Movie,Shashwat Sachdev;Simran Choudhary,Hindi,2025,Energetic,Dance,4.23,78,High,Saregama India Ltd,0.728,0.767,-7.095,0.0384,0.000482,0.46,0.115,0.119,122.025
+Toota Jo Kabhi Tara,A Flying Jatt ,Movie,Sumedha Karmahe;Atif Aslam,Hindi,2016,Romantic,Soul,5.08,75,High,Zee Music Company,0.46,0.674,-6.285,0.0356,0.422,0.0000302,0.121,0.22,139.971
+Vaaroon,Mirzapur,Movie,Anand Bhaskar;Romy;Ginny Diwan,Hindi,2020,Sad,Blues,5.85,76,High,Zee Music Company,0.555,0.526,-9.507,0.0299,0.38,0.0000487,0.106,0.34,144.939
+Sajde ,Lost;Found,Movie,Faheem Abdullah;Huzaif Nazar,Hindi,2024,Romantic,Soul,7.68,70,Medium,Artiste First,0.486,0.445,-10.623,0.0306,0.0477,0.000109,0.0949,0.229,144.025
+Mashooqa,Mashooqa ,Movie,Pritam;Mahmood;Raghav Chaitanya;Amitabh Bhattacharya;Ruaa Kayy,Hindi,2026,Energetic,Dance,3.83,75,High,Universal Music India Pvt. Ltd. (Maddock Films Pvt. Ltd),0.64,0.95,-4.282,0.0592,0.0476,0.00000185,0.135,0.816,141.905
+Sun Saathiya,ABCD 2 ,Movie,Divya Kumar;Priya Saraiya,Hindi,2018,Romantic,Soul,3.65,75,High,Zee Music Company,0.469,0.667,-7.795,0.0369,0.618,0.000141,0.141,0.266,143.978
+Aawaara Angaara,Tere Ishk Mein,Movie,A.R. Rahman;Faheem Abdullah;Irshad Kamil,Hindi,2025,Energetic,Dance,5.19,77,High,T-Series,0.391,0.443,-9.723,0.0788,0.781,0.0000154,0.0694,0.35,76.536
+Uyi Amma ,Azaad,Movie,Amit Trivedi;Madhubanti Bagchi;Amitabh Bhattacharya,Hindi,2025,Energetic,Dance,4.23,74,Medium,Zee Music Company,0.723,0.818,-6.563,0.115,0.518,0.00109,0.12,0.826,90.002
+Taras,Munjya,Movie,Sachin-Jigar;Jasmine Sandlas;Amitabh Bhattacharya,Hindi,2024,Energetic,Dance,3.15,73,Medium,Zee Music Company,0.74,0.795,-5.6,0.113,0.19,0.00176,0.458,0.647,96.958
+Tum Se ,Teri Baaton Mein Aisa Uljha Jiya,Movie,Sachin-Jigar;Raghav Chaitanya;Varun Jain;Indraneel,Hindi,2024,Romantic,Soul,4.4,76,High,T-Series,0.612,0.595,-6.356,0.0331,0.68,0.00000111,0.104,0.435,99.991
+Aayi Nai ,Stree 2,Movie,Sachin-Jigar;Pawan Singh;Simran Choudhary;Divya Kumar;Amitabh Bhattacharya,Hindi,2024,Energetic,Dance,2.98,70,Medium,Saregama India Ltd,0.862,0.645,-5.42,0.0418,0.589,0.000535,0.077,0.862,122.998
+Aaj Ki Raat ,Stree 2,Movie,Sachin-Jigar;Madhubanti Bagchi;Divya Kumar;Amitabh Bhattacharya,Hindi,2024,Energetic,Dance,3.81,75,High,Saregama India Ltd,0.702,0.853,-5.164,0.0546,0.345,0.00000419,0.126,0.643,116.027
+Jaana Samjho Na ,Bhool Bhulaiyaa 3,Movie,Aditya Rikhari;Tulsi Kumar;Lijo George-Dj Chetas,Hindi,2024,Romantic,Soul,3.54,72,Medium,T-Series,0.771,0.527,-7.601,0.0414,0.269,0.00000234,0.108,0.558,99.981
+Tumhare Hi Rahenge Hum ,Stree 2,Movie,Sachin-Jigar;Varun Jain;Shilpa Rao;Amitabh Bhattacharya,Hindi,2024,Romantic,Soul,3.83,73,Medium,Saregama India Ltd,0.674,0.516,-8.494,0.0285,0.735,0.00000982,0.0968,0.602,115.005
+Pehle Bhi Main,ANIMAL,Movie,Vishal Mishra;Raj Shekhar,Hindi,2023,Romantic,Soul,4.17,74,Medium,T-Series,0.413,0.406,-10.23,0.0353,0.768,0.00000222,0.107,0.281,76.944
+Kamariya,Stree,Movie,Aastha Gill;Sachin Sanghvi;Jigar Saraiya;Divya Kumar,Hindi,2018,Energetic,Dance,3.13,73,Medium,T-Series,0.825,0.666,-4.847,0.0554,0.143,0.00000281,0.237,0.763,96.987
+Shararat,Dhurandhar,Movie,Shashwat Sachdev;Madhubanti Bagchi;Jasmine Sandlas,Hindi,2025,Energetic,Dance,3.73,77,High,Saregama India Ltd,0.731,0.828,-5.507,0.0703,0.0142,0.0000325,0.0719,0.333,130.955
+London Thumakda ,Queen,Movie,Labh Janjua;Sonu Kakkar;Neha Kakkar,Hindi,2017,Energetic,Dance,3.84,60,Medium,T-Series,0.835,0.718,-6.614,0.0816,0.363,0.000919,0.0625,0.64,139.968
+AANKH,AANKH,Movie,Sunidhi Chauhan;Rusha & Blizza,Hindi,2024,Energetic,Dance,3.14,62,Medium,Warner Music India,0.625,0.542,-5.848,0.283,0.145,0.00000626,0.133,0.539,96.385
+Kala Chashma,Baar Baar Dekho ,Movie,Prem & Hardeep;Amar Arshi;Badshah;Neha Kakkar;Indeep Bakshi;Amrik Singh,Hindi,2016,Energetic,Dance,3.12,65,Medium,Zee Music Company,0.801,0.856,-4.233,0.065,0.0984,0.0000724,0.228,0.919,106.029
+Baby Doll ,Ragini Mms 2,Movie,Meet Bros Anjjan;Kanika Kapoor,Hindi,2020,Energetic,Dance,3.56,49,Medium,T-Series,0.836,0.839,-2.975,0.106,0.275,0.00000723,0.181,0.508,103.991
+Illegal Weapon 2.0 ,Street Dancer 3D,Movie,Jasmine Sandlas;Garry Sandhu,Hindi,2020,Energetic,Dance,3.14,49,Medium,T-Series,0.805,0.919,-1.294,0.0938,0.101,0.00343,0.0598,0.494,94.993
+Kar Gayi Chull,Kapoor & Sons (Since 1921) ,Movie,Badshah;Amaal Mallik;Fazilpuria;Sukriti Kakar;Neha Kakkar,Hindi,2016,Energetic,Dance,3.13,65,Medium,Sony Music Entertainment India Pvt. Ltd.,0.827,0.737,-5.473,0.0764,0.0316,0.000322,0.211,0.873,121.99
+Nashe Si Chadh Gayi,Befikre,Movie,Vishal-Shekhar;Arijit Singh;Caralisa Monteiro;Jaideep Sahni,Hindi,2016,Romantic,Soul,3.96,76,High,YRF Music,0.799,0.784,-5.207,0.0519,0.11,0.00000284,0.227,0.26,96.953
+Psycho Saiyaan ,Saaho,Movie,Sachet Tandon;Dhvani Bhanushali;Tanishk Bagchi,Hindi,2019,Energetic,Dance,2.77,65,Medium,T-Series,0.785,0.722,-2.604,0.158,0.0363,0.00000424,0.452,0.848,189.857
+Coca Cola ,Luka Chuppi,Movie,Tony Kakkar;Neha Kakkar;Young Desi;Tanishk Bagchi,Hindi,2019,Energetic,Dance,2.99,66,Medium,T-Series,0.722,0.867,-3.652,0.0904,0.121,0.0052,0.123,0.893,102.009
+Choli Ke Peeche ,Crew,Movie,Diljit Dosanjh;Alka Yagnik;Ila Arun;IP Singh;Akshay & IP,Hindi,2024,Energetic,Dance,2.89,66,Medium,Tips Music Limited,0.749,0.879,-3.588,0.0816,0.204,0.0000309,0.808,0.847,100.039
+Dilbar ,Satyameva Jayate,Movie,Neha Kakkar;Dhvani Bhanushali;Ikka;Tanishk Bagchi,Hindi,2018,Energetic,Dance,3.07,71,Medium,T-Series,0.725,0.912,-3.665,0.0851,0.155,0.0000768,0.107,0.674,104.054
+Tu Hi Disda ,Bhooth Bangla,Movie,Pritam;Arijit Singh;Nikhita Gandhi;Kumaar,Hindi,2026,Romantic,Soul,4.63,69,Medium,Zee Music Company,0.664,0.809,-4.486,0.0308,0.409,0.00575,0.0605,0.65,114.995
+Jaguar,King Of Kings,Movie,M Maddy,Hindi,2026,Energetic,Dance,3.6,30,Low,Songdew,0.807,0.821,-5.136,0.0511,0.106,0.00275,0.0952,0.693,100.007
+ICEBOY,,Private,Asal Kolaar;SHIV PAUL,Tamil,2026,Energetic,Dance,3.23,69,Medium,Mass Appeal,0.768,0.526,-12.779,0.33,0.418,0.00316,0.254,0.922,161.894
+Maname,,Private,Sarah Black,Tamil,2026,Calm,Acoustic,2.43,70,Medium,sarahblack2314,0.442,0.212,-11.41,0.0497,0.884,0,0.109,0.363,83.575
+IMAYE,,Private,Shabir Sulthan;Srinisha Jayaseelan;Roshan Jamrock,Tamil,2026,Romantic,Soul,3.37,64,Medium,Shabir Music Asia,0.563,0.749,-6.516,0.115,0.124,0.00000825,0.154,0.322,153.956
+Maayam Neeyadi,,Private,Harsha Vardhan;Sublahshini;Vivek,Tamil,2026,Romantic,Soul,2.94,54,Medium,Harsha Vardhan,0.528,0.428,-10.569,0.0505,0.792,0.00000726,0.166,0.576,163.862
+POCHA ,,Private,Sublahshini;Anand Kashinath,Tamil,2026,Energetic,Dance,3.55,41,Medium,Cheers Music,0.721,0.631,-9.665,0.0562,0.0165,0,0.187,0.63,140.002
+7tb Kaadhal,,Private,Sanjay Subrahmanyan;Santhosh Dhayanidhi;Madhan Karky,Tamil,2026,Romantic,Soul,4.52,21,Low,Sanjay Subrahmanyan,0.624,0.5,-10.151,0.0483,0.81,0.000667,0.101,0.238,139.929
+Kaadhal Yaathiriye ,,Private,rudh;Sanjeeta Bhattacharya;Thamizh Aadhavan,Tamil,2026,Romantic,Soul,3.17,50,Medium,Think Music,0.607,0.864,-6.473,0.152,0.265,0.0000127,0.182,0.585,95.042
+Yaen,,Private,Abhay Jodhpurkar;Varsha Gopinath;NZM,Tamil,2026,Sad,Blues,3.84,20,Low,RaaCho Music,0.61,0.549,-8.535,0.0298,0.374,0.0357,0.0857,0.266,109.933
+Orey Oru Life,,Private,Anoop Sankar,Tamil,2026,Calm,Acoustic,3.99,22,Low,Star Music,0.673,0.414,-12.7,0.0322,0.141,0.00271,0.293,0.337,95.058
+Thendralil ,,Private,Charulatha Mani,Tamil,2026,Calm,Acoustic,4.6,26,Low,Loopd,0.651,0.465,-9.515,0.0305,0.134,0.0000023,0.261,0.394,120.032
+Raajabhodai,,Private,Srivijay Ragavan;Sri Jeyanthan,Tamil,2026,Energetic,Dance,3.64,17,Low,Srivijay Ragavan,0.627,0.522,-8.434,0.0275,0.559,0,0.0993,0.378,109.987
+LOVE UNDANATHE,,Private,KARTHI;Sreejith Edavana,Tamil,2026,Romantic,Soul,4.04,18,Low,Sreejith Edavana Records,0.455,0.419,-14.279,0.0943,0.39,0.000293,0.215,0.545,95.041
+Oyaamaley,,Private,Adithya RK;Samanwitha Prashanth;A K PRRIYAN;Sowhmya Rajesh,Tamil,2026,Romantic,Soul,3.25,22,Low,Sun Surya Music,0.622,0.769,-6.309,0.101,0.376,0.00225,0.717,0.589,150.015
+Fancy Store ,,Private,ofRO;Kelithee,Tamil,2026,Happy,Pop,3.29,37,Low,Atti Culture,0.556,0.53,-7.8,0.377,0.186,0.0000211,0.369,0.26,85.276
+ANBIYE,,Private,Benny Dayal;Rozario;Pa Hariharan,Tamil,2026,Romantic,Soul,3.05,17,Low,Handpick Records,0.666,0.663,-6.823,0.232,0.148,0.0572,0.0884,0.549,174.016
+Naa Enna Pannen,,Private,Saisharan,Tamil,2026,Sad,Blues,3.07,21,Low,Noizbloc Private Limited,0.502,0.457,-7.649,0.0287,0.742,0,0.0884,0.335,82.091
+Vizhiyale ,,Private,Naveed Rehman;Saindhavi,Tamil,2026,Romantic,Soul,4,17,Low,Universal Music India Pvt Ltd. – Distribution,0.618,0.304,-11.959,0.0338,0.798,0,0.0952,0.575,120.12
+Neeyedhan,,Private,NV Vigneshwer Karthik;Alexandra Joy,Tamil,2026,Romantic,Soul,3.06,20,Low,NV Records,0.674,0.441,-7.739,0.0868,0.367,0.00000417,0.0781,0.834,180.185
+Smitas Bhimavaram Beat (Tamil),,Private,Noel Sean;Smita,Tamil,2026,Happy,Pop,3.42,17,Low,Aditya Music (India) Pvt Ltd,0.489,0.875,-9.559,0.204,0.41,0.252,0.34,0.652,82.488
+"Kadhol - From ""Think Indie""",,Private,Urban Thozha;Praveen PKP,Tamil,2026,Romantic,Soul,2.3,26,Low,Think Music,0.853,0.847,-5.125,0.0575,0.55,0.314,0.0499,0.972,114.975
+Maalai Pozhudhil,,Private,Sathyaprakash,Tamil,2026,Calm,Acoustic,4.18,15,Low,Sathyaprakash,0.613,0.525,-8.672,0.0423,0.778,0.0265,0.102,0.536,85.037
+Hey Raasathi,,Private,Samson P Moses;Sam Vishal,Tamil,2026,Romantic,Soul,4.49,12,Low,Saregama India Ltd,0.635,0.606,-6.096,0.0401,0.359,0.0203,0.069,0.712,81.995
+Theeradha,,Private,Luksimi Sivaneswaralingam,Tamil,2026,Sad,Blues,3.44,15,Low,Luksimi Sivaneswaralingam,0.663,0.498,-9.73,0.0615,0.59,0.0834,0.227,0.214,99.974
+Feeka,,Private,gini;NEVERSOBER,Hindi,2026,Sad,Blues,2.73,53,Medium,Sony Music India / Brown,0.677,0.464,-5.413,0.0336,0.657,0,0.0788,0.518,79.992
+Na Jaaney Kyun,,Private,Midival Punditz;Papon,Hindi,2026,Calm,Acoustic,3.3,40,Medium,Gravity Sounds,0.56,0.449,-11.474,0.0492,0.243,0.000949,0.0714,0.568,79.954
+Dil Se,,Private,Yawar Abdal,Hindi,2026,Romantic,Soul,4.29,46,Medium,Universal Music India Pvt Ltd.,0.44,0.508,-9.611,0.0411,0.677,0.0011,0.388,0.358,144.005
+Zarii,,Private,rohh;Mr. Doss;Prateeksha Srivastava,Hindi,2026,Romantic,Soul,2.85,38,Low,Graduation,0.516,0.361,-9.495,0.084,0.426,0.0159,0.0832,0.293,159.829
+Aasmani,,Private,Samad Khan,Hindi,2026,Calm,Acoustic,3.33,57,Medium,Universal Music India Pvt Ltd.,0.764,0.505,-7.261,0.0353,0.723,0.00159,0.088,0.651,111.99
+Mere Qareeb,,Private,Neyhal;Ramil Ganjoo,Hindi,2026,Romantic,Soul,3.74,36,Low,Universal Music India Pvt Ltd.,0.629,0.484,-6.747,0.0384,0.18,0.00000186,0.0992,0.341,109.992
+Chand Takiye,,Private,Ankur Tewari;Kausar Munir,Hindi,2026,Calm,Acoustic,3.47,32,Low,Ankur Tewari,0.664,0.274,-10.484,0.0357,0.8,0.422,0.106,0.225,139.865
+Angane,,Private,Reyan;Melvin;ThirumaLi;ThudWiser,Malayalam,2026,Happy,Pop,4.04,41,Medium,MHB Records,0.493,0.582,-6.959,0.116,0.0182,0,0.135,0.718,127.928
+Luv Panlam,,Private,Zaran;Retro,Tamil,2026,Happy,Pop,2.24,24,Low,ZMG,0.456,0.44,-9.349,0.0654,0.863,0.000276,0.134,0.637,132.99
+Paatha Edathila,,Private,808Krshna;Sublahshini;Adesh Krishna,Tamil,2026,Energetic,Dance,3.22,50,Medium,Universal Music India Pvt Ltd.,0.699,0.659,-5.479,0.161,0.477,0.00000823,0.0988,0.537,125.119
+Waistline (Bonus),,Private,Clickz;3D Sound,Tamil,2026,Happy,Pop,2.2,37,Low,3d Sound,0.645,0.613,-10.703,0.0322,0.0664,0.00118,0.556,0.548,104.037
+Nonsense,,Private,ThirumaLi;Elisha Abraham;S. Janaki;Jay Stellar;Ilaiyaraaja,Tamil,2026,Energetic,Dance,3.03,28,Low,Saregama India Ltd,0.774,0.827,-5.511,0.133,0.067,0.000109,0.16,0.407,99.006
+2033 (Bonus),,Private,Clickz;3D Sound;BSP,Tamil,2026,Happy,Pop,2.04,31,Low,3d Sound,0.417,0.676,-8.68,0.0492,0.0166,0.0247,0.179,0.514,91.36
+manase,,Private,cavya sound;Pritt;dilushselva,Tamil,2026,Romantic,Soul,3.51,44,Medium,cavya sound,0.618,0.702,-8.187,0.0557,0.0755,0.0489,0.11,0.185,105.033
+Dhiruthi,,Private,Reyan,Tamil,2026,Calm,Acoustic,2.43,46,Medium,VYZE X TMG,0.732,0.529,-6.23,0.134,0.768,0.0779,0.111,0.704,101.994
+Luv Panlam 2.0,,Private,PravZ;Zaran;Retro,Tamil,2026,Happy,Pop,2,32,Low,PravZ,0.63,0.725,-8.694,0.081,0.227,0.0179,0.24,0.555,100
+Maayam (feat. Pritt),,Private,Arthi;Pritt;Lamsi,Tamil,2026,Romantic,Soul,2.98,35,Low,FABRICLIVE.,0.654,0.897,-5.188,0.0648,0.0504,0.803,0.32,0.778,139.968
+Urimena,,Private,Priyesh Mothukuri;Raazi,Telugu,2022,Romantic,Soul,3.33,48,Medium,AUDIO CASSETTE RECORDS,0.598,0.456,-9.257,0.029,0.676,0,0.0839,0.539,119.944
+Niluvanivvade,,Private,Vijai Bulganin,Telugu,2026,Romantic,Soul,5.45,52,Medium,Vijai Bulganin,0.646,0.818,-4.944,0.0631,0.186,0.0502,0.189,0.532,84.989
+Oh Kshnam Navvune Visuru,,Private,Meghana;Vijai Bulganin,Telugu,2021,Romantic,Soul,4.11,49,Medium,MRT Music,0.664,0.416,-11.879,0.0596,0.381,0.00000654,0.0916,0.443,93.986
+Emone,,Private,Vijai Bulganin;Aditi Bhavaraju,Telugu,2023,Romantic,Soul,5.47,51,Medium,Vijai Bulganin,0.663,0.441,-9.225,0.0345,0.767,0.00000459,0.135,0.347,133.965
+Malupu,,Private,Manish Kumar,Telugu,2021,Sad,Blues,4.94,47,Medium,Infinitum Music,0.534,0.601,-7.716,0.0283,0.198,0,0.0849,0.42,139.96
+Ayyayyo,,Private,The Fantasia Men;Suresh Banisetti,Telugu,2023,Sad,Blues,4.5,42,Medium,Sony Music Entertainment India Pvt. Ltd.,0.542,0.54,-6.934,0.0311,0.372,0,0.184,0.449,115.043
+The Student Anthem,,Private,Anivee;Inno Genga;Sambhavam,Telugu,2023,Energetic,Dance,3.02,28,Low,Infinitum Music,0.96,0.924,-8.202,0.172,0.323,0.000395,0.304,0.649,123.986
+Toyiba,,Private,Vijai Bulganin,Telugu,2021,Romantic,Soul,4.91,36,Low,Vijai Bulganin,0.771,0.836,-7.334,0.113,0.461,0.0000525,0.181,0.413,107.976
+Lollipop,,Private,Sid Sriram,Telugu,2022,Romantic,Soul,5.48,44,Medium,Imagespark Entertainment LLP,0.612,0.562,-7.247,0.043,0.343,0.00000113,0.126,0.392,79.982
+Ammadi,,Private,Nutana Mohan;Vijai Bulganin,Telugu,2021,Romantic,Soul,5.52,0,Low,Tamada Media Pvt Ltd,0.719,0.564,-10.994,0.0539,0.306,0.0000696,0.0941,0.531,107.95
+Myra,,Private,Vijai Bulganin;Sindhuja Srinivasan,Telugu,2023,Romantic,Soul,4.35,35,Low,Vijai Bulganin,0.733,0.607,-9.637,0.0354,0.791,0.0000111,0.07,0.53,108
+Yemaiundacho,,Private,Vijai Bulganin,Telugu,2022,Sad,Blues,5.43,54,Medium,Sony Music Entertainment India Pvt. Ltd.,0.69,0.589,-8.603,0.0313,0.146,0,0.102,0.464,119.98
+Oh Pilla,,Private,Haricharan;Harini Ivaturi;The Fantasia Men,Telugu,2022,Romantic,Soul,5.14,44,Medium,Imagespark Entertainment LLP,0.583,0.662,-6.889,0.0372,0.471,0,0.615,0.33,130.98
+Vennela,,Private,Vijai Bulganin;Sindhuja Srinivasan;Adithya RK,Telugu,2023,Romantic,Soul,5.4,39,Low,Vijai Bulganin,0.416,0.532,-10.298,0.0342,0.621,0.00853,0.109,0.475,104.947
+MAYA CHESESAVE,,Private,Afroz Ali;Syed Sohel Ryan;Lavanya Anthanna;CNU BEATS,Telugu,2022,Romantic,Soul,3.81,46,Medium,Afroz Ali,0.588,0.511,-10.676,0.0418,0.149,0,0.156,0.33,150.055
+Neetho Unta,,Private,Ajay Arasada,Telugu,2021,Romantic,Soul,3.84,49,Medium,Infinitum Music,0.619,0.523,-6.931,0.0264,0.409,0,0.104,0.487,86.02
+Priyathama,,Private,Sekhar Chandhra;Sid Sriram,Telugu,2022,Romantic,Soul,3.69,56,Medium,Aditya Music,0.335,0.536,-6.873,0.0485,0.327,0.00000314,0.567,0.19,195.068
+Gayam Chesesave,,Private,Ishaq Vali;Kalyan Nayak,Telugu,2019,Sad,Blues,5.05,42,Medium,Various Artists,0.779,0.521,-8.001,0.0283,0.774,0.00395,0.129,0.371,119.998
+Memem Chesamu Preminchesamu,,Private,Bharath Bandaru;Rohini Rachel,Telugu,2019,Happy,Pop,1.71,46,Medium,Anwitha Creations,0.355,0.479,-8.883,0.0537,0.941,0.000003,0.111,0.578,183.855
+Manasa Nuvvu Vinava,,Private,Priyesh Mothukuri;Raazi,Telugu,2022,Romantic,Soul,3.25,43,Medium,AUDIO CASSETTE RECORDS,0.539,0.333,-11.404,0.033,0.918,0.000706,0.117,0.483,120.217
+GANGA RAAJU,,Private,Vanila Gujjeti;Hanumanth Yadav,Telugu,2025,Energetic,Dance,4.1,55,Medium,Mas Dj Songs,0.783,0.853,-8.858,0.149,0.542,0.000209,0.318,0.916,77.514
+Pori Rayee Jathara,,Private,Prabha,Telugu,2026,Energetic,Dance,4.66,58,Medium,TARAK BEATS,0.94,0.966,-2.286,0.176,0.632,0.0115,0.254,0.859,134.035
+Raindance (feat. Tems),,Private,Dave;Tems,English,2025,Happy,Pop,3.66,96,High,Neighbourhood,0.796,0.741,-6.815,0.0789,0.236,0.0619,0.103,0.249,107
+Pavazha Malli ,,Private,Sai Abhyankkar;Shruti Haasan;Vivek,Tamil,2026,Romantic,Soul,4.21,85,High,Think Music,0.481,0.795,-6.398,0.134,0.413,0.0000771,0.187,0.75,139.047
+Khat,,Private,Navjot Ahuja,Hindi,2025,Sad,Blues,4.94,86,High,EYP Creations,0.593,0.413,-10.334,0.0352,0.765,0.000232,0.11,0.123,134.989
+Finding Her,,Private,Kushagra;Bharath;Saaheal,Hindi,2025,Romantic,Soul,3.45,86,High,EYP Creations,0.558,0.378,-6.419,0.0526,0.894,0.00000232,0.0799,0.44,170.195
+Bairan,,Private,Banjaare,Hindi,2026,Sad,Blues,2.51,90,High,Sony Music India / Brown,0.663,0.605,-7.028,0.0354,0.0954,0.00000509,0.253,0.481,139.88
+Sahiba,,Private,Aditya Rikhari,Hindi,2023,Romantic,Soul,3.17,86,High,T-Series,0.675,0.432,-9.076,0.0332,0.551,0,0.0772,0.431,100.007
+CHANEL,,Private,Tyla,English,2025,Happy,Pop,3.13,86,High,Epic,0.861,0.77,-4.977,0.0529,0.133,0,0.446,0.883,114.958
+Haseen,,Private,Talwiinder;NDS;Rippy Grewal,Hindi,2025,Romantic,Soul,2.91,81,High,Talwiinder,0.461,0.455,-6.819,0.16,0.775,0,0.104,0.397,175.669
+death bed (coffee for your head),,Private,Powfu;beabadoobee,English,2020,Sad,Blues,2.89,83,High,Columbia,0.726,0.431,-8.765,0.135,0.731,0,0.696,0.348,144.026
+Aasa Kooda ,,Private,Sai Abhyankkar;Sai Smriti,Tamil,2024,Romantic,Soul,3.59,74,Medium,Think Music,0.675,0.537,-9.401,0.0352,0.48,0.00112,0.12,0.534,98.003
+Sithira Puthiri ,,Private,Sai Abhyankkar;Vivek,Tamil,2025,Romantic,Soul,3.77,70,Medium,Think Music,0.467,0.723,-7.539,0.146,0.247,0,0.364,0.316,105.093
+Katchi Sera ,,Private,Sai Abhyankkar,Tamil,2024,Energetic,Dance,3.03,72,Medium,Think Music,0.765,0.642,-8.48,0.115,0.243,0.00104,0.339,0.822,148.465
+KALYANI,,Private,ARJN;KDS;FIFTY4;RONN,Malayalam,2025,Happy,Pop,3.91,78,High,Universal Music India Pvt Ltd.,0.632,0.726,-7.5,0.192,0.415,0.0327,0.102,0.436,195.917
+Paro,,Private,Aditya Rikhari;UNPLG'd,Hindi,2024,Romantic,Soul,1.17,79,High,Universal Music India Pvt Ltd.,0.694,0.292,-9.85,0.139,0.907,0,0.143,0.733,150.495
+bargad,,Private,sufr;Arpit Bala;toorjo dey,Hindi,2025,Calm,Acoustic,2.92,75,High,Sony Music India / Brown,0.378,0.715,-4.303,0.224,0.294,0,0.331,0.6,76.244
+Dekha Hi Nahi,,Private,Osho Jain,Hindi,2024,Sad,Blues,3.68,71,Medium,Osho Jain,0.569,0.221,-12.755,0.0595,0.791,0,0.101,0.384,156.24
+Co2,,Private,Prateek Kuhad,Hindi,2022,Sad,Blues,2.73,72,Medium,Elektra (NEK),0.533,0.678,-5.244,0.0256,0.663,0,0.145,0.683,80.96
+Baarishein,,Private,Anuv Jain,Hindi,2018,Romantic,Soul,3.46,76,High,Universal Music India Pvt. Ltd. (on behalf of Anuv Jain),0.476,0.124,-9.463,0.0443,0.927,0,0.0972,0.19,94.299
+Husn,,Private,Anuv Jain,Hindi,2023,Romantic,Soul,3.63,78,High,Universal Music India Pvt. Ltd. (on behalf of Anuv Jain),0.527,0.376,-9.974,0.0298,0.682,0,0.142,0.24,151.928
+Dhundhala,,Private,Yashraj;Dropped Out;Talwiinder,Hindi,2022,Sad,Blues,3.04,71,Medium,Universal Music India Pvt. Ltd. (on behalf of Yashraj),0.641,0.449,-9.568,0.162,0.133,0.0000639,0.139,0.491,99.899
+Paaro,,Private,Aditya Rikhari,Hindi,2024,Romantic,Soul,2.55,72,Medium,Universal Music India Pvt Ltd.,0.623,0.424,-10.633,0.0665,0.552,0.0000033,0.167,0.425,140.052
+Aarzu,,Private,Noor;Khan;Madhurxo,Hindi,2025,Romantic,Soul,3.13,79,High,Universal Music India Pvt Ltd.,0.694,0.384,-12.613,0.146,0.673,0.0024,0.356,0.377,105.019
+Zulfein,,Private,Mehul Mahesh;Dj AYnik,Hindi,2025,Romantic,Soul,3.31,74,Medium,Beatop Records,0.895,0.562,-5.41,0.075,0.0656,0.000898,0.0926,0.561,99.015
+Thattukolede,,Private,Vijai Bulganin;Sindhuja Srinivasan,Telugu,2021,Romantic,Soul,4.74,62,Medium,MRT Music,0.652,0.477,-10.388,0.0325,0.428,0,0.131,0.325,129.985
+Vellake,,Private,Bharatt-Saurabh;Yazin Nizar;Anirudh Ravichander;Suresh Banisetti,Telugu,2023,Happy,Pop,3.63,63,Medium,Sony Music Entertainment India Pvt. Ltd.,0.652,0.626,-7.619,0.0339,0.684,0.0000181,0.152,0.444,147.03
+Malle Chettu,,Private,Boddu Dilip Kumar;Kalyan Keys,Telugu,2026,Calm,Acoustic,5.49,64,Medium,Anjana Music,0.617,0.916,-5.572,0.0881,0.319,0.0000105,0.0694,0.815,176.93
+Mamidi Konala Meena Mabbulemo Nilichinayi,,Private,Madhu Priya;Nagavva chunchu;Kalyan Keys,Telugu,2026,Happy,Pop,4.06,64,Medium,Hamara Villages,0.727,0.965,-1.525,0.113,0.632,0,0.362,0.861,143.942
+Vari Vari (Unna Kaadhaliche),,Private,Dhee;Santhosh,Telugu,2026,Romantic,Soul,3.36,67,Medium,Visva Records,0.805,0.522,-6.66,0.217,0.677,0.0000692,0.134,0.695,120.667
+Nimmathota Vanamulo DJ,,Private,Singer Prabha,Telugu,2025,Energetic,Dance,4,60,Medium,N Music,0.773,0.99,-0.837,0.0914,0.0914,0.736,0.064,0.843,138.026
+Nenjin Ezhuth,,Private,Adarsh Krishnan N;Vidya Lakshmi G,Tamil,2022,Romantic,Soul,3.82,65,Medium,Sony Music Entertainment India Pvt. Ltd.,0.522,0.533,-10.352,0.0369,0.806,0.0000245,0.0939,0.355,133.989
+Maara Makka ,,Private,rudh,Tamil,2025,Energetic,Dance,2.73,60,Medium,Think Music,0.68,0.634,-9.346,0.331,0.788,0.0000545,0.217,0.625,132.195
+Orasaadha - Madras Gig,,Private,Vivek - Mervin;Ku Karthik,Tamil,2018,Romantic,Soul,3.93,68,Medium,Sony Music Entertainment India Pvt. Ltd.,0.587,0.776,-4.892,0.0807,0.141,0,0.109,0.606,159.906
+Pogiren,,Private,Mugen Rao;Prashan Sean,Tamil,2017,Sad,Blues,4.06,61,Medium,Irama Bayu Production,0.455,0.774,-7.744,0.0569,0.843,0,0.131,0.215,142.032
+NERA,,Private,ARJN;KDS;RONN,Hindi,2025,Energetic,Dance,3.56,65,Medium,Universal Music India Pvt Ltd.,0.868,0.722,-5.517,0.116,0.285,0.00736,0.203,0.801,110.033
+SHERIYA,,Private,ARJN;KDS;RONN,Hindi,2025,Energetic,Dance,3.18,68,Medium,Universal Music India Pvt Ltd.,0.782,0.745,-6.589,0.237,0.158,0.00000192,0.296,0.286,98.045
+Bye,,Private,Aditya Bhardwaj,Hindi,2022,Sad,Blues,2.9,68,Medium,Warner Music India,0.571,0.814,-7.515,0.121,0.0433,0.0000873,0.0762,0.461,168.064
+Kehne Lagaa,,Private,Rushil Aswal,Hindi,2024,Romantic,Soul,4.39,63,Medium,Mashooriya Originals,0.591,0.414,-15.752,0.0403,0.85,0.000421,0.106,0.615,99.809
+Leja,,Private,Lost Stories;JAI DHIR,Hindi,2023,Happy,Pop,3.3,63,Medium,Universal Music India Pvt. Ltd. (on behalf of Bombay Electric Collective),0.588,0.553,-8.05,0.0396,0.157,0.0000609,0.233,0.17,102.967
+Baarish Mein Phir,,Private,Saahel,Hindi,2025,Romantic,Soul,2.95,66,Medium,Universal Music India Pvt. Ltd. (on behalf of Saahel),0.642,0.612,-6.846,0.0359,0.527,0.00043,0.258,0.144,132.997
+nadaaniyan,,Private,Akshath,Hindi,2024,Romantic,Soul,2.85,69,Medium,Universal Music India Pvt Ltd.,0.698,0.334,-6.297,0.0291,0.721,0,0.0836,0.694,94.123
+Banda Kaam Ka,,Private,Chaar Diwaari;Sanjith Hegde,Hindi,2025,Energetic,Dance,4.15,68,Medium,Universal Music India Pvt Ltd.,0.778,0.622,-7.839,0.18,0.411,0.00000119,0.549,0.752,114.018
+Savera,,Private,Iqlipse Nova;Anubha Bajaj,Hindi,2024,Calm,Acoustic,2.39,63,Medium,Sony Music India / Brown,0.775,0.418,-10.342,0.0327,0.527,0,0.108,0.822,108.057
+Farq hai,,Private,Suzonn,Hindi,2020,Sad,Blues,3.07,60,Medium,Suzonn,0.8,0.209,-12.652,0.0408,0.865,0.0000411,0.252,0.74,87.972
+Alfaazo,,Private,Mitraz,Hindi,2023,Romantic,Soul,2.64,61,Medium,Sony Music / Big Bang Records Pvt. Ltd.,0.688,0.523,-8.67,0.0349,0.365,0.0038,0.122,0.284,100.055
+Waqt Ki Baatein,,Private,Dream Note,Hindi,2018,Calm,Acoustic,4.06,61,Medium,Dream Note,0.556,0.202,-16.397,0.0324,0.915,0.0381,0.112,0.2,145.017
+Kaahe Mose,,Private,Garvit - Priyansh;Garvit Soni;Priyansh Srivastava,Hindi,2025,Calm,Acoustic,3.65,66,Medium,T-Series,0.572,0.569,-7.982,0.0312,0.0428,0,0.236,0.292,108.049
+Faasle,,Private,Aditya Rikhari,Hindi,2021,Sad,Blues,3.7,69,Medium,CollabX Productions,0.645,0.324,-13.621,0.0545,0.754,0.000727,0.103,0.493,162.037
+Paiya Dei ,,Private,Asal Kolaar;Anand Kashinath,Tamil,2024,Energetic,Dance,2.59,64,Medium,Think Music,0.815,0.752,-5.939,0.302,0.414,0.000211,0.33,0.489,100.089
+Champagini ,,Private,Asal Kolaar;Urban Thozha,Tamil,2025,Energetic,Dance,1.94,60,Medium,Think Music,0.594,0.848,-6.033,0.396,0.413,0.000326,0.0664,0.828,145.884
